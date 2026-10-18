@@ -1,0 +1,28 @@
+# Parecer complementar — pe-juizados
+
+Data-base: 18/10/2026 · Complemento limitado aos cinco IDs solicitados.
+
+## Resumo
+
+5 itens: 1 `confere`, 2 `corrigir`, 0 `divergente` e 2 `não verificável`.
+Correções: 0 de gravidade alta, 2 média e 0 baixa.
+Este complemento substitui somente os vereditos dos IDs abaixo.
+Comparação restrita às parcelas aceitas nas conferências fornecidas; nenhuma consulta externa realizada.
+Os itens não verificáveis permanecem como estão, sem correção por falta de prova.
+
+## Comparação
+
+| ID | Afirmação (copiada da ficha) | Veredito | Gravidade | O que a fonte diz | Fonte | Redação sugerida |
+|---|---|---|---|---|---|---|
+| pe-juizados-001 | Os Juizados existem para causas menores e simples, com rito oral e rápido. | confere | — | A complementação aceita confirma, na página oficial do STF, a referência às causas cíveis de menor complexidade e aos procedimentos oral e sumaríssimo. O resumo do RE 586.789 reforça simplificação e duração razoável. A introdução é compatível com esse conteúdo; não apresenta uma enumeração exaustiva das competências. A aceitação não equivale à recuperação da fonte legislativa do Planalto anteriormente inacessível. | [STF — art. 98 e RE 586.789](https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=98&abrirBase=CF) | — |
+| pe-juizados-018 | Não cabem no Juizado as causas relativas a resíduos (herança). | não verificável | — | A pesquisa de lei aceita confirma a exclusão das causas relativas a resíduos, mas não explica o termo nem confirma sua equivalência a “herança”. A segunda pesquisa não foi verificável e tampouco ofereceu definição específica. Permanece a lacuna sobre o parêntese, sem prova aceita de erro. Manter a afirmação como está. | [Lei 9.099/95, art. 3º, § 2º — suporte parcial](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm) | — |
+| pe-juizados-020 | Não cabem no Juizado as ações de procedimento especial, como a monitória. | não verificável | — | A primeira conferência aceitou o Enunciado 8 como orientação, mas não a conclusão específica sobre monitória; registrou também o Enunciado 155 sobre embargos de terceiro. A segunda pesquisa recebeu resultado não verificável. O julgado sobre consignação incidental não pode fundamentar o veredito, pois não foi aceito, nem resolveria por si o cabimento da monitória. Não há nova prova aceita que justifique corrigir a afirmação. | [FONAJE, Enunciados 8 e 155 — suporte parcial](https://fonaje.amb.com.br/enunciados/) | — |
+| pe-juizados-021 | Não cabe no Juizado a causa que exige perícia complexa; a complexidade se mede pela prova, não pelo direito material. | corrigir | média | O RMS 30.170/SC rejeita a necessidade de perícia como fundamento isolado de incompetência e admite prova técnica simplificada. O trecho aceito do RE 537.427 considera a causa de pedir e a defesa e reconhece complexidade excludente no caso de tabagismo. O critério do objeto da prova consta do Enunciado 54 como orientação do FONAJE. A aula reúne esses pontos em uma exclusão geral, sem distinguir orientação e análise concreta. A correção é média porque acrescenta qualificações relevantes; não se demonstrou que toda exclusão por complexidade seja errada. Os trechos aceitos não comprovam soluções opostas para a mesma hipótese, nem uma posição majoritária que autorize suprimir um dos entendimentos. | [STJ — RMS 30.170/SC](https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20101013&formato=HTML&nreg=200901520081&salvar=false&seq=1009361&tipo=0); [STF — art. 98, RE 537.427](https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=98&abrirBase=CF); [FONAJE, Enunciado 54](https://fonaje.amb.com.br/enunciados/) | A necessidade de perícia, por si só, não afasta o JEC, que admite prova técnica simplificada (STJ, RMS 30.170/SC). No RE 537.427, sobre tabagismo, o STF reconheceu complexidade técnico-pericial incompatível com o Juizado, considerando a causa de pedir e a defesa. Como orientação, o Enunciado 54 do FONAJE afere a menor complexidade pelo objeto da prova, não pelo direito material. |
+| pe-juizados-033 | A citação por edital é admitida na execução no Juizado. | corrigir | média | A segunda pesquisa não trouxe precedente verificável que resolva a questão. A correção decorre da contradição interna e da lei já aceita: a aula apresenta o edital como exceção geral na execução, mas determina a extinção quando o devedor não é encontrado. O art. 18, § 2º, veda edital; o art. 53, § 4º, prevê extinção na execução de título extrajudicial. A pesquisa do Enunciado 37 recebeu “conflito entre fontes”, não aceitação. Conforme a instrução específica para contradições internas, retirar o parêntese “admitido na execução: FONAJE 37”. Isso não declara inexistente a orientação do FONAJE nem atribui solução ao STF/STJ. Gravidade média pela apresentação de exceção sem delimitação, em conflito com outra regra da aula. | [Lei 9.099/95, arts. 18, § 2º, e 53, § 4º — pesquisa de lei aceita](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm) | A Lei 9.099/95 veda a citação por edital (art. 18, § 2º). Na execução de título extrajudicial, não encontrado o devedor, o art. 53, § 4º, prevê a extinção do processo. |
+
+## Para o Joaquim decidir
+
+- **pe-juizados-018:** decidir se solicita pesquisa específica sobre o significado de “resíduos” e sua relação com a explicação “herança”; até lá, manter o texto.
+- **pe-juizados-020:** decidir se solicita pesquisa específica sobre monitória no JEC e o alcance da orientação do Enunciado 8; até lá, manter o texto.
+
+Não há veredito `divergente` nem citação doutrinária entre os cinco IDs examinados.
