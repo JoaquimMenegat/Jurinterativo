@@ -38,8 +38,15 @@ const mod = ctx.window.COURSE.mods.find(m => m.id === idCurto);
 if (!mod) { console.error(`Aula não encontrada: ${idCurto}`); process.exit(1); }
 
 const limpa = s => String(s).replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
+// Arquivo onde a aula começa: os blocos são procurados primeiro nele, depois a partir da linha da aula.
+const arqAula = Object.keys(fontes).find(f => fontes[f].some(l => l.includes(`id:\`${idCurto}\``)));
+const linhaAula = arqAula ? fontes[arqAula].findIndex(l => l.includes(`id:\`${idCurto}\``)) : 0;
 const ondeEsta = trecho => {
   const alvo = String(trecho).slice(0, 40);
+  if (arqAula) {
+    const i = fontes[arqAula].findIndex((l, n) => n >= linhaAula && l.includes(alvo));
+    if (i >= 0) return `${arqAula}:${i + 1}`;
+  }
   for (const [f, linhas] of Object.entries(fontes)) {
     const i = linhas.findIndex(l => l.includes(alvo));
     if (i >= 0) return `${f}:${i + 1}`;

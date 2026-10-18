@@ -1,0 +1,73 @@
+# Conferência — pe-admissibilidade
+
+Data-base: **17/10/2026**. Conferência e consultas: **18/10/2026**.
+
+Exame restrito às perguntas e às pesquisas fornecidas. As aceitações parciais abrangem apenas os trechos indicados. Não representam veredito sobre a aula.
+
+| ID | Pesquisa | Resultado | Link aberto por mim? | Motivo / observação |
+|---|---|---|---|---|
+| pe-admissibilidade-002 | Lei | aceita | Sim — [CPC] | Arts. 10, 932, III e parágrafo único, 933 e 1.010, § 3º, sustentam o núcleo. A referência ao saneamento deve permanecer limitada a vícios sanáveis; não autoriza sanar indistintamente qualquer requisito. |
+| pe-admissibilidade-005 | Lei | aceita | Sim — [CPC]; [JEC] | Art. 994 confirma a enumeração; art. 41 da Lei 9.099 confirma recurso previsto em legislação especial. Aceitação não abrange conclusão sobre taxatividade, expressamente deixada em aberto. |
+| pe-admissibilidade-006 | Lei | aceita | Sim — [CPC] | Art. 996, caput e parágrafo único, sustenta os legitimados e a demonstração exigida do terceiro. |
+| pe-admissibilidade-007 | Lei | aceita | Sim — [EAOAB]; [CPC] | Art. 23 do Estatuto e arts. 85, § 14, e 99, § 5º, do CPC sustentam a parte legal. Lacuna para jurisprudência quanto à legitimidade recursal em nome próprio, respondida na pesquisa correspondente. |
+| pe-admissibilidade-007 | Jurisprudência | aceita | Sim — notícias de [2021][J007a] e [2023][J007b]; [Tema 1.242] | As notícias sustentam a legitimidade do advogado e o precedente sobre legitimidade concorrente. A página do tema permanece como “Afetado”, sem julgamento, com suspensão delimitada. Não tratar a legitimidade concorrente como tese repetitiva já firmada. |
+| pe-admissibilidade-008 | Lei | aceita | Sim — [CPC]; [Lei 15.484/2026] | Art. 138, §§ 1º e 3º, confirma as exceções recursais. A manifestação prevista no art. 1.035-A, § 5º, não foi confundida com recurso. |
+| pe-admissibilidade-010 | Jurisprudência | devolvida | Sim — [SCON], apenas página inicial | Falta precedente que responda ao interesse do réu e à distinção conforme tenha pedido a extinção. O bloqueio relatado pelo pesquisador não se repetiu na abertura da página inicial; isso não equivale a localizar julgado nem comprova acesso integral à base. |
+| pe-admissibilidade-011 | Lei | aceita | Sim — [CPC]; [JEC] | Sustentados os dispositivos sobre homologação, aquiescência, anulação e Juizados. Lacuna para jurisprudência quanto ao recurso da própria parte e suas exceções. |
+| pe-admissibilidade-011 | Jurisprudência | devolvida | Sim — [notícia de 2026][J011a]; [REsp 1.845.558][J011b] | Os documentos tratam de anulação de acordo e, no segundo caso, de fraude à execução. Não respondem ao cabimento de recurso da parte que celebrou o acordo nem às exceções. Falta fonte pertinente a essas questões; a observação sobre ação anulatória permanece apenas como informação adjacente. |
+| pe-admissibilidade-012 | Lei | aceita | Sim — [CPC]; [JEC] | Arts. 1.003, 219, 224 e 231 sustentam prazo, titular e termo inicial. A referência ao primeiro dia útil após a publicação deve ser lida na modalidade de intimação por publicação, preservadas as outras modalidades indicadas na pesquisa. |
+| pe-admissibilidade-013 | Lei | aceita | Sim — [CPC]; [JEC] | Arts. 1.023, 219 e 1.003 sustentam a resposta. A remissão ao art. 229 incorpora suas condições: escritórios distintos e inaplicabilidade aos autos eletrônicos. |
+| pe-admissibilidade-014 | Lei | aceita | Sim — [CPC] | Arts. 180, 183, 186 e 229 sustentam os benefícios e exceções. O art. 186, § 3º, estende o caput às entidades indicadas; não sustenta, sozinho, extensão da intimação pessoal prevista no § 1º. A aceitação não abrange essa eventual generalização. |
+| pe-admissibilidade-015 | Lei | aceita | Sim — [CPC]; [Lei 14.939/2024] | Confirmados a redação do § 6º, o dever de correção e a alternativa referente ao processo eletrônico. Art. 2º e nota de publicação confirmam vigência desde 31/07/2024. |
+| pe-admissibilidade-016 | Jurisprudência | conflito entre fontes | Sim — [Corte Especial][J016a], [Informativo 862][J016b] e [acórdão da 5ª Turma][J016c]; falhou o link do Informativo 868 | A Corte Especial admite aplicação aos recursos anteriores, ressalvada coisa julgada formal; a 1ª Turma aplica essa orientação. O acórdão da 5ª Turma, em matéria penal, exige intimação a partir de 31/07/2024. Há posições documentadas diferentes, com esse recorte material. Não se trata de conflito entre as duas pesquisas nem de superação demonstrada da lei. Os julgados não foram apresentados como repetitivos; registrar a posição institucional da Corte Especial sem eliminar a posição da Turma. A alegação sobre a 3ª Turma e a aplicação pela 4ª Turma ficaram não verificáveis nesta conferência. STF também permanece sem verificação. |
+| pe-admissibilidade-017 | Lei | aceita | Sim — [CPC]; [JEC] | Arts. 1.026 e 1.024, §§ 4º e 5º, sustentam a resposta e a ausência de restrição textual ao embargante. Lacuna para jurisprudência quanto às hipóteses de embargos sem efeito interruptivo. |
+| pe-admissibilidade-018 | Jurisprudência | aceita | Sim — [notícia do EAREsp 2.039.129][J018a] e [Teses 192][J018b]; falhou o acórdão de 2026 | Aceitação parcial: sustentados os embargos intempestivos, a regra sobre inadmissão do REsp, a exceção de decisão genérica, o agravo tempestivo e a complementação após modificação. A tese penal consta da edição 192 e deve manter esse âmbito. Não aceita como demonstrada a exceção autônoma de “erro material”: a notícia aberta não a enuncia e o acórdão adicional ficou inacessível. STF/RE permanece não verificável, sem inferência de concordância. |
+| pe-admissibilidade-019 | Lei | aceita | Sim — [CPC]; [JEC] | Arts. 1.007 e 1.017, § 1º, sustentam o momento da comprovação. As ressalvas da pesquisa impedem interpretar a deserção como necessariamente imediata. |
+| pe-admissibilidade-020 | Lei | aceita | Sim — [CPC] | Sustentada pelos arts. 1.007, §§ 1º e 3º, 98, 99, 1.023 e 1.042, § 2º. Preservar a distinção entre dispensa de preparo e dispensa apenas do porte. |
+| pe-admissibilidade-021 | Lei | aceita | Sim — [CPC] | Art. 1.023 confirma a dispensa. A pesquisa distingue corretamente preparo e depósito de multa. |
+| pe-admissibilidade-022 | Lei | aceita | Sim — [CPC] | Art. 1.007, § 4º, confirma intimação na pessoa do advogado e recolhimento em dobro. O prazo supletivo foi condicionado à ausência de prazo legal ou judicial, conforme art. 218, § 3º. |
+| pe-admissibilidade-023 | Lei | aceita | Sim — [CPC] | Art. 1.007, § 5º, sustenta a vedação, especificamente no recolhimento realizado conforme o § 4º. |
+| pe-admissibilidade-024 | Lei | aceita | Sim — [CPC] | Art. 1.007, § 2º, combinado com arts. 219, 224, 230 e 231, sustenta consequência, titular, duração e contagem. |
+| pe-admissibilidade-025 | Lei | aceita | Sim — [CPC]; [Lei 15.484/2026] | Sustentados os requisitos por espécie. A lei citada confirma o tópico de relevância e a regra transitória do art. 4º. Aceitação limitada às espécies efetivamente examinadas; não é inventário completo de todas as formalidades recursais. |
+| pe-admissibilidade-026 | Lei | aceita | Sim — [CPC] | Art. 1.024, §§ 3º e 4º, sustenta as hipóteses expressas. A pesquisa corretamente não equipara saneamento documental a livre aditamento de razões. Lacuna para jurisprudência quanto à regra geral de preclusão consumativa. |
+| pe-admissibilidade-026 | Jurisprudência | devolvida | Sim — [Verbetes STJ], [notícia de 2016][J026] e [EAREsp 2.039.129][J018a] | Falta fonte para o núcleo: vedação geral de aditar ou complementar razões após a interposição. A Súmula 579 trata de ratificação; o EAREsp citado trata de agravo após embargos e afasta preclusão naquela hipótese. Confirmados, separadamente, a Súmula 579, o cancelamento da 418 e a complementação nos limites da modificação. Esses pontos não comprovam a regra geral anunciada. |
+| pe-admissibilidade-027 | Lei | aceita | Sim — [CPC] | Art. 1.017, incisos e §§ 3º e 5º, combinado com art. 932, parágrafo único, sustenta a resposta. A declaração substitui documento inexistente; não é alternativa livre à juntada de documento existente. |
+| pe-admissibilidade-028 | Lei | aceita | Sim — [CPC] | Arts. 998 a 1.000 sustentam os três atos. Confirmada a redação atual do parágrafo único do art. 998. A classificação doutrinária não foi afirmada como texto legal. |
+| pe-admissibilidade-029 | Lei | aceita | Sim — [CPC] | Art. 999 sustenta a independência de aceitação. Aceitação parcial da resposta legal; o momento da renúncia continua como lacuna para jurisprudência, sem conclusão autorizada sobre renúncia antecipada. |
+| pe-admissibilidade-030 | Lei | aceita | Sim — [CPC] | Art. 1.000 sustenta a aquiescência expressa ou tácita; art. 520, § 3º, confirma a ressalva indicada. |
+| pe-admissibilidade-031 | Lei | aceita | Sim — [CPC]; [Lei 15.484/2026] | Art. 998 sustenta a dispensa de anuência e as ressalvas. A alteração de 2026 está confirmada e vigente na data-base. O termo final da desistência permanece como lacuna para jurisprudência; “a qualquer tempo” não resolve sozinho essa parte da pergunta. |
+| pe-admissibilidade-032 | Jurisprudência | aceita | Sim — [Verbetes STJ] | Súmula 484 localizada na página 27 do PDF, sem indicação de cancelamento. Enunciado pertinente e coincidente com a resposta. Não foi demonstrada superação pelas fontes examinadas. |
+| pe-admissibilidade-033 | Lei — resposta ausente | devolvida | Sim — [CPC], fonte geral da pesquisa | A pergunta pede expressamente a disciplina do CPC, mas não recebeu bloco na pesquisa de lei. Falta resposta fundamentada sobre observância de súmulas e seus limites. A remissão de responsabilidade feita pelo pesquisador de jurisprudência não supre a omissão. |
+| pe-admissibilidade-033 | Jurisprudência | devolvida | Sim — [Verbetes STJ] | A Súmula 484 confirma o entendimento sobre preparo, já examinado em pe-admissibilidade-032. Não responde, por si, à força de observância pelos tribunais locais. Falta completar essa questão em articulação com a pesquisa legal; não se exige julgado para repetir o que decorrer diretamente do CPC. |
+| pe-admissibilidade-034 | Lei | aceita | Sim — [CPC] | Arts. 1.000, 520, § 3º, e 526 sustentam a parte legal. Lacuna para jurisprudência quanto à configuração concreta de aquiescência fora da ressalva expressa. |
+| pe-admissibilidade-034 | Jurisprudência | devolvida | Sim — [Revista STJ 249][J034] | O acórdão confirma situação específica de preclusão ligada a astreintes, pagamento e discussão anteriormente decidida. Não sustenta regra geral sobre todo depósito espontâneo nem responde integralmente à pergunta. Falta precedente pertinente ou delimitação suficiente da resposta. A notícia não aberta pelo pesquisador não foi utilizada. |
+| pe-admissibilidade-035 | Lei | aceita | Sim — [CPC] | Arts. 1.002, 1.008 e 1.013 sustentam o núcleo, inclusive a vinculação das questões ao capítulo impugnado. |
+| pe-admissibilidade-036 | Lei | aceita | Sim — [CPC]; [JEC] | Art. 1.023 confirma prazo e dispositivo; art. 219 sustenta dias úteis. |
+| pe-admissibilidade-037 | Lei | aceita | Sim — [CPC] | Art. 1.007, §§ 4º e 5º, sustenta regularização em dobro e vedação de complementação insuficiente nessa hipótese. |
+| pe-admissibilidade-038 | Lei | aceita | Sim — [CPC] | Art. 998, caput, sustenta a dispensa de concordância. Mantidas as ressalvas examinadas em pe-admissibilidade-031. |
+
+As Leis 14.939/2024 e 15.484/2026 foram abertas no Planalto. As respectivas regras de vigência sustentam sua utilização na data-base. Não foi identificada incompatibilidade direta entre as pesquisas legais e jurisprudenciais aceitas.
+
+Foram tentados **21 endereços distintos** citados nas pesquisas, incluindo a página geral do SCON. **19 abriram com conteúdo**. Dois retornaram erro interno: o Informativo pesquisado pelo número 2.147.665 e o acórdão de registro 202504058399. Não houve contorno de bloqueio. Não foi fornecida URL específica do STF para os julgados mencionados; o acesso relatado pelo pesquisador não foi convertido em verificação própria.
+
+[CPC]: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+[JEC]: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+[EAOAB]: https://www.planalto.gov.br/ccivil_03/leis/l8906.htm
+[Lei 14.939/2024]: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14939.htm
+[Lei 15.484/2026]: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15484.htm
+[J007a]: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/02092021-Parte-e-advogado-tem-legitimidade-concorrente-para-recorrer-de-decisao-sobre-honorarios-advocaticios-.aspx
+[J007b]: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/16082023-Advogado-tem-legitimidade-para-questionar-honorarios-e-tentar-reverte-los-em-seu-favor.aspx
+[Tema 1.242]: https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1242&cod_tema_final=1242
+[SCON]: https://scon.stj.jus.br/SCON/pesquisar.jsp
+[J011a]: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10062026-Terceira-Turma-reafirma-que-acordo-homologado-judicialmente-deve-ser-impugnado-por-acao-anulatoria.aspx
+[J011b]: https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?seq=2062591&tipo=0&nreg=201801036909&SeqCgrmaSessao=&CodOrgaoJgdr=&dt=20210610&formato=HTML&salvar=false
+[J016a]: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/12022025-Corte-Especial-define-que-nova-regra-sobre-feriado-local-se-aplica-a-recursos-ja-interpostos.aspx
+[J016b]: https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270862%27.cod.
+[J016c]: https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401653727&dt_publicacao=19%2F02%2F2025
+[J018a]: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/08082023-E-possivel-interpor-agravo-em-recurso-especial-apos-embargos-de-declaracao-contra-a-mesma-decisao.aspx
+[J018b]: https://www.stj.jus.br/docs_internet/jurisprudencia/jurisprudenciaemteses/Jurisprudencia%20em%20Teses%20192%20-%20Embargos%20de%20Declaracao%20IV.pdf
+[Verbetes STJ]: https://www.stj.jus.br/docs_internet/VerbetesSTJ.pdf
+[J026]: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2016/2016-07-01_14-38_Corte-Especial-aprova-nova-sumula-sobre-ratificacao-de-recurso-especial.aspx
+[J034]: https://www.stj.jus.br/docs_internet/revista/eletronica/stj-revista-eletronica-2018_249_2_capQuartaTurma.pdf
+
+**Resumo:** 39 registros — **32 aceitas, 6 devolvidas, 1 conflito entre fontes e 0 não verificáveis integrais**; limitações parciais registradas nas observações; **19 links abertos com conteúdo, de 21 tentados**.
