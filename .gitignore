@@ -22,3 +22,6 @@ validacao/originalidade/privado/
 # Publicação: o código de acesso e a pasta montada não vão para o Git
 prototipo/.codigo-acesso
 prototipo/publicar/
+
+# Cópia local das leis, baixada a cada lote (validacao/ferramentas/baixar_leis.py)
+validacao/fontes/
