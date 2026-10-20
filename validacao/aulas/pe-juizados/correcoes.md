@@ -59,7 +59,7 @@ Não aplicada. A aula `juizados` não tem linha "Validada em" no código, e 018 
 
 ## Notado de passagem
 
-- **`(C) 21. Gabarito Comentado — Juizado Especial Cível.md`, linha 34:** "o JEC **não** admite prova pericial complexa; causa que a exija **foge da competência**". É o tema de 021, em nota de outra unidade (gabarito de questão). Não alterei.
+- **`(C) 21. Gabarito Comentado — Juizado Especial Cível.md`, linha 34:** alinhada a 021 em 20/10/2026, a pedido do Orquestrador. Questão 1, explicação da alternativa A. Antes: `o JEC **não** admite prova pericial complexa; causa que a exija **foge da competência** por não ser de "menor complexidade";`. Depois: `não há admissão "sem qualquer restrição": a necessidade de perícia, **por si só, não afasta o JEC**, que admite **prova técnica simplificada** (STJ, RMS 30.170/SC); mas, no caso concreto, a **complexidade técnico-pericial** pode ser incompatível com o Juizado, considerando a causa de pedir e a defesa (STF, RE 537.427, sobre tabagismo). Como orientação, o Enunciado 54 do FONAJE afere a menor complexidade pelo **objeto da prova**, não pelo direito material;`. O gabarito (C) e a classificação da alternativa A como errada não mudaram; o resto da nota ficou intacto. Sem marca *(C, data)*, porque a nota é `(C)`. `procesp2.js` não foi tocado.
 - **[P16] linha 54:** corrigido em 20/10/2026, a pedido do Reconferente (ver 022 na tabela).
 - **[P15] linha 98:** "Resíduos = saldos, bens deixados por pessoa falecida" é o tema de 018 (`não verificável`). Não alterei.
 - **[P15] linha 127:** o Enunciado 8 aparece com "(Ex.: **ação monitória**)", como se o enunciado nomeasse a monitória (já notado em pe-monitoria; tema de 020). Não alterei.
