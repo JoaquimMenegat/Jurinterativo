@@ -67,8 +67,8 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | pe-demarcacao | Demarcação e divisão de terras | validada | 17/10/2026 |
 | pe-dissolucao | Dissolução parcial de sociedade | validada | 17/10/2026 |
 | pe-inventario | Inventário e partilha | validada | 17/10/2026 |
-| pe-arrolamento | Arrolamento, sobrepartilha e inventário negativo | em validação | — |
-| pe-juizados | Juizados Especiais Cíveis | em validação | — |
+| pe-arrolamento | Arrolamento, sobrepartilha e inventário negativo | validada | 20/10/2026 |
+| pe-juizados | Juizados Especiais Cíveis | validada | 20/10/2026 |
 | pe-curatela | Tutela, curatela e interdição | não iniciada | — |
 | pe-alvara | Alvará judicial | não iniciada | — |
 | pe-tribunais | Precedentes e julgamento nos tribunais | validada | 18/10/2026 |
@@ -76,4 +76,4 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | pe-admissibilidade | Juízo de admissibilidade | validada | 18/10/2026 |
 | pe-efeitos | Efeitos dos recursos | em conferência | — |
 | pe-especies | Mapa dos recursos em espécie | em conferência | — |
-| pe-casos | Casos práticos de recursos | em validação | — |
+| pe-casos | Casos práticos de recursos | validada | 20/10/2026 |

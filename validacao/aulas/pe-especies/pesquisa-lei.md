@@ -515,3 +515,19 @@ Fora do escopo (tipo `jurisprudência` puro, não respondidas aqui): pe-especies
 ---
 
 Resumo: 44 respondidas (47 perguntas, menos as 3 de jurisprudência pura: 008, 013, 035), 0 não encontradas, 0 acesso bloqueado. Lacunas: 012, 016, 021, 038 (4). Partes de jurisprudência BLOQUEADAS para o Pesquisador de jurisprudência: 012, 037, 041, 045.
+
+## Resposta à devolução · pe-especies-044
+
+O Conferente pediu que se diga de quem é o prazo. Lei 9.099 e CPC reabertos no Planalto em 20/10/2026, sem mudança nos dispositivos citados.
+
+### pe-especies-044 (complemento: de quem é o prazo)
+- Resposta: O prazo de 10 dias é do recorrente, isto é, de quem interpõe o recurso contra a sentença (art. 42, caput: petição com "as razões e o pedido do recorrente"). A Lei 9.099 não diz quem pode recorrer. Aplicado o CPC de forma supletiva (CPC, art. 1.046, § 2º), podem recorrer a parte vencida, o terceiro prejudicado e o Ministério Público (CPC, art. 996). O recorrido tem prazo próprio de 10 dias para a resposta escrita, contado da intimação que a Secretaria faz depois do preparo (art. 42, § 2º).
+- Dispositivo: Lei 9.099/1995, art. 42, caput e § 2º; CPC, art. 996, caput; CPC, art. 1.046, § 2º.
+- Texto vigente: Lei 9.099, art. 42: "O recurso será interposto no prazo de dez dias, contados da ciência da sentença, por petição escrita, da qual constarão as razões e o pedido do recorrente." § 2º: "Após o preparo, a Secretaria intimará o recorrido para oferecer resposta escrita no prazo de dez dias." CPC, art. 996: "O recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica." CPC, art. 1.046, § 2º: "Permanecem em vigor as disposições especiais dos procedimentos regulados em outras leis, aos quais se aplicará supletivamente este Código."
+- Última alteração: redação original (Lei 9.099, art. 42; CPC, arts. 996 e 1.046).
+- Vigência: vigente.
+- Exceções relevantes: Lei 9.099, art. 41, caput (não cabe recurso contra a sentença homologatória de conciliação ou de laudo arbitral); art. 41, § 2º (no recurso, as partes devem estar representadas por advogado).
+- Lacuna: a Lei 9.099 não diz quem pode recorrer nem se há prazo em dobro nos Juizados; a resposta sobre quem pode recorrer vem da aplicação supletiva do CPC.
+- Fonte: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm ; https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+- Consultado em: 20/10/2026
+- Situação: respondida

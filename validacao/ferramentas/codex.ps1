@@ -1,5 +1,6 @@
 ﻿# Roda um papel da validação no Codex (outro fornecedor de modelo).
 # Uso: powershell -ExecutionPolicy Bypass -File validacao/ferramentas/codex.ps1 <conferente|comparador|reconferencia|pesquisador> <aula-id> <data-base> [-Ids "id1,id2"]
+# Modelo: conferente e pesquisador no gpt-6-astra; comparador no gpt-6.1-sol; reconferência no gpt-6-luna.
 #
 # O Codex não abre arquivos do projeto: o script entrega a ele só os arquivos que o papel pode ler,
 # e a resposta final dele é gravada como o arquivo que o papel entrega. Assim a regra "às cegas"
@@ -18,6 +19,9 @@ $OutputEncoding = New-Object System.Text.UTF8Encoding $false
 
 $raiz = (Resolve-Path (Join-Path $PSScriptRoot '..\..')).Path
 $pasta = Join-Path $raiz "validacao\aulas\$Aula"
+# Modelo por papel (20/10/2026): quem abre fontes fica no mais forte; quem só lê arquivos usa um mais barato.
+$modelos = @{ conferente = 'gpt-6-astra'; pesquisador = 'gpt-6-astra'; comparador = 'gpt-6.1-sol'; reconferencia = 'gpt-6-luna' }
+$modelo = $modelos[$Papel]
 
 switch ($Papel) {
   'conferente' {
@@ -68,9 +72,9 @@ foreach ($e in $entradas) {
 $destino = Join-Path $pasta $saida
 $args_ = @()
 if ($web) { $args_ += '--search' }
-$args_ += @('exec', '-s', 'read-only', '--skip-git-repo-check', '-C', $pasta, '-o', $destino, '-')
+$args_ += @('exec', '-m', $modelo, '-s', 'read-only', '--skip-git-repo-check', '-C', $pasta, '-o', $destino, '-')
 
-Write-Host "== Codex · $Papel · $Aula · entrega $saida ==" -ForegroundColor Yellow
+Write-Host "== Codex · $Papel ($modelo) · $Aula · entrega $saida ==" -ForegroundColor Yellow
 $texto.ToString() | & codex @args_
 if (Test-Path $destino) {
   # O Codex às vezes repete a linha PRONTO no fim da resposta; ela não pertence ao arquivo.
