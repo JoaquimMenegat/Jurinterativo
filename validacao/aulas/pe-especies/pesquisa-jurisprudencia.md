@@ -111,3 +111,24 @@ IDs respondidos: os do tipo `jurisprudência` e `lei; jurisprudência` em `pergu
 - Fonte: https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400696798&dt_publicacao=02%2F09%2F2024 ; https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22022026-Novas-decisoes-do-STJ-sobre-o-cabimento-do-agravo-de-instrumento-no-regime-do-CPC2015.aspx
 - Consultado em: 18/10/2026
 - Situação: não encontrada (só adjacentes)
+
+---
+
+## Resposta à devolução
+
+Consultas em 20/10/2026. O bloco abaixo substitui o anterior do mesmo ID.
+
+### pe-especies-016
+- Resposta: Fonte normativa primária aberta: **Emenda Regimental 55, de 21/08/2026** (DJe do STJ de 26/08/2026), que altera o RISTJ. Ela distribui a competência para a relevância assim.
+  - **Corte Especial** (art. 11, XVII, do RISTJ): REsp submetido à relevância pela técnica de formação de precedente qualificado, quando a questão jurídica for comum a mais de uma Seção.
+  - **Seções** (art. 12, XII): o mesmo REsp, pela técnica de precedente qualificado, nos demais casos.
+  - **Turmas** (art. 13, V): sem prejuízo da competência da Corte Especial ou da Seção, julgam o REsp e o AREsp de relevância presumida sem precedente qualificado; os de questão que a Turma entenda não passível de precedente qualificado (efeito só para o caso concreto); os de controvérsia diversa de tema já submetido; e as questões de admissibilidade.
+  - **Recusa por ausência de relevância**: na técnica de precedente qualificado, exige manifestação de **dois terços dos Ministros da Corte Especial ou da Seção competente** (art. 255-M). Antes disso, a maioria absoluta precisa reconhecer a competência do Tribunal (art. 255-M, § 1º). Na técnica de efeito só para o caso concreto, a **Turma** pode negar a relevância por decisão fundamentada e **dois terços dos seus membros**, e o recurso não é conhecido (art. 255-AE, I). Se o relator ficar vencido, o recurso é redistribuído, sem reconhecimento automático da relevância (art. 255-AE, § 1º).
+  - **Relator** (art. 21-E, V-A): pode não conhecer de recurso sem tópico específico e fundamentado sobre a relevância (inclusive nas hipóteses de presunção) ou cujo tema já tenha sido declarado sem relevância pela Corte Especial ou pela Seção (art. 255-C, I).
+  - O art. 6º da Lei 15.484/2026 não é tema deste papel: BLOQUEADO, cabe ao Pesquisador de lei.
+- Precedente principal: não se aplica (norma regimental). STJ, Emenda Regimental 55/2026, arts. 11, XVII; 12, XII; 13, V; 21-E, V-A; 255-M; 255-AE do RISTJ, na redação da emenda.
+- Situação do precedente: em vigor. O regime vale para REsp contra acórdãos publicados a partir de 03/09/2026, segundo as notícias do STJ já citadas. A BDJur registra o RISTJ consolidado atualizado até a ER 55/2026.
+- Divergência: nenhuma encontrada
+- Fonte: https://bdjur.stj.jus.br/server/api/core/bitstreams/41c8f975-f9a6-434c-ab32-ed4f330fff74/content (texto integral da ER 55/2026, com a nota "Texto de acordo com a publicação na fonte oficial (DJe do STJ, 26 ago. 2026)"; link indicado no Clipping de Legislação do STJ) ; https://www.stj.jus.br/webstj/institucional/biblioteca/clipping/2Imprimir.asp?seq_edicao=6118
+- Consultado em: 20/10/2026
+- Situação: respondida

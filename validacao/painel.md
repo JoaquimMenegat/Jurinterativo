@@ -74,6 +74,6 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | pe-tribunais | Precedentes e julgamento nos tribunais | validada | 18/10/2026 |
 | pe-teoria-recursos | Teoria geral dos recursos | validada | 18/10/2026 |
 | pe-admissibilidade | Juízo de admissibilidade | validada | 18/10/2026 |
-| pe-efeitos | Efeitos dos recursos | em conferência | — |
-| pe-especies | Mapa dos recursos em espécie | em conferência | — |
+| pe-efeitos | Efeitos dos recursos | em validação | — |
+| pe-especies | Mapa dos recursos em espécie | em validação | — |
 | pe-casos | Casos práticos de recursos | validada | 20/10/2026 |

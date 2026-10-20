@@ -160,3 +160,45 @@ IDs respondidos: os do tipo `jurisprudência` e `lei; jurisprudência` em `pergu
 - Fonte: https://processo.stj.jus.br/jurisprudencia/externo/informativo/?aplicacao=informativo&acao=pesquisar&livre=%40cnot%3D018615
 - Consultado em: 18/10/2026
 - Situação: respondida em parte
+
+---
+
+## Resposta à devolução
+
+Consultas em 20/10/2026. Os blocos abaixo substituem os anteriores dos mesmos IDs.
+
+### pe-efeitos-004
+- Resposta: Não encontrada. Fiz duas buscas amplas no domínio do STJ e não localizei julgado do STJ ou do STF que decida se o relator do agravo de instrumento pode dar efeito suspensivo ou antecipar a tutela recursal **de ofício** (art. 1.019, I), ou se isso depende de pedido do agravante. O que abri afirma só que o agravo de instrumento não tem efeito suspensivo por força de lei e que o efeito pode ser dado por decisão do relator. A fonte não diz se é preciso pedido.
+- Precedente principal: não localizado (sobre a pergunta). Adjacente aberto: STJ, AgInt no REsp 1.838.866/DF, 4ª Turma, rel. Min. Luis Felipe Salomão, j. 23/08/2022, DJe 31/08/2022 (Informativo 754). Ele trata do efeito suspensivo dado pelo relator e não da necessidade de pedido.
+- Situação do precedente: —
+- Divergência: nenhuma encontrada
+- Fonte: https://processo.stj.jus.br/jurisprudencia/externo/informativo/?aplicacao=informativo&acao=pesquisar&livre=%40cnot%3D019478
+- Consultado em: 20/10/2026
+- Situação: não encontrada
+
+### pe-efeitos-016
+- Resposta: A Corte Especial do STJ decidiu, sob o CPC/1973 (art. 515, § 3º, atual art. 1.013, § 3º), que o julgamento do mérito pelo tribunal na causa madura **não configura reformatio in peius**. O mérito decidido pelo tribunal é o mesmo que seria decidido se o processo voltasse ao 1º grau, recebesse sentença, o autor apelasse e o tribunal julgasse a apelação. O autor que apela da sentença terminativa assume o risco desse julgamento, e as regras são conhecidas das partes. A Corte Especial reproduziu essa fundamentação de precedente da 4ª Turma. Ou seja: o apelante pode sair em situação pior que a da sentença terminativa (por exemplo, com improcedência), e isso não é vedado. Limite atual (CPC/2015): a 4ª Turma exige contraditório prévio sobre a questão de mérito para considerar a causa madura (REsp 1.909.451/SP, 2021). Não localizei julgado posterior ao CPC/2015 que reexamine especificamente a reformatio in peius nessa hipótese.
+- Precedente principal: STJ, REsp 1.215.368/ES, **Corte Especial**, rel. Min. Herman Benjamin, j. 01/06/2016, DJe 19/09/2016, unânime (li o inteiro teor). O acórdão transcreve e adota o AgRg no Ag 867.885/MG, 4ª Turma, rel. Min. Hélio Quaglia Barbosa, DJe 22/10/2007, cujo item 2 afasta expressamente a reformatio in peius. Complemento: STJ, REsp 1.909.451/SP, 4ª Turma, rel. Min. Luis Felipe Salomão, j. 23/03/2021 (Informativo 690).
+- Situação do precedente: vigente. Não localizei superação. Observação: o caso do REsp 1.215.368/ES era agravo de instrumento, e a passagem sobre a reformatio está no precedente da 4ª Turma transcrito no voto.
+- Divergência: nenhuma encontrada
+- Fonte: https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?seq=1506050&tipo=0&nreg=201001803803&dt=20160919&formato=PDF&salvar=false ; https://processo.stj.jus.br/jurisprudencia/externo/informativo/?aplicacao=informativo&acao=pesquisar&livre=018072
+- Consultado em: 20/10/2026
+- Situação: respondida (parte de lei: BLOQUEADO)
+
+### pe-efeitos-024
+- Resposta: Não encontrada. Fiz busca ampla no domínio do STJ e não localizei julgado que decida especificamente o recurso cabível contra a liminar possessória **concedida** (arts. 562 e seguintes do CPC) enquadrando-a como tutela provisória do art. 1.015, I. Adjacentes abertos: (a) o STJ lê o inciso I de forma ampla, abrangendo a decisão sobre efeito suspensivo de embargos à execução, a majoração de multa fixada em tutela provisória e a guarda provisória (notícia de 01/03/2020); (b) a 4ª Turma examinou em 2026 um REsp contra acórdão de agravo de instrumento que tratou de tutela de urgência negada em **ação de imissão na posse** (petitória, não possessória). O cabimento do agravo não foi discutido; aplicou-se a Súmula 735/STF.
+- Precedente principal: não localizado. Adjacentes: STJ, REsp 1.745.358, 3ª Turma, rel. Min. Nancy Andrighi; STJ, REsp 1.827.553, rel. Min. Nancy Andrighi (ambos na notícia de 01/03/2020); STJ, AREsp 3.171.110/DF, 4ª Turma, rel. Min. Raul Araújo, sessão virtual de 26/05 a 01/06/2026 (li o inteiro teor).
+- Situação do precedente: —
+- Divergência: nenhuma encontrada
+- Fonte: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/STJ-define-hipoteses-de-cabimento-do-agravo-de-instrumento-sob-o-novo-CPC.aspx ; https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600413246&dt_publicacao=09%2F06%2F2026
+- Consultado em: 20/10/2026
+- Situação: não encontrada
+
+### pe-efeitos-025
+- Resposta: Não encontrada. A situação é a mesma de pe-efeitos-024, para a liminar possessória **negada**: não localizei julgado do STJ ou do STF que a enquadre como tutela provisória do art. 1.015, I. O adjacente mais próximo é o AREsp 3.171.110/DF (tutela de urgência negada em imissão na posse, impugnada por agravo de instrumento na origem, sem discussão do cabimento pelo STJ).
+- Precedente principal: não localizado (adjacentes em pe-efeitos-024)
+- Situação do precedente: —
+- Divergência: nenhuma encontrada
+- Fonte: as mesmas de pe-efeitos-024
+- Consultado em: 20/10/2026
+- Situação: não encontrada
