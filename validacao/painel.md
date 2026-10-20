@@ -25,9 +25,9 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 
 | aula-id | título | status | validada em |
 |---|---|---|---|
-| tgp-fundamentos | Jurisdição, ação e processo | não iniciada | — |
-| tgp-jurisdicao | Características e princípios da jurisdição | não iniciada | — |
-| tgp-principios | Princípios do processo | não iniciada | — |
+| tgp-fundamentos | Jurisdição, ação e processo | em conferência | — |
+| tgp-jurisdicao | Características e princípios da jurisdição | em conferência | — |
+| tgp-principios | Princípios do processo | em conferência | — |
 | tgp-internacional | Limites da jurisdição e cooperação | não iniciada | — |
 | tgp-competencia | Competência absoluta e relativa | não iniciada | — |
 | tgp-modificacao | Modificação e conflito de competência | não iniciada | — |
@@ -69,8 +69,8 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | pe-inventario | Inventário e partilha | validada | 17/10/2026 |
 | pe-arrolamento | Arrolamento, sobrepartilha e inventário negativo | validada | 20/10/2026 |
 | pe-juizados | Juizados Especiais Cíveis | validada | 20/10/2026 |
-| pe-curatela | Tutela, curatela e interdição | não iniciada | — |
-| pe-alvara | Alvará judicial | não iniciada | — |
+| pe-curatela | Tutela, curatela e interdição | em conferência | — |
+| pe-alvara | Alvará judicial | em conferência | — |
 | pe-tribunais | Precedentes e julgamento nos tribunais | validada | 18/10/2026 |
 | pe-teoria-recursos | Teoria geral dos recursos | validada | 18/10/2026 |
 | pe-admissibilidade | Juízo de admissibilidade | validada | 18/10/2026 |

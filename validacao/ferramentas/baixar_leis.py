@@ -17,6 +17,16 @@ LEIS = {
     'l9099': 'https://www.planalto.gov.br/ccivil_03/leis/l9099.htm',
     'l10259': 'https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm',
     'l12153': 'https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm',
+    'eca': 'https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm',
+    'l13146': 'https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm',
+    'l6858': 'https://www.planalto.gov.br/ccivil_03/leis/l6858.htm',
+    'cpp': 'https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm',
+    'cp': 'https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm',
+    'lc64': 'https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm',
+    'l9307': 'https://www.planalto.gov.br/ccivil_03/leis/l9307.htm',
+    'l13140': 'https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm',
+    'd678': 'https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm',
+    'lc80': 'https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm',
     'l15484': 'https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15484.htm',
 }
 
