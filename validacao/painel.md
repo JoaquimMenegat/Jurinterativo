@@ -28,11 +28,11 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | tgp-fundamentos | Jurisdição, ação e processo | em conferência | — |
 | tgp-jurisdicao | Características e princípios da jurisdição | em conferência | — |
 | tgp-principios | Princípios do processo | em conferência | — |
-| tgp-internacional | Limites da jurisdição e cooperação | não iniciada | — |
-| tgp-competencia | Competência absoluta e relativa | não iniciada | — |
-| tgp-modificacao | Modificação e conflito de competência | não iniciada | — |
-| tgp-capacidade | Capacidade, representação e procuração | não iniciada | — |
-| tgp-litisconsorcio | Litisconsórcio | não iniciada | — |
+| tgp-internacional | Limites da jurisdição e cooperação | em extração | — |
+| tgp-competencia | Competência absoluta e relativa | em extração | — |
+| tgp-modificacao | Modificação e conflito de competência | em extração | — |
+| tgp-capacidade | Capacidade, representação e procuração | em extração | — |
+| tgp-litisconsorcio | Litisconsórcio | em extração | — |
 | tgp-terceiros | Intervenção de terceiros | não iniciada | — |
 | tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | não iniciada | — |
 | tgp-atos | Atos processuais e pronunciamentos | não iniciada | — |
@@ -74,6 +74,6 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | pe-tribunais | Precedentes e julgamento nos tribunais | validada | 18/10/2026 |
 | pe-teoria-recursos | Teoria geral dos recursos | validada | 18/10/2026 |
 | pe-admissibilidade | Juízo de admissibilidade | validada | 18/10/2026 |
-| pe-efeitos | Efeitos dos recursos | em validação | — |
-| pe-especies | Mapa dos recursos em espécie | em validação | — |
+| pe-efeitos | Efeitos dos recursos | validada | 21/10/2026 |
+| pe-especies | Mapa dos recursos em espécie | validada | 21/10/2026 |
 | pe-casos | Casos práticos de recursos | validada | 20/10/2026 |

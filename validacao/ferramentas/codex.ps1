@@ -1,6 +1,6 @@
 ﻿# Roda um papel da validação no Codex (outro fornecedor de modelo).
 # Uso: powershell -ExecutionPolicy Bypass -File validacao/ferramentas/codex.ps1 <conferente|comparador|reconferencia|pesquisador> <aula-id> <data-base> [-Ids "id1,id2"]
-# Modelo: conferente e pesquisador no gpt-6-astra; comparador no gpt-6.1-sol; reconferência no gpt-6-luna.
+# Modelo: conferente e pesquisador no gpt-6-astra; comparador no gpt-6.1-sol; reconferência no gpt-6.1-sol (o gpt-6-luna deu falsos positivos em 21/10/2026).
 #
 # O Codex não abre arquivos do projeto: o script entrega a ele só os arquivos que o papel pode ler,
 # e a resposta final dele é gravada como o arquivo que o papel entrega. Assim a regra "às cegas"
@@ -9,7 +9,7 @@ param(
   [Parameter(Mandatory=$true)][ValidateSet('conferente','comparador','reconferencia','pesquisador')][string]$Papel,
   [Parameter(Mandatory=$true)][string]$Aula,
   [Parameter(Mandatory=$true)][string]$DataBase,
-  # Conferente: só estes IDs (devoluções). Pesquisador: IDs da segunda pesquisa. Comparador: IDs do complemento.
+  # Conferente: só estes IDs (devoluções). Pesquisador: IDs da segunda pesquisa. Comparador: IDs do complemento. Reconferência: IDs de refazer.
   [string]$Ids = ''
 )
 $ErrorActionPreference = 'Stop'
@@ -20,7 +20,7 @@ $OutputEncoding = New-Object System.Text.UTF8Encoding $false
 $raiz = (Resolve-Path (Join-Path $PSScriptRoot '..\..')).Path
 $pasta = Join-Path $raiz "validacao\aulas\$Aula"
 # Modelo por papel (20/10/2026): quem abre fontes fica no mais forte; quem só lê arquivos usa um mais barato.
-$modelos = @{ conferente = 'gpt-6-astra'; pesquisador = 'gpt-6-astra'; comparador = 'gpt-6.1-sol'; reconferencia = 'gpt-6-luna' }
+$modelos = @{ conferente = 'gpt-6-astra'; pesquisador = 'gpt-6-astra'; comparador = 'gpt-6.1-sol'; reconferencia = 'gpt-6.1-sol' }
 $modelo = $modelos[$Papel]
 
 switch ($Papel) {
@@ -52,6 +52,10 @@ switch ($Papel) {
     $prompt = '09-reconferente.md'; $saida = 'reconferencia.md'; $web = $false
     $entradas = @('parecer.md', 'parecer-complemento.md', 'decisoes.md', 'correcoes.md', 'aula-corrigida.md')
     $tarefa = 'Reconferência: confira se cada correção do parecer entrou na aula-corrigida.md (aula depois da correção, gerada por script) e se não criou erro novo. Regras gerais do Joaquim: item sem prova de erro continua como estava. Não pesquise na web.'
+    if ($Ids) {
+      # Rodada de refazer: só os IDs devolvidos; os demais já foram aprovados na rodada anterior.
+      $tarefa = "Reconferência de refazer, só dos IDs $Ids, devolvidos na rodada anterior e corrigidos de novo. Os demais IDs já foram aprovados: não os reexamine nem aponte itens novos. Para cada ID listado, diga ok ou refazer, no mesmo formato. Não pesquise na web."
+    }
   }
 }
 

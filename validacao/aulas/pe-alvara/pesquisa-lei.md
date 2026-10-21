@@ -283,3 +283,40 @@ Trechos que não são de lei (súmulas, entendimento do STJ) ficam `BLOQUEADO` p
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 20/10/2026
 - Situação: não encontrada (regra específica). Lacuna: a lei não diz se o alvará comporta discussão e prova de união estável controvertida. BLOQUEADO (jurisprudência).
+
+## Resposta à devolução · pe-alvara-016
+
+- Pergunta: Há custas no pedido de alvará judicial?
+- Resposta completa, em três planos:
+  1. Regra geral das despesas na jurisdição voluntária (CPC, art. 88): "Nos procedimentos de jurisdição voluntária, as despesas serão adiantadas pelo requerente e rateadas entre os interessados." O pedido de alvará é processado como jurisdição voluntária (art. 725, VII). Logo, pelo CPC, as despesas do pedido são adiantadas por quem o requer e rateadas entre os interessados. A regra geral de adiantamento do art. 82, caput, fica ressalvada pelo próprio texto quanto à gratuidade da justiça.
+  2. Conceito de despesas (art. 84): "As despesas abrangem as custas dos atos do processo, a indenização de viagem, a remuneração do assistente técnico e a diária de testemunha." As custas dos atos do processo estão, portanto, dentro das despesas que o art. 88 manda adiantar.
+  3. Valor das custas: o CPC não fixa valores, nem tabela, nem diz que o alvará é isento. Lacuna: o valor e a incidência concreta das custas dependem de lei de custas (federal ou estadual), que não consta da cópia local e não foi consultada. A Lei 6.858/1980 (arts. 1º e 2º, cópia local) também não trata de custas.
+  4. Isenções: nenhuma isenção de custas específica para alvará foi encontrada no CPC nem na Lei 6.858/1980. O que o CPC prevê é a gratuidade da justiça, que não depende do tipo de procedimento: art. 98, caput: "A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei." A gratuidade compreende "as taxas ou as custas judiciais" (art. 98, § 1º, I) e pode ser pedida na petição inicial (art. 99, caput); a alegação de insuficiência deduzida por pessoa natural presume-se verdadeira (art. 99, § 3º).
+- Dispositivo: CPC, arts. 88, 84, 82, caput, 98, caput e § 1º, I, 99, caput e § 3º; art. 725, VII
+- Texto vigente: "Art. 88. Nos procedimentos de jurisdição voluntária, as despesas serão adiantadas pelo requerente e rateadas entre os interessados." / "Art. 84. As despesas abrangem as custas dos atos do processo, a indenização de viagem, a remuneração do assistente técnico e a diária de testemunha." / "Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei."
+- Última alteração: arts. 84 e 88: a cópia local não traz marca de alteração (redação original). Art. 98: caput sem marca de alteração; o § 1º, IX e os §§ 7º e 8º constam da cópia como acréscimos posteriores, sem relação com a resposta.
+- Vigência: vigente
+- Exceções relevantes: art. 82, caput (ressalva da gratuidade da justiça); arts. 98 a 102 (gratuidade, concessão e revogação)
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 20/10/2026
+- Situação: respondida em parte (regra geral e gratuidade). Lacuna: valor das custas e eventual isenção em lei de custas, fora da cópia local.
+
+## Resposta à devolução · pe-alvara-020
+
+- Pergunta: A competência territorial é absoluta ou relativa? Pode o juiz declinar dela de ofício? Há súmula? (parte de lei)
+- Resposta completa (parte de lei):
+  1. Regra: a competência em razão do território pode ser modificada pelas partes, pela eleição de foro (CPC, art. 63, caput), o que a separa da competência absoluta (matéria, pessoa, função: art. 62, inderrogável por convenção). A incompetência relativa não é conhecida de ofício (art. 337, § 5º) e se prorroga se o réu não a alegar na contestação (art. 65).
+  2. Exceções do art. 63 que mudam a resposta sobre o juiz declinar de ofício:
+     - § 3º: "Antes da citação, a cláusula de eleição de foro, se abusiva, pode ser reputada ineficaz de ofício pelo juiz, que determinará a remessa dos autos ao juízo do foro de domicílio do réu." Depois de citado, cabe ao réu alegar a abusividade na contestação, sob pena de preclusão (§ 4º).
+     - § 5º: "O ajuizamento de ação em juízo aleatório, entendido como aquele sem vinculação com o domicílio ou a residência das partes ou com o negócio jurídico discutido na demanda, constitui prática abusiva que justifica a declinação de competência de ofício."
+     - § 1º (condição de eficácia da eleição de foro: instrumento escrito, referência expressa a determinado negócio jurídico e pertinência com o domicílio ou a residência de uma das partes ou com o local da obrigação, ressalvada a pactuação consumerista favorável ao consumidor).
+  3. Última alteração do art. 63: Lei nº 14.879, de 4 de junho de 2024, que deu nova redação ao § 1º e incluiu o § 5º (o § 3º e o § 4º não trazem marca de alteração na cópia; o caput também não). Portanto, o art. 63 não está mais em "redação original" no § 1º e no § 5º.
+  4. Lacuna: o CPC e a Lei 6.858/1980 não dizem se, no alvará de levantamento de valores de falecido, a competência territorial é absoluta ou relativa. Súmula sobre declinação de ofício: BLOQUEADO, é do Pesquisador de jurisprudência.
+- Dispositivo: CPC, arts. 62, 63, caput e §§ 1º, 3º, 4º e 5º, 64, § 1º, 65 e 337, § 5º
+- Texto vigente: "Art. 63. As partes podem modificar a competência em razão do valor e do território, elegendo foro onde será proposta ação oriunda de direitos e obrigações." / "§ 3º Antes da citação, a cláusula de eleição de foro, se abusiva, pode ser reputada ineficaz de ofício pelo juiz, que determinará a remessa dos autos ao juízo do foro de domicílio do réu." / "§ 5º O ajuizamento de ação em juízo aleatório, entendido como aquele sem vinculação com o domicílio ou a residência das partes ou com o negócio jurídico discutido na demanda, constitui prática abusiva que justifica a declinação de competência de ofício."
+- Última alteração: art. 63: Lei 14.879, de 04/06/2024 (§ 1º com nova redação; § 5º incluído). Arts. 62, 64 (§ 1º), 65 e 337 (§ 5º): sem marca de alteração na cópia.
+- Vigência: vigente
+- Exceções relevantes: art. 63, §§ 3º e 5º (declinação de ofício em eleição de foro abusiva); art. 65, parágrafo único
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 20/10/2026
+- Situação: respondida. Lacuna: natureza da competência territorial no alvará. BLOQUEADO (jurisprudência): súmula sobre declinação de ofício.

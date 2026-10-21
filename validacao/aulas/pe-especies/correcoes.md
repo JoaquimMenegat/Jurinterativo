@@ -46,6 +46,20 @@ A aula é "complemento escrito a partir da lei" e não tem nota de origem própr
 | pe-especies-044 | procesp3.js:57 (`keys`, cartão "10") | `` [`10`,`dias`,`recurso inominado nos Juizados`] `` | `` [`10`,`dias úteis`,`recurso inominado nos Juizados, contados da ciência da sentença (${a(`Lei 9.099/1995, arts. 12-A e 42`)})`] `` | Sem alteração: [R21] linha 29 só cita o art. 41 (cabimento), sem prazo. | — |
 | pe-especies-045 | procesp3.js:58 (`quiz` 1, enunciado e explicação) | Enunciado: `Decisão que indefere prova testemunhal:`. Explicação: `Fora do rol do art. 1.015.` | Enunciado: `Na fase de conhecimento, fora dos procedimentos do art. 1.015, parágrafo único, o juiz indefere prova testemunhal, sem urgência que torne inútil aguardar a apelação. Como impugnar?`. Explicação: `` Fora do rol do art. 1.015. Também pode ser suscitada nas contrarrazões (${a(`art. 1.009, §1º`)}; STJ, Tema 988). `` | Sem alteração: [R21] (exemplo da prova indeferida, linhas 46–55) já trata da preliminar e das contrarrazões. | Alternativas e gabarito (índice 1, "preliminar de apelação") iguais. |
 
+## Ajuste pedido pelo Reconferente (21/10/2026)
+
+| ID | Arquivo:linha | Antes | Depois | Nota do Vault | Ajustes no entorno |
+|---|---|---|---|---|---|
+| pe-especies-011 | procesp3.js:52 (b1.tree.a[3][2].a[1][2].txt, REsp) | `` nas hipóteses do ${a(`CF, art. 105, III`)} `` | `` nas hipóteses do ${a(`art. 105, III, da CF`)} `` | Sem alteração (forma de citação). | Só esse trecho mudou; o restante do `txt` ficou igual. A ocorrência semelhante na linha 18 é de outra aula e não foi tocada. Importador rodado de novo (só WinError 32 na cópia final); `62-pk-procesp.js` passa em `node --check`. |
+
+## Segundo ajuste pedido pelo Reconferente (21/10/2026)
+
+| ID | Arquivo:linha | Antes | Depois | Nota do Vault | Ajustes no entorno |
+|---|---|---|---|---|---|
+| pe-especies-010 | procesp3.js:51 (b1.tree.a[2][2].txt) | `Declarado manifestamente inadmissível ou improcedente por unanimidade: o colegiado, em decisão fundamentada, impõe ao agravante…` | `Agravo interno declarado pelo colegiado, por unanimidade, manifestamente inadmissível ou improcedente: em decisão fundamentada, o colegiado impõe ao agravante…` | Sem alteração: nenhuma nota trata da multa do agravo interno. | Resto da frase (multa de 1% a 5%, art. 1.021, §4º) igual. |
+| pe-especies-014 | procesp3.js:52 (`txt` do REsp) | `o recorrente também deve demonstrar` | `o recorrente deve demonstrar` | Sem alteração: [R6] linha 59 não tem o "também". | Resto da frase igual. |
+| pe-especies-045 | procesp3.js:58 (`quiz` 1, explicação) | `` Fora do rol do art. 1.015. Também pode ser suscitada nas contrarrazões (${a(`art. 1.009, §1º`)}; STJ, Tema 988). `` | `` Fora do rol do art. 1.015 e das hipóteses do parágrafo único, e sem urgência (STJ, Tema 988): impugna-se em preliminar de apelação ou nas contrarrazões (${a(`art. 1.009, §1º`)}). `` | Sem alteração: [R21] já trata da preliminar e das contrarrazões. | Enunciado, alternativas e gabarito (índice 1) iguais. Importador rodado de novo (só WinError 32 na cópia final); `62-pk-procesp.js` passa em `node --check`. |
+
 ## Notado de passagem
 
 - [R21] linha 38 (callout "O sistema do CPC/15") diz "Agravo de instrumento, em separado, em **15 dias**", sem "úteis", e a linha 39 não ressalva a urgência do Tema 988 para interlocutórias fora do rol. Não está no parecer desta aula (004 e 007 são `confere`); fica para outro lote, se for o caso.

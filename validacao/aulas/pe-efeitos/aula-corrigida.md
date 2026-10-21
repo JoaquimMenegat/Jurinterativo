@@ -83,7 +83,7 @@ Origem: procesp3.js:43
 - [b6.items[3][1]] Capítulo dependente
 - [b6.items[3][2]] Na rescisão de contrato com reintegração, recorrer só da rescisão alcança também a reintegração.
 - [b6.items[4][1]] Translativo e prequestionamento
-- [b6.items[4][2]] REsp e RE só examinam matéria prequestionada (Súmulas 282 e 356 do STF; 211 do STJ).
+- [b6.items[4][2]] Para conhecer o REsp e o RE, a matéria precisa estar prequestionada (Súmulas 282 e 356 do STF; 211 do STJ). Admitido o recurso, o tribunal julga a causa (art. 1.034); no STJ, conhecer por outro fundamento não dispensa o prequestionamento da matéria de ordem pública.
 - [b6.items[5][1]] Expansivo subjetivo
 - [b6.items[5][2]] O recurso de um litisconsorte aproveita aos outros, salvo interesses distintos ou opostos (art. 1.005).
 

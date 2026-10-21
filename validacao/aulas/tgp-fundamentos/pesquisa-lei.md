@@ -115,3 +115,20 @@ Data-base: 20/10/2026. Cópia local de `validacao/fontes/` (cpc.txt, cf.txt, cpp
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 20/10/2026
 - Situação: respondida
+
+## Resposta à devolução · tgp-fundamentos-008
+
+- Pergunta: Qual lei federal instituiu o atual CPC, e em que data foi publicada e entrou em vigor?
+- Resposta completa:
+  1. Lei: Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).
+  2. Publicação: a cópia compilada traz o aviso "Este texto não substitui o publicado no DOU de 17.3.2015". A publicação oficial é, portanto, a de 17/03/2015.
+  3. Entrada em vigor: o art. 1.045 não fixa data. Diz que o Código "entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial". O que o texto permite concluir: a vigência começa depois de completado um ano contado da publicação de 17/03/2015, ou seja, não antes de março de 2016. A data exata do primeiro dia de vigência depende da regra de contagem de prazo de vacância (Lei Complementar 95/1998, art. 8º, § 2º), que não está na cópia local em `validacao/fontes/` e não foi consultada. Por isso, esta pesquisa não afirma a data calendário.
+- Dispositivo: Lei 13.105/2015, art. 1.045
+- Texto vigente: "Art. 1.045. Este Código entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial."
+- Última alteração: redação original
+- Vigência: vigente desde o fim da vacatio legis (já decorrida na data-base 20/10/2026)
+- Exceções relevantes: nenhuma encontrada no art. 1.045. O compilado traz "Vide Lei nº 15.479, de 2026" e "Vide Lei nº 15.484, de 2026" no cabeçalho, sem alterar o art. 1.045.
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 20/10/2026
+- Situação: respondida
+- Lacuna: a data calendário exata do início da vigência não consta do texto do CPC. Para fixá-la, o Orquestrador precisa baixar a LC 95/1998 (art. 8º, § 2º) para `validacao/fontes/`.
