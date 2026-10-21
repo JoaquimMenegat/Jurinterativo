@@ -26,7 +26,7 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | aula-id | título | status | validada em |
 |---|---|---|---|
 | tgp-fundamentos | Jurisdição, ação e processo | em conferência | — |
-| tgp-jurisdicao | Características e princípios da jurisdição | em conferência | — |
+| tgp-jurisdicao | Características e princípios da jurisdição | validada | 21/10/2026 |
 | tgp-principios | Princípios do processo | em conferência | — |
 | tgp-internacional | Limites da jurisdição e cooperação | em extração | — |
 | tgp-competencia | Competência absoluta e relativa | em extração | — |

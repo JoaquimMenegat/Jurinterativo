@@ -374,3 +374,39 @@ Data-base: 20/10/2026. Fontes locais: `validacao/fontes/cpc.txt`, `cf.txt`, `d67
 - Última alteração: CPC, redação original; LC 80, art. 44, I (mesmo texto nos arts. 89, I e 128, I), redação da LC 132/2009 (redação anterior riscada)
 - Exceções relevantes: CPC, art. 186, § 4º
 - Fonte: CPC (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) e LC 80 (https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm) · Consultado em: 20/10/2026
+
+## Resposta à devolução · tgp-principios-025
+
+- Pergunta: O CPC prevê penalidade para litigância de má-fé? Em que casos, quem a aplica e qual o valor?
+- Resposta completa:
+  1. Previsão: sim. "Responde por perdas e danos aquele que litigar de má-fé como autor, réu ou interveniente." (CPC, art. 79).
+  2. Em que casos (art. 80): "Considera-se litigante de má-fé aquele que: I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso; II - alterar a verdade dos fatos; III - usar do processo para conseguir objetivo ilegal; IV - opuser resistência injustificada ao andamento do processo; V - proceder de modo temerário em qualquer incidente ou ato do processo; VI - provocar incidente manifestamente infundado; VII - interpuser recurso com intuito manifestamente protelatório."
+  3. Quem aplica: o juiz, "de ofício ou a requerimento" (art. 81, caput).
+  4. Penalidade (art. 81, caput): multa superior a 1% e inferior a 10% do valor corrigido da causa; indenização à parte contrária pelos prejuízos que sofreu; e honorários advocatícios e todas as despesas que a parte contrária efetuou.
+  5. Complementos: dois ou mais litigantes de má-fé: cada um é condenado na proporção de seu interesse na causa, ou solidariamente os que se coligaram para lesar a parte contrária (§ 1º); valor da causa irrisório ou inestimável: multa de até 10 vezes o salário-mínimo (§ 2º); a indenização é fixada pelo juiz ou, não sendo possível mensurá-la, liquidada por arbitramento ou pelo procedimento comum, nos próprios autos (§ 3º).
+- Dispositivo: CPC, arts. 79, 80, I a VII, e 81, caput e §§ 1º a 3º
+- Texto vigente: "Art. 81. De ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar multa, que deverá ser superior a um por cento e inferior a dez por cento do valor corrigido da causa, a indenizar a parte contrária pelos prejuízos que esta sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou."
+- Última alteração: arts. 79, 80 e 81: a cópia local não traz marca de alteração (redação original)
+- Vigência: vigente
+- Exceções relevantes: art. 81, §§ 1º a 3º
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 20/10/2026
+- Situação: respondida
+
+## Resposta à devolução · tgp-principios-031
+
+- Pergunta: Se a citação tem defeito de forma, mas o réu comparece e se defende, o ato é nulo? O que o CPC prevê?
+- Resposta completa:
+  1. Dispositivo específico: art. 239, § 1º: "O comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução." Efeitos: (a) a falta ou a nulidade da citação fica suprida; (b) o prazo para contestar (ou para embargar a execução) passa a correr da data do comparecimento.
+  2. Contexto: o art. 239, caput, diz que a citação do réu ou do executado é indispensável para a validade do processo, ressalvados o indeferimento da petição inicial e a improcedência liminar do pedido.
+  3. Se o réu comparece apenas para alegar a nulidade e a alegação é rejeitada (art. 239, § 2º): no processo de conhecimento, o réu é considerado revel; na execução, o feito tem seguimento.
+  4. Regras gerais que se somam: art. 277 (validade do ato realizado de outro modo que alcance a finalidade); art. 280 (citações e intimações são nulas quando feitas sem observância das prescrições legais); art. 282, § 1º (o ato não é repetido nem sua falta suprida quando não prejudicar a parte).
+  5. Resposta direta: pelo art. 239, § 1º, o comparecimento espontâneo do réu supre a nulidade da citação; este bloco corrige a resposta anterior, que não havia localizado esse dispositivo.
+- Dispositivo: CPC, art. 239, caput e §§ 1º e 2º; arts. 277, 280 e 282, § 1º
+- Texto vigente: "Art. 239. Para a validade do processo é indispensável a citação do réu ou do executado, ressalvadas as hipóteses de indeferimento da petição inicial ou de improcedência liminar do pedido. § 1º O comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução. § 2º Rejeitada a alegação de nulidade, tratando-se de processo de: I - conhecimento, o réu será considerado revel; II - execução, o feito terá seguimento."
+- Última alteração: art. 239: a cópia local não traz marca de alteração (redação original)
+- Vigência: vigente
+- Exceções relevantes: art. 239, § 2º (alegação de nulidade rejeitada: revelia ou seguimento da execução)
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 20/10/2026
+- Situação: respondida

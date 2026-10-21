@@ -295,3 +295,38 @@ Regra de prazo aplicada (CPC, art. 219): prazo em dias fixado em lei conta só d
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 20/10/2026
 - Situação: respondida
+
+## Resposta à devolução · pe-curatela-004
+
+- Pergunta: Em que hipóteses o CC prevê a nomeação de tutor para filhos menores?
+- Resposta completa:
+  1. Nomeação pelos pais (tutela testamentária ou documental). O direito de nomear tutor "compete aos pais, em conjunto", e a nomeação deve constar de testamento ou outro documento autêntico (CC, art. 1.729 e parágrafo único). É nula a nomeação feita por quem, ao tempo da morte, não tinha o poder familiar (art. 1.730).
+  2. Condição do art. 1.634, VI. Entre as atribuições do poder familiar, o art. 1.634, VI, inclui "nomear-lhes tutor por testamento ou documento autêntico, se o outro dos pais não lhe sobreviver, ou o sobrevivo não puder exercer o poder familiar". A nomeação por um dos pais só se afirma, portanto, quando o outro não sobrevive, ou quando o sobrevivente não pode exercer o poder familiar. É a condição legal de que a nomeação feita por um dos pais produza o efeito de nomear tutor. O art. 1.634, caput, atribui o exercício a ambos os pais, qualquer que seja sua situação conjugal.
+  3. Falta de tutor nomeado pelos pais (tutela legítima). Incumbe aos parentes consanguíneos, por esta ordem: ascendentes (o de grau mais próximo preferindo ao mais remoto) e colaterais até o 3º grau (os mais próximos preferindo aos mais remotos e, no mesmo grau, os mais velhos aos mais moços); em qualquer caso, o juiz escolhe o mais apto a exercer a tutela em benefício do menor (art. 1.731).
+  4. Tutela dativa. O juiz nomeia tutor idôneo e residente no domicílio do menor: na falta de tutor testamentário ou legítimo; quando estes forem excluídos ou escusados; ou quando removidos por não idôneos (art. 1.732).
+  5. Art. 1.734: "As crianças e os adolescentes cujos pais forem desconhecidos, falecidos ou que tiverem sido suspensos ou destituídos do poder familiar terão tutores nomeados pelo Juiz ou serão incluídos em programa de colocação familiar, na forma prevista pela Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente." O texto do art. 1.734 prevê, assim, duas alternativas para esses menores: tutores nomeados pelo juiz ou inclusão em programa de colocação familiar do ECA. Não faz remissão aos arts. 1.729 a 1.732.
+  6. Situações de tutela (art. 1.728): morte ou ausência dos pais, ou decadência do poder familiar. Para o filho não reconhecido pelo pai e cuja mãe não seja conhecida ou capaz de exercer o poder familiar, dá-se tutor ao menor (art. 1.633).
+- Dispositivo: CC, arts. 1.633, 1.634, VI, 1.728, 1.729, 1.730, 1.731, 1.732 e 1.734
+- Texto vigente: "Art. 1.634. Compete a ambos os pais, qualquer que seja a sua situação conjugal, o pleno exercício do poder familiar, que consiste em, quanto aos filhos: ... VI - nomear-lhes tutor por testamento ou documento autêntico, se o outro dos pais não lhe sobreviver, ou o sobrevivo não puder exercer o poder familiar;" / "Art. 1.734. As crianças e os adolescentes cujos pais forem desconhecidos, falecidos ou que tiverem sido suspensos ou destituídos do poder familiar terão tutores nomeados pelo Juiz ou serão incluídos em programa de colocação familiar, na forma prevista pela Lei no 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente."
+- Última alteração: art. 1.634 (caput e inciso VI): Lei 13.058, de 2014. Art. 1.734: Lei 12.010, de 2009. Arts. 1.729 a 1.732: redação original.
+- Vigência: vigente
+- Exceções relevantes: art. 1.730 (nulidade); art. 1.734 (programa de colocação familiar do ECA como alternativa)
+- Fonte: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+- Consultado em: 20/10/2026
+- Situação: respondida
+
+## Resposta à devolução · pe-curatela-028
+
+- Pergunta: Quem responde civilmente pelos atos de tutelados e curatelados, e em que condições?
+- Resposta completa:
+  1. Responsabilidade do tutor e do curador (CC, art. 932, II): respondem pela reparação civil dos pupilos e curatelados que se acharem nas mesmas condições (as do inciso I: sob autoridade e em companhia). Respondem "ainda que não haja culpa de sua parte" (art. 933). Quem ressarce pode reaver o que pagou daquele por quem pagou, salvo se o causador do dano for descendente seu, absoluta ou relativamente incapaz (art. 934).
+  2. Responsabilidade do próprio incapaz (art. 928, caput): "O incapaz responde pelos prejuízos que causar, se as pessoas por ele responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes." A responsabilidade do incapaz é, portanto, condicionada: depende de os responsáveis não terem a obrigação de reparar ou não terem meios suficientes.
+  3. Limites (art. 928, parágrafo único): "A indenização prevista neste artigo, que deverá ser eqüitativa, não terá lugar se privar do necessário o incapaz ou as pessoas que dele dependem." Duas limitações: a indenização deve ser eqüitativa e não pode privar do necessário o incapaz nem seus dependentes.
+- Dispositivo: CC, arts. 928, caput e parágrafo único; 932, II; 933; 934
+- Texto vigente: "Art. 928. O incapaz responde pelos prejuízos que causar, se as pessoas por ele responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes. Parágrafo único. A indenização prevista neste artigo, que deverá ser eqüitativa, não terá lugar se privar do necessário o incapaz ou as pessoas que dele dependem." / "Art. 932. São também responsáveis pela reparação civil: ... II - o tutor e o curador, pelos pupilos e curatelados, que se acharem nas mesmas condições;" / "Art. 933. As pessoas indicadas nos incisos I a V do artigo antecedente, ainda que não haja culpa de sua parte, responderão pelos atos praticados pelos terceiros ali referidos."
+- Última alteração: redação original (a cópia local não traz marca de alteração nos arts. 928, 932, 933 e 934)
+- Vigência: vigente
+- Exceções relevantes: art. 928, parágrafo único (limite eqüitativo e do necessário); art. 934 (regresso, salvo contra descendente incapaz)
+- Fonte: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+- Consultado em: 20/10/2026
+- Situação: respondida
