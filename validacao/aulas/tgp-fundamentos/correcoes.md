@@ -40,4 +40,4 @@ Não aplicada. A aula não tem linha "Validada em" no código, e 008 e 014 segue
 ## Notado de passagem
 
 - **[RJ] linha 15**: "A Justiça Federal tem competência para julgar casos que envolvem matérias de interesse da União, como questões fiscais, de imigração, e crimes federais" é uma descrição genérica, sem as ressalvas do art. 109, I. Fora do trecho do ID; não alterei.
-- **tgp.js:30 (organograma "Como a Justiça está dividida")**: a legenda "União · juízes e TRF" é só rótulo do ramo; não afirma competência e não foi alterada.
+- **tgp.js:35 (organograma "Como a Justiça está dividida")**: a legenda "União · juízes e TRF" é só rótulo do ramo; não afirma competência e não foi alterada.

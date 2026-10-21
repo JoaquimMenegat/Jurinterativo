@@ -1,0 +1,10 @@
+# Segunda conferência — tgp-capacidade
+
+Data-base: 20/10/2026. Consulta às fontes: 21/10/2026. Escopo: respostas à devolução dos IDs 006 e 007.
+
+| ID | Pesquisa | Resultado | Link aberto por mim? | Motivo / observação |
+|---|---|---|---|---|
+| tgp-capacidade-006 | Lei — resposta à devolução | aceita | Sim: [CC compilado](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm) e [CPC compilado](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm). | Aceitação parcial. O núcleo encontra apoio nos arts. 3º, 4º, I, 5º, 1.634, VII, 1.690 e 1.747, I, do CC: representação abaixo de 16 anos e assistência dos 16 aos 18 incompletos, ressalvada a emancipação. O CPC, arts. 71 e 72, I, sustenta a atuação processual e a curadoria especial. Dispositivos vigentes na data-base. Não aceito o acréscimo de que o curador somente atuaria se houvesse curatela do próprio menor: a restrição não decorre dos dispositivos citados e desconsidera a extensão da autoridade do curador aos filhos do curatelado, prevista no art. 1.778 do CC. |
+| tgp-capacidade-007 | Lei — resposta à devolução | aceita | Sim: [CC compilado](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm) e [CPC compilado](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm). | Aceitação parcial. Sustentam-se a enumeração do art. 4º, a assistência aos menores pelos arts. 1.634, VII, 1.690 e 1.747, I, a sujeição à curatela do art. 1.767 e a participação do curador do pródigo do art. 1.782. Dispositivos vigentes na data-base. Não aceita a transposição automática do critério etário da tutela para definir a atuação do curador de adultos: a remissão do art. 1.781 não demonstra essa conclusão. O CPC, art. 71, mantém as duas modalidades. **Lacuna para jurisprudência:** representação ou assistência dos adultos sob curatela; não há pesquisa jurisprudencial desse ponto no material recebido. |
+
+Resumo: 2 aceitas, ambas parcialmente; 0 devolvidas; 0 conflitos entre fontes; 0 não verificáveis. Links abertos: 2 URLs distintas, examinadas para ambos os IDs.
