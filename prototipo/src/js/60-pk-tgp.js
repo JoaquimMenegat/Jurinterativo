@@ -42,7 +42,7 @@ blocks:[
 <text class="pop" style="transition-delay:1.4s" x="380" y="300" text-anchor="middle" fill="var(--muted)" font-size="13">Órgão singular: um juiz decide · Órgão colegiado: turma ou câmara decide em conjunto</text></svg>`},
 {t:`sorter`,h:`Qual justiça julga?`,bins:[`Estadual`,`Federal`,`Trabalho`,`Eleitoral`],cards:[
 [`Ação de cobrança entre dois vizinhos.`,0,`Competência residual: tudo o que não é das justiças especiais nem da Federal fica na Estadual.`],
-[`Ação em que a União é ré.`,1,`${a(`CF, art. 109, I`)}: causas de interesse da União, autarquias e empresas públicas federais.`],
+[`Ação em que a União é ré, fora das exceções constitucionais.`,1,`${a(`CF, art. 109, I`)}: União, autarquias e empresas públicas federais como autoras, rés, assistentes ou oponentes, exceto falência, acidentes de trabalho e causas das Justiças Eleitoral e do Trabalho.`],
 [`Empregado cobra horas extras do empregador.`,2,`Relação de trabalho: ${a(`CF, art. 114`)}.`],
 [`Impugnação ao registro de candidatura.`,3,`Matéria eleitoral, organizada pela Justiça Eleitoral.`]]}],
 quiz:[
@@ -86,10 +86,10 @@ intro:`Os princípios dão forma a todo o resto. Muitos estão na Constituição
 blocks:[
 {t:`flips`,h:`Garantias constitucionais`,items:[
 [`Devido processo legal`,`Ninguém é privado da liberdade ou dos bens sem processo justo (${a(`CF, art. 5º, LIV`)}). É a cláusula-mãe de onde derivam os demais.`],
-[`Contraditório`,`Não se decide contra a parte sem ouvi-la antes (${a(`CPC, art. 9º`)}). Basta a <em>oportunidade</em> de falar. Vedada a decisão surpresa (${a(`art. 10`)}).`],
+[`Contraditório`,`Em regra, não se decide contra a parte sem prévia oportunidade de manifestação (${a(`CPC, art. 9º`)}); o parágrafo único excepciona a tutela de urgência, a tutela da evidência do art. 311, II e III, e a decisão do art. 701. Basta a <em>oportunidade</em> de falar. Vedada a decisão surpresa (${a(`art. 10`)}).`],
 [`Ampla defesa`,`Defesa com todos os meios e recursos lícitos (${a(`CF, art. 5º, LV`)}). Não há contraditório sem defesa, nem defesa sem contraditório.`],
 [`Isonomia`,`Paridade de armas (${a(`CPC, art. 7º`)}). Igualdade material: tratar desigualmente os desiguais, na medida da desigualdade.`],
-[`Duração razoável`,`Solução integral do mérito em prazo razoável (${a(`CF, art. 5º, LXXVIII`)}, EC 45/2004; ${a(`CPC, art. 4º`)}).`],
+[`Duração razoável`,`Solução integral do mérito em prazo razoável, incluída a atividade satisfativa (${a(`CF, art. 5º, LXXVIII`)}, EC 45/2004; ${a(`CPC, art. 4º`)}).`],
 [`Juiz natural e imparcial`,`Juiz previamente competente e sem interesse na causa (${a(`CF, art. 5º, XXXVII e LIII`)}; impedimento e suspeição, ${a(`CPC, arts. 144 e 145`)}).`],
 [`Publicidade`,`Atos públicos, salvo segredo de justiça (${a(`CF, arts. 5º, LX, e 93, IX`)}; ${a(`CPC, art. 189`)}).`],
 [`Motivação`,`Toda decisão fundamentada, sob pena de nulidade (${a(`CF, art. 93, IX`)}; ${a(`CPC, arts. 11 e 489, §1º`)}).`]]},
@@ -99,9 +99,9 @@ blocks:[
 [`Economia processual`,`Máximo resultado com mínimo de atos: aproveitar atos (${a(`art. 283`)}), reunir ações conexas, admitir reconvenção.`],
 [`Eficiência`,`Dever do juiz ao aplicar o ordenamento (${a(`CPC, art. 8º`)}). Corolário do devido processo legal.`],
 [`Boa-fé e cooperação`,`Todos agem com lealdade e cooperam para a decisão justa (${a(`CPC, arts. 5º e 6º`)}). Má-fé gera multa (${a(`arts. 80 e 81`)}).`],
-[`Duplo grau`,`Revisão por órgão superior. Implícito na CF; expresso na Convenção Americana (art. 8.2.h). Não é absoluto.`]]},
+[`Duplo grau`,`Revisão por órgão superior. Implícito na CF. Na acusação de delito, a Convenção Americana assegura expressamente o direito de recorrer da sentença para juiz ou tribunal superior (art. 8.2.h). Não é absoluto.`]]},
 {t:`sorter`,h:`Qual princípio está em jogo?`,bins:[`Contraditório`,`Juiz natural`,`Motivação`,`Instrumentalidade`,`Duração razoável`],cards:[
-[`O juiz quer reconhecer prescrição que nenhuma parte alegou, sem ouvi-las antes.`,0,`Vedada a decisão surpresa, mesmo em matéria de ofício (${a(`CPC, art. 10`)}).`],
+[`Fora da hipótese de improcedência liminar do art. 332, §1º, o juiz quer reconhecer prescrição não alegada sem dar oportunidade de manifestação às partes.`,0,`Vedada a decisão surpresa, mesmo em matéria de ofício (${a(`CPC, arts. 10 e 487, parágrafo único`)}).`],
 [`Cria-se um tribunal especial, depois do fato, só para julgar aquele caso.`,1,`Proibido tribunal de exceção (${a(`CF, art. 5º, XXXVII`)}).`],
 [`A liminar diz apenas: "presentes os pressupostos legais, defiro".`,2,`Fórmula genérica não é fundamentação (${a(`CPC, art. 489, §1º, III`)}).`],
 [`A citação teve vício de forma, mas o réu compareceu e contestou tudo.`,3,`Atingida a finalidade, não se anula (${a(`CPC, art. 239, §1º e 277`)}).`],
@@ -111,15 +111,15 @@ blocks:[
 [`II`,`Usar conceito jurídico indeterminado sem explicar por que incide`],
 [`III`,`Invocar motivos que serviriam para qualquer decisão`],
 [`IV`,`Não enfrentar argumentos capazes de mudar a conclusão`],
-[`V`,`Citar precedente ou súmula sem identificar seus fundamentos determinantes`],
+[`V`,`Limitar-se a invocar precedente ou súmula sem identificar seus fundamentos determinantes e demonstrar que o caso se ajusta a eles`],
 [`VI`,`Deixar de seguir precedente invocado sem demonstrar distinção ou superação`]]},
-{t:`vs`,h:`Duplo grau não é o mesmo que recorribilidade`,l:{t:`Recurso sem duplo grau pleno`,i:[`Recurso especial e extraordinário: só discutem direito, não reexaminam provas`,`Embargos de declaração: julgados pelo mesmo órgão`,`Competência originária do STF: cabem só recursos internos (embargos de declaração, agravo interno); não há instância acima para reexaminar`]},r:{t:`Duplo grau sem recurso`,i:[`Remessa necessária: sentença contra a Fazenda sobe ao tribunal mesmo sem apelação (${a(`CPC, art. 496`)})`]}},
+{t:`vs`,h:`Duplo grau não é o mesmo que recorribilidade`,l:{t:`Recurso sem duplo grau pleno`,i:[`Recurso especial e extraordinário: só discutem direito, não reexaminam provas`,`Embargos de declaração: julgados pelo mesmo órgão`,`Competência originária do STF: cabem só recursos internos (embargos de declaração, agravo interno); não há instância acima para reexaminar`]},r:{t:`Duplo grau sem recurso`,i:[`Remessa necessária: nas hipóteses do art. 496, a sentença é submetida ao tribunal mesmo sem apelação, ressalvadas as dispensas dos §§ 3º e 4º (${a(`CPC, art. 496`)})`]}},
 {t:`juris`,h:`Na jurisprudência`,items:[
 {court:`Corte IDH`,year:`2012`,id:`Caso Mohamed vs. Argentina`,tese:`O condenado tem direito de recorrer da primeira condenação, mesmo quando ela reforma uma absolvição.`,html:`Fundamento: art. 8.2.h da Convenção Americana. O recurso deve permitir revisão ampla, de fato e de direito.`}]},
-{t:`callout`,kind:`sage`,title:`Publicidade e segredo de justiça`,html:`<p>Tramitam em segredo (${a(`CPC, art. 189`)}): interesse público ou social; casamento, divórcio, união estável, filiação, alimentos e guarda; dados protegidos pela intimidade; arbitragem com confidencialidade comprovada. Terceiro com interesse jurídico pode pedir certidão do dispositivo da sentença.</p>`}],
+{t:`callout`,kind:`sage`,title:`Publicidade e segredo de justiça`,html:`<p>Tramitam em segredo (${a(`CPC, art. 189`)}): os processos em que o interesse público ou social o exigir; os que tratam de casamento, separação de corpos, divórcio, separação, união estável, filiação, alimentos e guarda de crianças e adolescentes; os que contêm dados protegidos pela intimidade; e os processos judiciais sobre arbitragem, inclusive cumprimento de carta arbitral, quando comprovada perante o juízo a confidencialidade estipulada na arbitragem. Terceiro com interesse jurídico pode pedir certidão do dispositivo da sentença.</p>`}],
 quiz:[
 [`O contraditório exige que a parte efetivamente se manifeste?`,[`Sim, sempre`,`Não, basta ter tido a oportunidade`,`Só no processo penal`],1,`O que se garante é a oportunidade de participar e influir.`],
-[`Pode o juiz decidir com base em fundamento sobre o qual as partes não falaram, se for matéria de ordem pública?`,[`Sim, livremente`,`Não, deve ouvi-las antes`,`Só em segundo grau`],1,`${a(`CPC, art. 10`)}.`],
+[`Fora da hipótese de improcedência liminar por prescrição ou decadência (CPC, art. 332, §1º), o juiz pode decidir matéria de ordem pública com base em fundamento sobre o qual não deu às partes oportunidade de manifestação?`,[`Sim, livremente`,`Não, deve dar oportunidade de manifestação antes`,`Só em segundo grau`],1,`${a(`CPC, art. 10`)}.`],
 [`A remessa necessária é exemplo de:`,[`recurso sem duplo grau`,`duplo grau sem recurso`,`fungibilidade`],1,`A sentença sobe ao tribunal por força de lei, sem recurso.`],
 [`Prazo em dobro para a Defensoria concretiza qual princípio?`,[`Isonomia material`,`Publicidade`,`Inércia`],0,`Tratar desigualmente os desiguais para equilibrar a disputa.`]]},
 

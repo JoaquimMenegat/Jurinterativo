@@ -26,6 +26,8 @@ LEIS = {
     'l9307': 'https://www.planalto.gov.br/ccivil_03/leis/l9307.htm',
     'l13140': 'https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm',
     'lc95': 'https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm',
+    'cdc': 'https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm',
+    'l14879': 'https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14879.htm',
     'd678': 'https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm',
     'lc80': 'https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm',
     'l15484': 'https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15484.htm',

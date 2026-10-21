@@ -1,6 +1,6 @@
 # Pesquisa de lei — tgp-fundamentos
 
-Data-base: 20/10/2026. Cópia local de `validacao/fontes/` (cpc.txt, cf.txt, cpp.txt, lc64.txt), baixada em 20/10/2026.
+Data-base: 20/10/2026. Cópia local de `validacao/fontes/` (cpc.txt, cf.txt, cpp.txt, lc64.txt), baixada em 20/10/2026; lc95.txt baixada em 21/10/2026.
 
 ### tgp-fundamentos-003
 - Resposta: A jurisdição civil é exercida pelos juízes e pelos tribunais, em todo o território nacional, conforme o CPC.
@@ -14,7 +14,7 @@ Data-base: 20/10/2026. Cópia local de `validacao/fontes/` (cpc.txt, cf.txt, cpp
 - Situação: respondida
 
 ### tgp-fundamentos-008
-- Resposta: É a Lei nº 13.105, de 16 de março de 2015. O compilado indica publicação no DOU de 17.3.2015. O CPC entra em vigor após 1 ano da publicação oficial.
+- Resposta: É a Lei nº 13.105, de 16 de março de 2015. O compilado indica publicação no DOU de 17.3.2015. O CPC entra em vigor após 1 ano da publicação oficial. (Data calendário: ver a seção "Resposta à devolução · tgp-fundamentos-008", ao fim do arquivo.)
 - Dispositivo: Lei 13.105/2015, preâmbulo e rodapé do compilado; art. 1.045
 - Texto vigente: "LEI Nº 13.105, DE 16 DE MARÇO DE 2015. [...] Código de Processo Civil." / "Este texto não substitui o publicado no DOU de 17.3.2015" / "Art. 1.045. Este Código entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial."
 - Última alteração: art. 1.045, redação original. O compilado traz a nota "Vide Lei nº 15.479, de 2026" e "Vide Lei nº 15.484, de 2026" (esta regulamenta a relevância no REsp; não altera os arts. 16 nem 1.045).
@@ -23,7 +23,6 @@ Data-base: 20/10/2026. Cópia local de `validacao/fontes/` (cpc.txt, cf.txt, cpp
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 20/10/2026
 - Situação: respondida
-- Lacuna: o texto do CPC não escreve a data calendário do início da vigência, só o critério de 1 ano após a publicação. A conversão em data exata não foi verificada em fonte primária (LC 95/1998, art. 8º, §2º, não consultada).
 
 ### tgp-fundamentos-011
 - Resposta: A ação penal pública é promovida, privativamente, pelo Ministério Público, por denúncia. A ação privada é intentada pelo ofendido ou por quem tenha qualidade para representá-lo, por queixa; o CPP chama o autor de "querelante" (art. 29). Também se admite ação privada nos crimes de ação pública se esta não for intentada no prazo legal.
@@ -121,14 +120,16 @@ Data-base: 20/10/2026. Cópia local de `validacao/fontes/` (cpc.txt, cf.txt, cpp
 - Pergunta: Qual lei federal instituiu o atual CPC, e em que data foi publicada e entrou em vigor?
 - Resposta completa:
   1. Lei: Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).
-  2. Publicação: a cópia compilada traz o aviso "Este texto não substitui o publicado no DOU de 17.3.2015". A publicação oficial é, portanto, a de 17/03/2015.
-  3. Entrada em vigor: o art. 1.045 não fixa data. Diz que o Código "entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial". O que o texto permite concluir: a vigência começa depois de completado um ano contado da publicação de 17/03/2015, ou seja, não antes de março de 2016. A data exata do primeiro dia de vigência depende da regra de contagem de prazo de vacância (Lei Complementar 95/1998, art. 8º, § 2º), que não está na cópia local em `validacao/fontes/` e não foi consultada. Por isso, esta pesquisa não afirma a data calendário.
-- Dispositivo: Lei 13.105/2015, art. 1.045
-- Texto vigente: "Art. 1.045. Este Código entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial."
-- Última alteração: redação original
-- Vigência: vigente desde o fim da vacatio legis (já decorrida na data-base 20/10/2026)
-- Exceções relevantes: nenhuma encontrada no art. 1.045. O compilado traz "Vide Lei nº 15.479, de 2026" e "Vide Lei nº 15.484, de 2026" no cabeçalho, sem alterar o art. 1.045.
-- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
-- Consultado em: 20/10/2026
+  2. Publicação: a cópia compilada traz "Este texto não substitui o publicado no DOU de 17.3.2015". Publicação oficial: 17/03/2015.
+  3. Regra de vacância: "Art. 1.045. Este Código entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial." O art. 1.045 não escreve a data calendário.
+  4. Regra de contagem (LC 95/1998, art. 8º, § 1º): "A contagem do prazo para entrada em vigor das leis que estabeleçam período de vacância far-se-á com a inclusão da data da publicação e do último dia do prazo, entrando em vigor no dia subseqüente à sua consumação integral."
+  5. Aplicação: o prazo de 1 ano conta-se incluindo a data da publicação (17/03/2015). Com essa inclusão, o ano se completa em 16/03/2016, que é o último dia do prazo. O Código entra em vigor no dia subsequente à consumação integral, ou seja, em 17/03/2016.
+  Resultado: publicação em 17/03/2015; entrada em vigor em 17/03/2016. Esta data é a que resulta da aplicação do art. 8º, § 1º, da LC 95/1998 ao art. 1.045 do CPC; não é escrita no CPC.
+- Dispositivo: Lei 13.105/2015, art. 1.045; LC 95/1998, art. 8º, § 1º
+- Texto vigente: "Art. 1.045. Este Código entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial." / LC 95/1998, art. 8º, § 1º: "A contagem do prazo para entrada em vigor das leis que estabeleçam período de vacância far-se-á com a inclusão da data da publicação e do último dia do prazo, entrando em vigor no dia subseqüente à sua consumação integral."
+- Última alteração: CPC, art. 1.045: redação original. LC 95/1998, art. 8º, § 1º: incluído pela Lei Complementar nº 107, de 26/04/2001.
+- Vigência: vigente (vacatio legis encerrada; CPC em vigor desde 17/03/2016, na data-base 20/10/2026)
+- Exceções relevantes: nenhuma encontrada no art. 1.045. O compilado do CPC traz "Vide Lei nº 15.479, de 2026" e "Vide Lei nº 15.484, de 2026" no cabeçalho, sem alterar o art. 1.045.
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm ; https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm
+- Consultado em: 20/10/2026 (CPC) e 21/10/2026 (LC 95)
 - Situação: respondida
-- Lacuna: a data calendário exata do início da vigência não consta do texto do CPC. Para fixá-la, o Orquestrador precisa baixar a LC 95/1998 (art. 8º, § 2º) para `validacao/fontes/`.
