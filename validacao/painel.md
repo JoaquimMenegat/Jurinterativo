@@ -70,7 +70,7 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | pe-arrolamento | Arrolamento, sobrepartilha e inventário negativo | validada | 20/10/2026 |
 | pe-juizados | Juizados Especiais Cíveis | validada | 20/10/2026 |
 | pe-curatela | Tutela, curatela e interdição | validada | 21/10/2026 |
-| pe-alvara | Alvará judicial | em conferência | — |
+| pe-alvara | Alvará judicial | validada | 21/10/2026 |
 | pe-tribunais | Precedentes e julgamento nos tribunais | validada | 18/10/2026 |
 | pe-teoria-recursos | Teoria geral dos recursos | validada | 18/10/2026 |
 | pe-admissibilidade | Juízo de admissibilidade | validada | 18/10/2026 |

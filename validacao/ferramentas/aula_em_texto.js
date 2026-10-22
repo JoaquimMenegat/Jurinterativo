@@ -54,6 +54,40 @@ const ondeEsta = trecho => {
   return '?';
 };
 
+// Calculadoras só de escolha (select e caixas de marcar): roda o código real de engine.js em cada
+// combinação e lista o resultado, para a conferência ver o que o aluno lê. Com campo de data ou número,
+// não há como enumerar; essas ficam para validacao/ferramentas/testar_calculadoras.js.
+const calcEstados = kind => {
+  const engine = fs.readFileSync(path.join(dir, '..', 'engine.js'), 'utf8').split('\n');
+  const ini = engine.findIndex(l => l.startsWith(`CALC.${kind}=`));
+  if (ini < 0) return [];
+  let fim = ini + 1;
+  while (fim < engine.length && !engine[fim].startsWith('CALC.') && !engine[fim].startsWith('B.')) fim++;
+  const el = () => { const f = {}; return { innerHTML: '', value: '', checked: false, style: {}, classList: { add() {}, remove() {} },
+    addEventListener() {}, querySelectorAll: () => [], closest: () => null, querySelector(s) { return f[s] || (f[s] = el()); } }; };
+  const c = { CALC: {}, Date, Math };
+  vm.createContext(c);
+  try { vm.runInContext(['const pad=n=>String(n).padStart(2,"0");', 'const replay=()=>{};', ...engine.slice(ini, fim)].join('\n'), c); } catch { return []; }
+  const modelo = el();
+  try { c.CALC[kind](modelo); } catch { return []; }
+  const html = modelo.innerHTML;
+  if (/type="(date|number|text)"/.test(html)) return [];
+  const selects = [...html.matchAll(/<select class="(\w+)">(.*?)<\/select>/g)].map(m => ({
+    cls: m[1], ops: [...m[2].matchAll(/<option value="([^"]*)">([^<]*)/g)].map(o => [o[1], o[2]]) }));
+  const caixas = [...html.matchAll(/<input type="checkbox" class="(\w+)"[^>]*>\s*<span>([^<]*)/g)].map(m => [m[1], m[2].trim()]);
+  const combos = [[]];
+  selects.forEach(s => { const n = []; combos.forEach(cb => s.ops.forEach(o => n.push([...cb, ['s', s.cls, o]]))); combos.splice(0, combos.length, ...n); });
+  caixas.forEach(x => { const n = []; combos.forEach(cb => [true, false].forEach(v => n.push([...cb, ['c', x, v]]))); combos.splice(0, combos.length, ...n); });
+  if (combos.length > 64) return [`(${combos.length} combinações: grande demais para listar)`];
+  return combos.map(cb => {
+    const e = el();
+    cb.forEach(([tipo, a, v]) => { if (tipo === 's') e.querySelector(`.${a}`).value = v[0]; else e.querySelector(`.${a[0]}`).checked = v; });
+    try { c.CALC[kind](e); } catch (err) { return `erro ao rodar: ${err.message}`; }
+    const entrada = cb.map(([tipo, a, v]) => tipo === 's' ? v[1] : `${a[1]}: ${v ? 'sim' : 'não'}`).join('; ');
+    return `Se ${entrada} → ${e.querySelector('.out').innerHTML}`;
+  });
+};
+
 const out = [];
 let itens = 0;
 const item = (endereco, texto) => {
@@ -85,7 +119,8 @@ mod.blocks.forEach((b, n) => {
     const { bins, cards, ...outros } = resto;
     folhas(outros, nb);
   } else if (t === 'calc') {
-    item(`${nb}.calculadora`, `Calculadora "${b.id || b.calc || JSON.stringify(resto).slice(0, 60)}": a regra está em engine.js (CALC)`);
+    item(`${nb}.calculadora`, `Calculadora "${b.kind || b.id || b.calc || JSON.stringify(resto).slice(0, 60)}": a regra está em engine.js (CALC)`);
+    calcEstados(b.kind).forEach((e, i) => item(`${nb}.calculadora.estado${i + 1}`, e));
     folhas(resto, nb);
   } else {
     folhas(resto, nb);
