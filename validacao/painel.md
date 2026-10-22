@@ -33,14 +33,14 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | tgp-modificacao | Modificação e conflito de competência | em extração | — |
 | tgp-capacidade | Capacidade, representação e procuração | em extração | — |
 | tgp-litisconsorcio | Litisconsórcio | em extração | — |
-| tgp-terceiros | Intervenção de terceiros | não iniciada | — |
-| tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | não iniciada | — |
-| tgp-atos | Atos processuais e pronunciamentos | não iniciada | — |
-| tgp-prazos | Prazos processuais | não iniciada | — |
-| tgp-nulidades | Nulidades processuais | não iniciada | — |
-| tgp-valor | Valor da causa | não iniciada | — |
-| tgp-despesas | Despesas e honorários | não iniciada | — |
-| tgp-ciclo | Formação, suspensão e extinção | não iniciada | — |
+| tgp-terceiros | Intervenção de terceiros | em extração | — |
+| tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | em extração | — |
+| tgp-atos | Atos processuais e pronunciamentos | em extração | — |
+| tgp-prazos | Prazos processuais | em extração | — |
+| tgp-nulidades | Nulidades processuais | em extração | — |
+| tgp-valor | Valor da causa | em extração | — |
+| tgp-despesas | Despesas e honorários | em extração | — |
+| tgp-ciclo | Formação, suspensão e extinção | em extração | — |
 | con-rito | O mapa do procedimento comum | não iniciada | — |
 | con-inicial | Petição inicial | não iniciada | — |
 | con-admissibilidade | Indeferimento e improcedência liminar | não iniciada | — |
