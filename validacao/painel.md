@@ -33,23 +33,23 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | tgp-modificacao | Modificação e conflito de competência | validada | 22/10/2026 |
 | tgp-capacidade | Capacidade, representação e procuração | validada | 22/10/2026 |
 | tgp-litisconsorcio | Litisconsórcio | validada | 22/10/2026 |
-| tgp-terceiros | Intervenção de terceiros | em extração | — |
-| tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | em extração | — |
-| tgp-atos | Atos processuais e pronunciamentos | em extração | — |
-| tgp-prazos | Prazos processuais | em extração | — |
-| tgp-nulidades | Nulidades processuais | em extração | — |
-| tgp-valor | Valor da causa | em extração | — |
-| tgp-despesas | Despesas e honorários | em extração | — |
-| tgp-ciclo | Formação, suspensão e extinção | em extração | — |
-| con-rito | O mapa do procedimento comum | não iniciada | — |
-| con-inicial | Petição inicial | não iniciada | — |
-| con-admissibilidade | Indeferimento e improcedência liminar | não iniciada | — |
-| con-pedido | Pedido | não iniciada | — |
+| tgp-terceiros | Intervenção de terceiros | em conferência | — |
+| tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | em conferência | — |
+| tgp-atos | Atos processuais e pronunciamentos | em conferência | — |
+| tgp-prazos | Prazos processuais | em conferência | — |
+| tgp-nulidades | Nulidades processuais | em conferência | — |
+| tgp-valor | Valor da causa | em conferência | — |
+| tgp-despesas | Despesas e honorários | em conferência | — |
+| tgp-ciclo | Formação, suspensão e extinção | em conferência | — |
+| con-rito | O mapa do procedimento comum | em conferência | — |
+| con-inicial | Petição inicial | em conferência | — |
+| con-admissibilidade | Indeferimento e improcedência liminar | em conferência | — |
+| con-pedido | Pedido | em conferência | — |
 | con-audiencia334 | Audiência de conciliação ou mediação | não iniciada | — |
-| con-contestacao | Contestação | não iniciada | — |
-| con-reconvencao | Reconvenção | não iniciada | — |
-| con-revelia | Revelia | não iniciada | — |
-| con-preliminares | Providências preliminares | não iniciada | — |
+| con-contestacao | Contestação | em conferência | — |
+| con-reconvencao | Reconvenção | em conferência | — |
+| con-revelia | Revelia | em conferência | — |
+| con-preliminares | Providências preliminares | em conferência | — |
 | con-estado | Julgamento conforme o estado do processo | não iniciada | — |
 | con-saneamento | Saneamento e ônus da prova | não iniciada | — |
 | con-aij | Audiência de instrução e julgamento | não iniciada | — |

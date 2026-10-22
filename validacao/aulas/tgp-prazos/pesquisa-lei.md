@@ -1,8 +1,8 @@
 # Pesquisa de lei · tgp-prazos
 
-Data-base: 22/10/2026. Fontes locais: CPC (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) e CC (https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm), ambos baixados em 21/10/2026. "Última alteração: original" = a cópia local não traz remissão de lei alteradora no dispositivo. Nenhum dispositivo citado aparece riscado, salvo onde indicado. Lei faltando em validacao/fontes/: Lei 11.419/2006 (processo eletrônico), necessária para tgp-prazos-012.
+Data-base: 22/10/2026. Fontes locais: CPC (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) e CC (https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm), ambos baixados em 21/10/2026; Lei 11.419/2006 (https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm), baixada em 22/10/2026. "Última alteração: original" = a cópia local não traz remissão de lei alteradora no dispositivo. Nenhum dispositivo citado aparece riscado, salvo onde indicado. Leis faltando: nenhuma.
 
-Regra geral usada nos prazos em dias: CPC, art. 219, caput: "Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis." (parágrafo único: só prazos processuais). Dias corridos aparecem apenas onde o texto diz (nenhum prazo do CPC nesta aula é expresso em dias corridos).
+Regra geral usada nos prazos em dias: CPC, art. 219, caput: "Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis." (parágrafo único: só prazos processuais). Dias corridos aparecem apenas onde o texto diz (no CPC desta aula nenhum prazo é expresso em dias corridos; o prazo de consulta da Lei 11.419, art. 5º, § 3º, é).
 
 ### tgp-prazos-001
 - Resposta: Da lei ("prazos prescritos em lei"), do juiz quando a lei é omissa, e de convenção das partes (negócio processual e calendário).
@@ -170,16 +170,15 @@ Regra geral usada nos prazos em dias: CPC, art. 219, caput: "Na contagem de praz
 - Situação: respondida
 
 ### tgp-prazos-012
-- Resposta: Parte respondida: no CPC, o dia do começo é o dia útil seguinte à consulta ao teor da citação ou intimação ou ao término do prazo para que a consulta se dê. A quantidade de dias (úteis ou corridos) desse prazo de consulta não consta do CPC, e a lei que o fixa (Lei do processo eletrônico, Lei 11.419/2006) não está em validacao/fontes/.
-- Dispositivo: CPC, art. 231, V; art. 270
-- Texto vigente: "o dia útil seguinte à consulta ao teor da citação ou da intimação ou ao término do prazo para que a consulta se dê, quando a citação ou a intimação for eletrônica;" / Art. 270: "As intimações realizam-se, sempre que possível, por meio eletrônico, na forma da lei."
-- Última alteração: original
+- Resposta: O dia do começo é o dia útil seguinte à consulta ao teor da intimação (ou citação) eletrônica, ou ao término do prazo para que a consulta se dê. O prazo para a parte consultar o teor é de até 10 dias corridos, contados da data do envio da intimação; se não consultar, a intimação é considerada automaticamente realizada na data do término desse prazo. Se a consulta ocorrer em dia não útil, a intimação considera-se realizada no primeiro dia útil seguinte. Pela regra do CPC, o prazo processual então começa no dia útil seguinte.
+- Dispositivo: CPC, art. 231, V; art. 270; Lei 11.419/2006, art. 5º, §§ 1º a 3º
+- Texto vigente: CPC 231, V: "o dia útil seguinte à consulta ao teor da citação ou da intimação ou ao término do prazo para que a consulta se dê, quando a citação ou a intimação for eletrônica;" / Lei 11.419, art. 5º, § 1º: "Considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização." / § 2º: "Na hipótese do § 1º deste artigo, nos casos em que a consulta se dê em dia não útil, a intimação será considerada como realizada no primeiro dia útil seguinte." / § 3º: "A consulta referida nos §§ 1º e 2º deste artigo deverá ser feita em até 10 (dez) dias corridos contados da data do envio da intimação, sob pena de considerar-se a intimação automaticamente realizada na data do término desse prazo."
+- Última alteração: CPC: original. Lei 11.419: a cópia local não traz remissão de alteração nos §§ 1º a 3º do art. 5º (redação original de 19/12/2006).
 - Vigência: vigente
-- Exceções relevantes: art. 231, IX (citação eletrônica, ver tgp-prazos-016).
-- Lacuna: o CPC não diz em quantos dias, úteis ou corridos, a parte deve consultar o teor; remete à "lei" (art. 270). Pendente: Lei 11.419/2006, que não está na pasta fontes.
-- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
-- Consultado em: 21/10/2026
-- Situação: não encontrada (parte do prazo de consulta, por falta da lei local)
+- Exceções relevantes: art. 5º, § 5º da Lei 11.419 (casos urgentes ou tentativa de burla: ato por outro meio, conforme o juiz); § 6º (intimação eletrônica é pessoal, inclusive da Fazenda). CPC 231, IX (citação eletrônica pela confirmação de recebimento, ver tgp-prazos-016).
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm e https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm
+- Consultado em: 22/10/2026 (Lei 11.419) e 21/10/2026 (CPC)
+- Situação: respondida
 
 ### tgp-prazos-013
 - Resposta: A data de juntada do comunicado do art. 232 (informação eletrônica do juiz deprecado ao deprecante) ou, não havendo esse, a data de juntada da carta aos autos de origem devidamente cumprida.
