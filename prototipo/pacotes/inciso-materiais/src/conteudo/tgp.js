@@ -124,44 +124,44 @@ quiz:[
 {id:`internacional`,group:`Competência`,title:`Limites da jurisdição e cooperação`,
 intro:`Antes de saber qual juiz brasileiro julga, é preciso saber se a causa pode ser julgada no Brasil. E, quando um ato precisa ser praticado em outro lugar, entram as cartas.`,
 blocks:[
-{t:`vs`,h:`Concorrente × exclusiva`,l:{t:`Concorrente (arts. 21 e 22)`,i:[`Réu domiciliado no Brasil`,`Obrigação a ser cumprida aqui`,`Fato ou ato praticado aqui`,`Alimentos com credor domiciliado aqui; relações de consumo com consumidor aqui`,`Ação no estrangeiro não induz litispendência (${a(`art. 24`)})`]},r:{t:`Exclusiva (art. 23)`,i:[`Ações sobre imóveis situados no Brasil`,`Sucessão: confirmar testamento particular, inventário e partilha de bens situados no Brasil`,`Divórcio, separação ou fim da união estável: partilha de bens situados no Brasil`,`Sentença estrangeira sobre isso não é homologada`]}},
+{t:`vs`,h:`Concorrente × exclusiva`,l:{t:`Concorrente (arts. 21 e 22)`,i:[`Réu domiciliado no Brasil`,`Obrigação a ser cumprida aqui`,`Fato ou ato praticado aqui`,`Alimentos: credor com domicílio ou residência no Brasil, ou réu com vínculos no país, como bens, renda ou benefícios econômicos. Consumo: consumidor com domicílio ou residência no Brasil (${a(`art. 22, I e II`)})`,`A ação proposta no estrangeiro não induz litispendência no Brasil, ressalvadas disposições contrárias de tratados internacionais e acordos bilaterais em vigor no país (${a(`art. 24`)})`]},r:{t:`Exclusiva (art. 23)`,i:[`Ações sobre imóveis situados no Brasil`,`Sucessão: confirmar testamento particular, inventário e partilha de bens situados no Brasil`,`Divórcio, separação ou fim da união estável: partilha de bens situados no Brasil`,`Sentença estrangeira sobre isso não é homologada`]}},
 {t:`callout`,title:`Atenção a um erro comum`,html:`<p>A competência exclusiva no divórcio não abrange o divórcio em si, apenas a <b>partilha dos bens situados no Brasil</b>. Um casal pode se divorciar no exterior; o que não pode é partilhar lá o apartamento que tem em Florianópolis.</p>`},
-{t:`callout`,kind:`brass`,title:`Eleição de foro estrangeiro`,html:`<p>Em contrato internacional, a cláusula de foro exclusivo estrangeiro afasta a jurisdição brasileira se o réu a alegar na contestação (${a(`CPC, art. 25`)}), salvo nos casos de competência exclusiva.</p>`},
+{t:`callout`,kind:`brass`,title:`Eleição de foro estrangeiro`,html:`<p>Em contrato internacional, a cláusula de foro exclusivo estrangeiro afasta a jurisdição brasileira se o réu a alegar na contestação, salvo competência exclusiva brasileira. A cláusula deve constar de instrumento escrito, referir-se expressamente a determinado negócio e guardar pertinência com o domicílio ou residência de uma das partes ou com o local da obrigação, ressalvada a pactuação consumerista favorável ao consumidor. Aplicam-se também as regras de controle de abusividade (${a(`CPC, arts. 25 e 63, §§ 1º a 4º`)}).</p>`},
 {t:`table`,h:`As cartas`,head:[`Carta`,`De quem para quem`,`Exemplo`],rows:[
-[`Precatória`,`Entre juízos nacionais de comarcas diferentes`,`Ouvir testemunha que mora em outra cidade`],
+[`Precatória`,`Entre órgãos jurisdicionais brasileiros de competências territoriais diversas`,`Um juízo solicita a outro a oitiva de testemunha em outra comarca (${a(`CPC, art. 237, III`)})`],
 [`Rogatória`,`De juízo brasileiro para autoridade estrangeira, ou o inverso`,`Citar réu que mora em Portugal; depende de exequatur do STJ quando vem de fora (${a(`CF, art. 105, I, i`)})`],
-[`De ordem`,`De tribunal para juízo a ele vinculado`,`TJ manda o juiz colher prova`],
+[`De ordem`,`De tribunal para juízo a ele vinculado, para ato fora dos limites territoriais do local de sua sede`,`TJ solicita a juiz vinculado a colheita de prova em outra comarca (${a(`CPC, arts. 236, § 2º, e 237, I`)})`],
 [`Arbitral`,`Do árbitro para o Judiciário`,`Cumprir medida decretada na arbitragem (${a(`CPC, art. 237, IV`)})`]]},
 {t:`steps`,h:`Homologação de decisão estrangeira`,items:[
-[`Decisão proferida no exterior`,`Sentença ou sentença arbitral estrangeira depende de homologação pelo STJ; decisão interlocutória estrangeira cumpre-se por carta rogatória, com exequatur (art. 960, §1º).`,`CPC, art. 960`],
+[`Decisão proferida no exterior`,`Em regra, a sentença estrangeira depende de homologação pelo STJ; a decisão interlocutória estrangeira pode ser executada por carta rogatória, com exequatur, ressalvada disposição contrária de lei ou tratado. A homologação de decisão arbitral estrangeira segue tratado e lei, com aplicação subsidiária do CPC (arts. 960, §§ 1º e 3º, e 961).`,`CPC, arts. 960 e 961`],
 [`Pedido ao STJ`,`A competência é do Superior Tribunal de Justiça.`,`CF, art. 105, I, i`],
-[`Requisitos`,`Autoridade competente, citação regular, eficácia no país de origem, não ofender coisa julgada brasileira nem a ordem pública, tradução oficial.`,`CPC, art. 963`],
+[`Requisitos`,`Autoridade competente; citação regular, ainda que haja revelia; eficácia no país de origem; não ofender a coisa julgada brasileira; tradução oficial, salvo dispensa prevista em tratado; e não conter manifesta ofensa à ordem pública.`,`CPC, art. 963`],
 [`Exceção`,`Sentença estrangeira de divórcio consensual produz efeitos no Brasil sem homologação.`,`CPC, art. 961, §5º`]]}],
 quiz:[
 [`Inventário de bens situados no Brasil de quem morreu na Itália:`,[`pode ser feito na Itália e homologado`,`é de competência exclusiva brasileira`,`depende de tratado`],1,`${a(`CPC, art. 23, II`)}.`],
-[`Para ouvir testemunha em outra comarca, expede-se carta:`,[`rogatória`,`precatória`,`de ordem`],1,`Comunicação entre juízos nacionais.`],
+[`Um juiz de primeiro grau solicita a outro juízo de comarca diversa, por carta, a oitiva de testemunha. Qual carta utiliza?`,[`rogatória`,`precatória`,`de ordem`],1,`Cooperação entre órgãos jurisdicionais brasileiros de competências territoriais diversas (${a(`CPC, art. 237, III`)}).`],
 [`Quem homologa sentença estrangeira?`,[`STF`,`STJ`,`TJ do Estado`],1,`${a(`CF, art. 105, I, i`)}.`]]},
 
 /* ================= V ================= */
 {id:`competencia`,group:`Competência`,title:`Competência absoluta e relativa`,
 intro:`Competência é a medida da jurisdição: diz qual órgão, entre todos os que têm jurisdição, deve julgar aquela causa. A diferença entre absoluta e relativa decide quem pode alegar, quando e o que acontece se ninguém alegar.`,
 blocks:[
-{t:`vs`,h:`Os critérios`,l:{t:`Absoluta`,i:[`Matéria (família, falência, trabalho)`,`Pessoa (União na Justiça Federal)`,`Função ou hierarquia (recursos, competência originária)`,`Interesse público: não se altera`]},r:{t:`Relativa`,i:[`Território (domicílio do réu, ${a(`art. 46`)})`,`Valor da causa`,`Interesse das partes: pode ser alterada`,`Exceção: território absoluto em imóveis e possessórias (${a(`art. 47`)})`]}},
+{t:`vs`,h:`Os critérios`,l:{t:`Absoluta`,i:[`Matéria (família, falência, trabalho)`,`Pessoa (União na Justiça Federal)`,`Função ou hierarquia (recursos, competência originária)`,`Interesse público: não se altera`]},r:{t:`Relativa`,i:[`Território (domicílio do réu, ${a(`art. 46`)})`,`Valor da causa: em regra, competência relativa (${a(`art. 63`)}). Nos Juizados Especiais Federais e da Fazenda Pública, a competência é absoluta onde instalados, dentro das hipóteses legais (${a(`Lei 10.259/2001, art. 3º, § 3º`)}; ${a(`Lei 12.153/2009, art. 2º, § 4º`)})`,`Interesse das partes: pode ser alterada`,`Exceção: território absoluto nas possessórias imobiliárias e foro obrigatório da situação do imóvel nas hipóteses do art. 47, § 1º. Nas demais ações reais imobiliárias, cabe a opção prevista nesse parágrafo (${a(`art. 47`)})`]}},
 {t:`chooser`,h:`O regime na prática`,items:[
-[`Quem alega?`,`Absoluta: qualquer um, o juiz de ofício. Relativa: só o réu.`,`<p><b>Absoluta</b>: em qualquer tempo e grau, e o juiz declara de ofício (${a(`CPC, art. 64, §1º`)}). <b>Relativa</b>: o réu, em preliminar de contestação; o MP pode alegar nas causas em que atua (${a(`art. 65, parágrafo único`)}). O juiz não a reconhece de ofício (${a(`Súmula 33 do STJ`)}), salvo a cláusula de eleição abusiva antes da citação (${a(`art. 63, §3º`)}) e a ação proposta em juízo aleatório (${a(`art. 63, §5º`)}).</p>`],
+[`Quem alega?`,`Absoluta: as partes e o MP, nos limites de sua atuação; o juiz a declara de ofício. Relativa: o réu e o MP nas causas em que atuar (CPC, arts. 64 e 65).`,`<p><b>Absoluta</b>: em qualquer tempo e grau, e o juiz declara de ofício (${a(`CPC, art. 64, §1º`)}). <b>Relativa</b>: o réu, em preliminar de contestação; o MP pode alegar nas causas em que atua (${a(`art. 65, parágrafo único`)}). O juiz não a reconhece de ofício (${a(`Súmula 33 do STJ`)}), salvo a cláusula de eleição abusiva antes da citação (${a(`art. 63, §3º`)}) e a ação proposta em juízo aleatório (${a(`art. 63, §5º`)}).</p>`],
 [`E se ninguém alegar?`,`Absoluta: o vício permanece. Relativa: prorroga.`,`<p>A incompetência absoluta pode fundamentar ação rescisória (${a(`art. 966, II`)}). A relativa se prorroga e o juízo passa a ser competente (${a(`art. 65`)}).</p>`],
 [`As partes podem mudar?`,`Só a relativa.`,`<p>A absoluta é inderrogável por convenção (${a(`art. 62`)}). A relativa pode ser modificada por eleição de foro, em instrumento escrito, ligada a um negócio determinado e com pertinência com o domicílio ou a residência de uma das partes ou com o local da obrigação; em contrato de consumo, vale a cláusula favorável ao consumidor (${a(`art. 63, §1º`)}, redação da Lei 14.879/2024).</p>`],
-[`Efeito da declaração`,`Remessa ao juízo competente.`,`<p>Declarada a incompetência, os autos vão ao juízo competente, e as decisões do incompetente conservam efeitos até outra decisão (${a(`art. 64, §§3º e 4º`)}).</p>`]]},
+[`Efeito da declaração`,`Remessa ao juízo competente.`,`<p>Declarada a incompetência, os autos vão ao juízo competente. Salvo decisão judicial em contrário, conservam-se os efeitos das decisões anteriores até que o juízo competente profira outra, se for o caso (${a(`art. 64, §§3º e 4º`)}).</p>`]]},
 {t:`sorter`,h:`Absoluta ou relativa?`,bins:[`Absoluta`,`Relativa`],cards:[
 [`Ação de família proposta na vara cível, existindo vara de família na comarca.`,0,`Critério de matéria.`],
-[`Cobrança proposta fora do domicílio do réu.`,1,`Critério territorial (${a(`art. 46`)}).`],
-[`União é ré, e a ação corre na Justiça Estadual.`,0,`Critério de pessoa (${a(`CF, art. 109, I`)}).`],
+[`Cobrança proposta fora do domicílio do réu, sem outro foro legalmente competente.`,1,`Critério territorial (${a(`CPC, arts. 46, 63 e 65`)}).`],
+[`União é ré em causa abrangida pelo art. 109, I, da CF, fora de suas exceções, e a ação corre na Justiça Estadual.`,0,`Critério de pessoa (${a(`CF, art. 109, I`)}; ${a(`CPC, art. 62`)}).`],
 [`Ação possessória sobre imóvel proposta fora do foro do imóvel.`,0,`Exceção territorial absoluta (${a(`CPC, art. 47, §2º`)}).`],
-[`Contrato com foro de eleição em Joaçaba; ação proposta em Chapecó.`,1,`Eleição de foro é critério territorial.`]]},
+[`Contrato com eleição de foro eficaz em Joaçaba; ação proposta em Chapecó, sem outro foro autorizado e sem caracterizar juízo aleatório.`,1,`Eleição de foro é critério territorial (${a(`CPC, arts. 63 e 65`)}).`]]},
 {t:`callout`,kind:`brass`,title:`Cláusula de eleição abusiva`,html:`<p>Antes da citação, o juiz pode reputar ineficaz, de ofício, a cláusula de foro abusiva e remeter os autos ao foro do domicílio do réu (${a(`art. 63, §3º`)}). Citado, cabe ao réu alegar na contestação, sob pena de preclusão (§4º). E se a ação for proposta em juízo aleatório, sem vínculo com o domicílio ou a residência das partes nem com o negócio, o juiz pode declinar de ofício (§5º, incluído pela Lei 14.879/2024).</p>`},
-{t:`keys`,h:`Números que caem em prova`,items:[[`40`,`salários mínimos`,`teto do Juizado Especial Cível estadual (Lei 9.099/95, art. 3º)`],[`60`,`salários mínimos`,`teto dos Juizados Federais e da Fazenda Pública`],[`33`,`Súmula do STJ`,`incompetência relativa não se declara de ofício (exceções: art. 63, §§3º e 5º)`]]}],
+{t:`keys`,h:`Números que caem em prova`,items:[[`40`,`salários mínimos`,`limite de competência do Juizado Especial Cível estadual pelo critério do valor da causa (Lei 9.099/95, art. 3º, I), observadas as demais hipóteses e exclusões legais`],[`60`,`salários mínimos`,`teto dos Juizados Federais e da Fazenda Pública`],[`33`,`Súmula do STJ`,`incompetência relativa não se declara de ofício (exceções: art. 63, §§3º e 5º)`]]}],
 quiz:[
-[`O juiz pode declarar de ofício a incompetência territorial?`,[`Sim`,`Não, salvo cláusula abusiva antes da citação ou ação em juízo aleatório`,`Só em segundo grau`],1,`${a(`Súmula 33 do STJ`)}; exceções no ${a(`CPC, art. 63, §§3º e 5º`)} (Lei 14.879/2024).`],
+[`O juiz pode declarar de ofício a incompetência territorial relativa?`,[`Sim`,`Não, salvo cláusula abusiva antes da citação ou ação em juízo aleatório`,`Só em segundo grau`],1,`${a(`CPC, arts. 337, § 5º, e 63, §§ 3º e 5º`)}. Se a competência territorial for absoluta, o juiz deve declarar a incompetência de ofício (${a(`arts. 47, § 2º, e 64, § 1º`)}).`],
 [`O réu não alegou incompetência relativa. Consequência?`,[`Nulidade`,`Prorrogação`,`Extinção`],1,`${a(`CPC, art. 65`)}.`],
 [`Competência em razão da matéria é:`,[`relativa`,`absoluta`,`depende do valor`],1,`Critério de interesse público.`]]},
 
@@ -170,8 +170,8 @@ quiz:[
 intro:`Só a competência relativa se modifica. Os caminhos são a vontade das partes (derrogação), a inércia do réu (prorrogação) e a ligação entre ações (conexão e continência).`,
 blocks:[
 {t:`tl`,h:`Quatro formas de modificar`,items:[
-[`Derrogação`,`Antes do processo: as partes elegem, no contrato, foro ligado ao domicílio de uma delas ou ao local da obrigação (${a(`art. 63, §1º`)}). Vincula herdeiros e sucessores (§2º).`],
-[`Prorrogação`,`No processo: o réu não alega a incompetência relativa (${a(`art. 65`)}).`],
+[`Derrogação`,`As partes elegem foro por instrumento escrito, com referência expressa a determinado negócio jurídico. O foro deve guardar pertinência com o domicílio ou a residência de uma delas ou com o local da obrigação, ressalvada a pactuação consumerista favorável ao consumidor (${a(`art. 63, §1º`)}). Vincula herdeiros e sucessores (§2º).`],
+[`Prorrogação`,`A competência relativa se prorroga se o réu não alegar a incompetência em preliminar de contestação. O MP também pode alegá-la nas causas em que atuar (${a(`arts. 64 e 65`)}).`],
 [`Conexão`,`Duas ações com o mesmo pedido ou a mesma causa de pedir são reunidas (${a(`art. 55`)}).`],
 [`Continência`,`Mesmas partes e causa de pedir, e o pedido de uma abrange o da outra (${a(`art. 56`)}).`]]},
 {t:`svg`,h:`Conexão e continência em imagem`,html:`<svg viewBox="0 0 720 260" role="img" aria-label="Conexão: dois círculos que se tocam; continência: um círculo dentro do outro">
@@ -184,8 +184,8 @@ blocks:[
 <text class="pop" x="460" y="105" font-size="13" fill="var(--ink)">continente</text><text class="pop" x="530" y="155" font-size="12" fill="var(--ink)">contida</text>
 <text class="pop" style="transition-delay:.8s" x="530" y="255" text-anchor="middle" font-size="12" fill="var(--muted)">mesmas partes e causa de pedir; um pedido abrange o outro</text></svg>`},
 {t:`table`,h:`O que acontece com as ações`,head:[`Situação`,`Consequência`,`Base`],rows:[
-[`Conexão`,`Reunião para decisão conjunta no juízo prevento, salvo se uma já foi sentenciada`,`${a(`art. 55, §1º`)}; ${a(`Súmula 235 do STJ`)}`],
-[`Execução e ação de conhecimento sobre o mesmo ato`,`São consideradas conexas`,`${a(`art. 55, §2º`)}`],
+[`Conexão`,`Em regra, reunião para decisão conjunta no juízo prevento, salvo se uma ação já foi sentenciada. Em ACPs nacionais ou regionais, o STJ admitiu reunião mesmo após sentença (AgInt no CC 202.644/ES, Informativo 885)`,`${a(`arts. 55, §1º, e 58`)}; ${a(`Súmula 235 do STJ`)}`],
+[`Execução de título extrajudicial e ação de conhecimento relativa ao mesmo ato jurídico`,`São consideradas conexas`,`${a(`art. 55, §2º, I`)}`],
 [`Risco de decisões conflitantes, mesmo sem conexão`,`Reunião`,`${a(`art. 55, §3º`)}`],
 [`Continência, com a continente proposta antes`,`A contida é extinta sem mérito`,`${a(`art. 57`)}`],
 [`Continência, com a contida proposta antes`,`Reunião das ações`,`${a(`art. 57`)}`],
@@ -197,14 +197,14 @@ blocks:[
 [`A: execução de nota promissória. B: ação para anular a mesma nota.`,0,`${a(`art. 55, §2º, I`)}.`]]},
 {t:`chooser`,h:`Conflito de competência`,hint:`${a(`CPC, art. 66 e arts. 951 a 959`)}.`,items:[
 [`Positivo`,`Dois ou mais juízes se dizem competentes`,`<p>${a(`art. 66, I`)}. O relator pode sobrestar o processo e designar um juiz para medidas urgentes (${a(`art. 955`)}).</p>`],
-[`Negativo`,`Dois ou mais juízes se dizem incompetentes`,`<p>${a(`art. 66, II`)}. Quem não acolher a competência declinada deve suscitar o conflito, salvo se atribuí-la a outro juízo (${a(`art. 66, parágrafo único`)}).</p>`],
+[`Negativo`,`Dois ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência`,`<p>${a(`art. 66, II`)}. Quem não acolher a competência declinada deve suscitar o conflito, salvo se atribuí-la a outro juízo (${a(`art. 66, parágrafo único`)}).</p>`],
 [`Sobre reunião`,`Divergência sobre reunir ou separar processos`,`<p>${a(`art. 66, III`)}.</p>`],
 [`Quem suscita`,`Partes, MP ou juiz`,`<p>O juiz por ofício; partes e MP por petição (${a(`arts. 951 e 953`)}). Não pode suscitar a parte que arguiu incompetência relativa (${a(`art. 952`)}).</p>`],
-[`Quem julga`,`O tribunal com ascendência sobre ambos`,`<p>Entre juízes do mesmo TJ, o TJ; entre juízes vinculados a tribunais diversos, o STJ (${a(`CF, art. 105, I, d`)}). O relator julga de plano se houver súmula ou tese repetitiva (${a(`art. 955, parágrafo único`)}).</p>`]]}],
+[`Quem julga`,`O tribunal com ascendência sobre ambos`,`<p>Entre juízes do mesmo TJ, o TJ; entre juízes vinculados a tribunais diversos, o STJ (${a(`CF, art. 105, I, d`)}). O relator pode julgar o conflito de plano quando sua decisão se fundar em súmula do STF, do STJ ou do próprio tribunal, ou em tese firmada em casos repetitivos ou em incidente de assunção de competência (${a(`art. 955, parágrafo único`)}).</p>`]]}],
 quiz:[
 [`Ação continente proposta depois da contida. O que ocorre?`,[`Extinção da contida`,`Reunião`,`Suspensão da continente`],1,`${a(`CPC, art. 57`)}: se a contida veio antes, reúnem-se.`],
-[`Um processo já foi sentenciado. Cabe reunião por conexão?`,[`Sim`,`Não`],1,`${a(`art. 55, §1º`)} e ${a(`Súmula 235 do STJ`)}.`],
-[`Dois juízes se declaram incompetentes. Que conflito é?`,[`Positivo`,`Negativo`],1,`${a(`art. 66, II`)}.`]]},
+[`Pela regra geral do art. 55, § 1º, do CPC e da Súmula 235/STJ, cabe reunião por conexão se um processo já foi sentenciado?`,[`Sim`,`Não`],1,`Essa é a regra geral (${a(`art. 55, §1º`)}; ${a(`Súmula 235 do STJ`)}). O STJ admitiu exceção em ACPs nacionais ou regionais (AgInt no CC 202.644/ES, Informativo 885).`],
+[`Dois juízes se consideram incompetentes, atribuindo um ao outro a competência. Que conflito é?`,[`Positivo`,`Negativo`],1,`É a hipótese do ${a(`art. 66, II, do CPC`)}.`]]},
 
 /* ================= VII ================= */
 {id:`capacidade`,group:`Sujeitos e terceiros`,title:`Capacidade, representação e procuração`,
@@ -213,21 +213,21 @@ blocks:[
 {t:`steps`,h:`As três capacidades`,items:[
 [`Capacidade de ser parte`,`Ter personalidade jurídica, ou ser ente despersonalizado a quem a lei dá essa aptidão (espólio, massa falida, condomínio).`,`CPC, art. 75`],
 [`Capacidade de estar em juízo`,`Estar no exercício dos próprios direitos (${a(`art. 70`)}). Incapazes são representados ou assistidos.`,`CPC, arts. 70 e 71`],
-[`Capacidade postulatória`,`Falar nos autos. Em regra, só o advogado inscrito na OAB (${a(`art. 103`)}). Exceções: Juizado Especial até 20 salários mínimos (${a(`Lei 9.099/95, art. 9º`)}).`,`CPC, art. 103`]]},
+[`Capacidade postulatória`,`Falar nos autos. Em regra, só o advogado inscrito na OAB (${a(`art. 103`)}). Exceções: nos Juizados Especiais Cíveis, as partes podem atuar sem advogado nas causas de até 20 salários mínimos. No recurso, o advogado é obrigatório (${a(`Lei 9.099/1995, arts. 9º e 41, §2º`)}).`,`CPC, art. 103`]]},
 {t:`table`,h:`Incapazes no processo`,head:[`Quem`,`Como atua`],rows:[
 [`Absolutamente incapaz (menor de 16)`,`Representado pelos pais ou tutor`],
 [`Relativamente incapaz (16 a 18, ébrios habituais, pródigos, quem não pode exprimir vontade)`,`Assistido pelos pais, tutor ou curador`],
 [`Incapaz sem representante ou com interesses colidentes`,`Curador especial (${a(`art. 72, I`)})`],
-[`Réu preso revel, ou citado por edital ou hora certa e revel`,`Curador especial, função da Defensoria (${a(`art. 72, II e parágrafo único`)})`]]},
+[`Réu preso revel ou réu revel citado por edital ou com hora certa`,`Curador especial enquanto não for constituído advogado. A curatela especial cabe à Defensoria Pública, nos termos da lei (${a(`art. 72, II e parágrafo único`)})`]]},
 {t:`flips`,h:`A procuração`,items:[
 [`Regra`,`O advogado não postula sem procuração (${a(`art. 104`)}).`],
-[`Exceção`,`Para evitar preclusão, decadência ou prescrição, ou praticar ato urgente. Deve exibir a procuração em <em>15 dias, prorrogáveis por mais 15</em>.`],
+[`Exceção`,`Para evitar preclusão, decadência ou prescrição, ou praticar ato urgente. Nessas hipóteses, o advogado deve exibir a procuração em <em>15 dias úteis</em>, independentemente de caução. O prazo pode ser prorrogado por igual período por despacho do juiz (${a(`arts. 104, §1º, e 219`)}).`],
 [`Ato não ratificado`,`É <em>ineficaz</em> em relação à parte, e o advogado responde por despesas e perdas e danos (${a(`art. 104, §2º`)}).`],
-[`Poderes especiais`,`Receber citação, confessar, reconhecer a procedência, transigir, desistir, renunciar, dar quitação, firmar compromisso e declarar hipossuficiência exigem cláusula específica (${a(`art. 105`)}).`],
-[`Fim do mandato`,`Revogação ou renúncia; morte ou interdição; mudança de estado; fim do prazo ou do negócio (${a(`CC, art. 682`)}).`]]}],
+[`Poderes especiais`,`Exigem cláusula específica: receber citação, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a ação, receber, dar quitação, firmar compromisso e assinar declaração de hipossuficiência econômica (${a(`art. 105`)}).`],
+[`Fim do mandato`,`O mandato cessa por revogação ou renúncia; morte ou interdição de uma das partes; mudança de estado que inabilite o mandante a conferir poderes ou o mandatário a exercê-los; término do prazo ou conclusão do negócio. No mandato judicial, observam-se as regras processuais e, supletivamente, o CC (${a(`CC, arts. 682 e 692`)}).`]]}],
 quiz:[
 [`Espólio pode ser parte?`,[`Não, não tem personalidade`,`Sim, a lei lhe dá capacidade de ser parte`],1,`${a(`CPC, art. 75, VII`)}.`],
-[`Advogado sem procuração pode agir para evitar a prescrição?`,[`Não`,`Sim, apresentando-a em 15 dias prorrogáveis`],1,`${a(`CPC, art. 104, §1º`)}.`],
+[`Advogado sem procuração pode agir para evitar a prescrição?`,[`Não`,`Sim, apresentando a procuração em 15 dias úteis, prorrogáveis por igual período por despacho do juiz`],1,`${a(`CPC, art. 104, caput e §1º, e art. 219`)}.`],
 [`Réu citado por edital e revel recebe:`,[`curador especial`,`nada, segue revel`,`tutor`],0,`${a(`CPC, art. 72, II`)}.`]]},
 
 /* ================= VIII ================= */
@@ -236,17 +236,17 @@ intro:`Litisconsórcio é a pluralidade de partes num mesmo polo. Serve à econo
 blocks:[
 {t:`callout`,kind:`brass`,title:`Quando é possível (art. 113)`,html:`<p>Duas ou mais pessoas litigam juntas quando houver <b>comunhão</b> de direitos ou obrigações; <b>conexão</b> pelo pedido ou causa de pedir; ou <b>afinidade</b> de questões por ponto comum de fato ou de direito.</p>`},
 {t:`table`,h:`As classificações`,head:[`Critério`,`Espécies`,`O que define`],rows:[
-[`Obrigatoriedade`,`Necessário × facultativo`,`Necessário quando a lei exige ou a relação só pode ser decidida com todos (${a(`art. 114`)})`],
+[`Obrigatoriedade`,`Necessário × facultativo`,`Necessário quando a lei exige ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depende da citação de todos os litisconsortes (${a(`art. 114`)})`],
 [`Resultado`,`Unitário × simples`,`Unitário quando o mérito tem de ser igual para todos (${a(`art. 116`)})`],
 [`Posição`,`Ativo, passivo ou misto`,`Vários autores, vários réus, ou ambos`],
 [`Momento`,`Inicial × ulterior`,`Desde a inicial ou formado depois`]]},
 {t:`chooser`,h:`Faltou um litisconsorte necessário`,hint:`${a(`CPC, art. 115`)}.`,items:[
 [`Unitário`,`Sentença nula`,`<p>Se o litisconsórcio era necessário e unitário, a sentença proferida sem um deles é <b>nula</b> para todos.</p>`],
 [`Simples`,`Sentença ineficaz para o ausente`,`<p>Se era necessário mas simples, a sentença é <b>ineficaz</b> apenas para quem não foi citado.</p>`],
-[`Remédio`,`Juiz manda citar`,`<p>O juiz determina ao autor que requeira a citação de todos, em prazo que fixar, sob pena de extinção (${a(`art. 115, parágrafo único`)}).</p>`]]},
+[`Remédio`,`Juiz manda citar`,`<p>No litisconsórcio passivo necessário, o juiz determina ao autor que requeira a citação de todos os litisconsortes, no prazo que fixar, sob pena de extinção do processo (${a(`art. 115, parágrafo único`)}).</p>`]]},
 {t:`flips`,h:`Regras de convivência`,items:[
-[`Autonomia`,`Litisconsortes são litigantes distintos: os atos de um não prejudicam nem beneficiam os outros, <em>salvo no unitário</em> (${a(`art. 117`)}).`],
-[`Multitudinário`,`O juiz pode limitar o facultativo quando o número de partes atrapalhar a defesa ou a rapidez (${a(`art. 113, §1º`)}). O pedido de limitação interrompe o prazo de resposta (§2º).`],
+[`Autonomia`,`Em relação à parte adversa, os litisconsortes são litigantes distintos. No litisconsórcio <em>unitário</em>, os atos e as omissões de um não prejudicam os outros, mas podem beneficiá-los (${a(`art. 117`)}).`],
+[`Multitudinário`,`O juiz pode limitar o número de litisconsortes facultativos no conhecimento, na liquidação ou na execução, quando comprometer a rápida solução do litígio ou dificultar a defesa ou o cumprimento da sentença (${a(`art. 113, §1º`)}). O requerimento de limitação interrompe o prazo para manifestação ou resposta, que recomeça da intimação da decisão que o solucionar (§2º).`],
 [`Prazo em dobro`,`Com procuradores diferentes, de escritórios distintos, em <em>autos físicos</em> (${a(`art. 229`)}). Cessa se, de dois réus, só um se defende.`]]},
 {t:`sorter`,h:`Classifique`,bins:[`Necessário e unitário`,`Facultativo e simples`,`Facultativo e unitário`],cards:[
 [`Ação para anular casamento proposta pelo MP contra os dois cônjuges.`,0,`A relação é incindível e a lei exige os dois.`],

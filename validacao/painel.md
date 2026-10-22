@@ -28,11 +28,11 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | tgp-fundamentos | Jurisdição, ação e processo | validada | 21/10/2026 |
 | tgp-jurisdicao | Características e princípios da jurisdição | validada | 21/10/2026 |
 | tgp-principios | Princípios do processo | validada | 21/10/2026 |
-| tgp-internacional | Limites da jurisdição e cooperação | em extração | — |
-| tgp-competencia | Competência absoluta e relativa | em extração | — |
-| tgp-modificacao | Modificação e conflito de competência | em extração | — |
-| tgp-capacidade | Capacidade, representação e procuração | em extração | — |
-| tgp-litisconsorcio | Litisconsórcio | em extração | — |
+| tgp-internacional | Limites da jurisdição e cooperação | validada | 22/10/2026 |
+| tgp-competencia | Competência absoluta e relativa | validada | 22/10/2026 |
+| tgp-modificacao | Modificação e conflito de competência | validada | 22/10/2026 |
+| tgp-capacidade | Capacidade, representação e procuração | validada | 22/10/2026 |
+| tgp-litisconsorcio | Litisconsórcio | validada | 22/10/2026 |
 | tgp-terceiros | Intervenção de terceiros | em extração | — |
 | tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | em extração | — |
 | tgp-atos | Atos processuais e pronunciamentos | em extração | — |

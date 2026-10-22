@@ -28,6 +28,7 @@ LEIS = {
     'lc95': 'https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm',
     'cdc': 'https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm',
     'l14879': 'https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14879.htm',
+    'l11419': 'https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm',
     'd678': 'https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm',
     'lc80': 'https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm',
     'l15484': 'https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15484.htm',
