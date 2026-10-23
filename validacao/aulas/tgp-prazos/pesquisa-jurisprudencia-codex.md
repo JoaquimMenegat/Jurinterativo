@@ -1,0 +1,9 @@
+### tgp-prazos-022
+
+- Resposta: Foram encontrados entendimentos distintos no STJ: a Quarta Turma considerou a dilação do edital prazo processual contado em dias úteis, em caso de intimação de herdeiros para habilitação; a Terceira Turma considerou a dilação da citação por edital prazo material contado em dias corridos, distinguindo-a do prazo posterior para embargos monitórios, contado em dias úteis. Não foram localizados tema repetitivo, súmula, tema de repercussão geral ou julgamento do STF que resolvam especificamente essa questão.
+- Precedente principal: STJ, REsp 1.933.297/MT, Quarta Turma, rel. Min. João Otávio de Noronha, julgado em 09/02/2026, DJEN de 12/02/2026; e STJ, REsp 2.205.765/MT, Terceira Turma, rel. Min. Moura Ribeiro, julgado em 22/04/2026, DJEN de 28/04/2026.
+- Situação do precedente: Ambos publicados antes da data-base de 22/10/2026. Não foram localizadas revisão, superação expressa, modulação ou afetação de tema pendente sobre esse ponto. A pesquisa não permite afirmar uniformização do entendimento do STJ.
+- Divergência: Há divergência entre os fundamentos adotados pela Quarta e pela Terceira Turmas quanto à natureza e à contagem da dilação prevista no art. 257, III, do CPC. Os contextos concretos são diferentes: intimação de herdeiros em ação reivindicatória no REsp 1.933.297/MT e citação em ação monitória no REsp 2.205.765/MT. Não foi encontrada divergência entre STF e STJ. Os dois acórdãos foram efetivamente abertos no portal oficial.
+- Fonte: [STJ — inteiro teor do REsp 1.933.297/MT](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101133403); [STJ — inteiro teor do REsp 2.205.765/MT](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=28%2F04%2F2026&num_registro=202501088495).
+- Consultado em: 23/10/2026.
+- Situação: respondida.

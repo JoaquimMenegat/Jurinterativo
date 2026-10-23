@@ -33,13 +33,13 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | tgp-modificacao | Modificação e conflito de competência | validada | 22/10/2026 |
 | tgp-capacidade | Capacidade, representação e procuração | validada | 22/10/2026 |
 | tgp-litisconsorcio | Litisconsórcio | validada | 22/10/2026 |
-| tgp-terceiros | Intervenção de terceiros | em conferência | — |
-| tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | em conferência | — |
-| tgp-atos | Atos processuais e pronunciamentos | em conferência | — |
+| tgp-terceiros | Intervenção de terceiros | validada | 23/10/2026 |
+| tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | validada | 23/10/2026 |
+| tgp-atos | Atos processuais e pronunciamentos | validada | 23/10/2026 |
 | tgp-prazos | Prazos processuais | em conferência | — |
 | tgp-nulidades | Nulidades processuais | validada | 23/10/2026 |
-| tgp-valor | Valor da causa | em conferência | — |
-| tgp-despesas | Despesas e honorários | em conferência | — |
+| tgp-valor | Valor da causa | validada | 23/10/2026 |
+| tgp-despesas | Despesas e honorários | validada | 23/10/2026 |
 | tgp-ciclo | Formação, suspensão e extinção | validada | 23/10/2026 |
 | con-rito | O mapa do procedimento comum | em conferência | — |
 | con-inicial | Petição inicial | em conferência | — |

@@ -1,0 +1,40 @@
+# Parecer · con-estado
+
+Data-base: 23/10/2026.
+
+## Resumo
+
+21 itens: 19 afirmações jurídicas e 2 conceitos, sem veredito.
+17 `confere`, 2 `corrigir`, 0 `divergente` e 0 `não verificável`.
+Gravidades das correções: 0 alta, 2 média e 0 baixa.
+Base: pesquisas de lei aceitas na `conferencia.md`. Os dois testes têm gabaritos compatíveis com a pesquisa aceita.
+
+## Comparação
+
+| ID | Afirmação (copiada da ficha) | Veredito | Gravidade | O que a fonte diz | Fonte | Redação sugerida |
+|---|---|---|---|---|---|---|
+| con-estado-001 | Depois das providências preliminares, o juiz escolhe entre quatro caminhos. Só um deles leva à fase de provas. | corrigir | média | Os arts. 353 a 357 sustentam os quatro caminhos. Contudo, o julgamento antecipado parcial pode coexistir com instrução da parcela restante. A gravidade é média porque a enumeração está correta, mas omite esse prosseguimento e apresenta os caminhos como excludentes quanto à prova. | [CPC, arts. 353 a 357][cpc] | Depois das providências preliminares, há quatro caminhos: extinção, julgamento antecipado, julgamento antecipado parcial e saneamento. O saneamento organiza as provas; havendo julgamento parcial, a parcela restante também pode seguir para instrução (arts. 353 a 357 do CPC). |
+| con-estado-002 | Havendo causa de extinção do art. 485, ou prescrição, decadência ou homologação do art. 487, o caminho é a extinção do processo | confere | — | O art. 354 prevê sentença nas hipóteses do art. 485 e do art. 487, II e III. A possibilidade de atingir apenas parcela do processo está ressalvada na sequência da aula, em con-estado-003. | [CPC, arts. 354, 485 e 487, II e III][cpc] | — |
+| con-estado-003 | art. 354. Se atingir só parte do processo, é decisão interlocutória, impugnável por agravo de instrumento (parágrafo único). | confere | — | O art. 354, parágrafo único, prevê o agravo de instrumento. A natureza interlocutória decorre do art. 203, §§ 1º e 2º. | [CPC, arts. 203, §§ 1º e 2º, e 354, parágrafo único][cpc] | — |
+| con-estado-004 | Não havendo extinção e não sendo preciso produzir mais provas: julgamento antecipado do mérito (art. 355: não há necessidade de outras provas, ou o réu é revel com efeito material e não pediu provas) | confere | — | O art. 355 admite julgamento antecipado quando desnecessárias outras provas ou quando, cumulativamente, houver revelia, efeito do art. 344 e ausência de requerimento de prova na forma do art. 349. A aula reúne essas condições. | [CPC, arts. 344, 349 e 355][cpc] | — |
+| con-estado-005 | Prova só sobre parte: julgamento antecipado parcial | confere | — | No contexto do roteiro, a parte restante está pronta para julgamento. O art. 356, II, permite julgá-la desde logo, prosseguindo a atividade probatória quanto à parcela que depende de prova. | [CPC, arts. 356, II, e 357][cpc] | — |
+| con-estado-006 | art. 356: cabe julgamento antecipado parcial de um pedido ou parcela incontroversa ou pronto para julgamento | confere | — | O art. 356, I e II, contempla pedido ou parcela incontroversa ou em condições de imediato julgamento, nos termos do art. 355. | [CPC, art. 356, I e II][cpc] | — |
+| con-estado-007 | A decisão de julgamento antecipado parcial é decisão interlocutória de mérito, agravável (§5º) | confere | — | A natureza interlocutória decorre do art. 203, §§ 1º e 2º. O agravo de instrumento está previsto no art. 356, § 5º, e no art. 1.015, II. | [CPC, arts. 203, 356, § 5º, e 1.015, II][cpc] | — |
+| con-estado-008 | A decisão é executável desde logo, sem caução | confere | — | A obrigação reconhecida pode ser liquidada ou executada desde logo, independentemente de caução, ainda que haja recurso. A obrigação ilíquida admite liquidação prévia. | [CPC, art. 356, §§ 1º e 2º][cpc] | — |
+| con-estado-009 | A decisão faz coisa julgada | confere | — | A decisão parcial de mérito pode formar coisa julgada material quando não estiver mais sujeita a recurso, nos limites da questão principal expressamente decidida. A aula não afirma que isso ocorra imediatamente. | [CPC, arts. 356, § 3º, 502 e 503][cpc] | — |
+| con-estado-010 | Ainda sendo preciso produzir provas sobre todo o objeto: saneamento e organização (art. 357: o juiz organiza a fase de provas) | confere | — | Não ocorrendo as hipóteses anteriores, o art. 357 determina o saneamento e a organização do processo, incluindo delimitação dos fatos, meios de prova, distribuição do ônus e audiência, se necessária. | [CPC, art. 357][cpc] | — |
+| con-estado-012 | Acordo das partes com pedido de homologação → Extinção (art. 487, III, b via art. 354) | confere | — | A homologação da transação resolve o mérito, conforme o art. 487, III, “b”, e enseja sentença pelo art. 354. O cartão descreve acordo sem restringi-lo a parcela do objeto. | [CPC, arts. 354 e 487, III, “b”][cpc] | — |
+| con-estado-013 | Causa só de direito (validade de uma cláusula) → Antecipado (art. 355, I) | confere | — | O art. 355, I, determina julgamento antecipado quando não há necessidade de outras provas. O cartão apresenta a validade da cláusula como questão exclusivamente jurídica. | [CPC, art. 355, I][cpc] | — |
+| con-estado-014 | Réu reconheceu o dano material; dano moral depende de prova → Antecipado parcial (parcela incontroversa, art. 356, I) | corrigir | média | A pesquisa distingue parcela incontroversa, julgada pelo art. 356, I, de reconhecimento da procedência, homologado pelos arts. 487, III, “a”, e 354, parágrafo único. “Reconheceu o dano material” deixa ambíguo qual hipótese ocorreu, permitindo confusão entre as categorias do exercício. Gravidade média: falta delimitar o pressuposto, embora o julgamento da parcela incontroversa esteja corretamente indicado. | [CPC, arts. 354, parágrafo único, 356, I, e 487, III, “a”][cpc] | O pedido de indenização por dano material está incontroverso e pronto para julgamento, sem reconhecimento formal da procedência; o dano moral depende de prova. → Antecipado parcial (art. 356, I, do CPC). |
+| con-estado-015 | Versões opostas sobre quem avançou o sinal e testemunhas a ouvir → Saneamento (art. 357) | confere | — | A necessidade de esclarecer fatos por testemunhas exige organização da prova pelo saneamento, com delimitação das questões fáticas e audiência, se necessária. | [CPC, art. 357, II e V][cpc] | — |
+| con-estado-017 | Contra ela cabe agravo de instrumento | confere | — | Contra a decisão interlocutória de mérito cabe agravo de instrumento, inclusive por previsão específica para o julgamento antecipado parcial. | [CPC, arts. 356, § 5º, e 1.015, II][cpc] | — |
+| con-estado-018 | Pode ser liquidada e cumprida desde logo | confere | — | O art. 356, § 2º, permite liquidação ou execução imediata da obrigação reconhecida, sem exigir trânsito em julgado ou caução. O § 4º admite autos suplementares. | [CPC, art. 356, §§ 2º a 4º][cpc] | — |
+| con-estado-019 | Transita em julgado | confere | — | O art. 356, § 3º, contempla expressamente o trânsito em julgado da decisão parcial. Os arts. 502 e 503 sustentam a formação de coisa julgada quando não houver recurso cabível. | [CPC, arts. 356, § 3º, 502 e 503][cpc] | — |
+| con-estado-020 | Contra a decisão de julgamento antecipado parcial cabe: → agravo de instrumento (art. 356, §5º) | confere | — | O art. 356, § 5º, prevê agravo de instrumento. Entre as alternativas fornecidas, apenas essa está correta; apelação não é o recurso contra essa decisão interlocutória. | [CPC, arts. 203, 356, § 5º, e 1.015, II][cpc] | — |
+| con-estado-021 | Causa só de direito permite: → julgamento antecipado (art. 355, I) | confere | — | Dispensadas outras provas, cabe julgamento antecipado pelo art. 355, I. A alternativa “saneamento obrigatório” não está correta no cenário apresentado. | [CPC, art. 355, I][cpc] | — |
+
+## Para o Joaquim decidir
+
+Nenhum item divergente, não verificável ou classificado como citação doutrinária. Os conceitos con-estado-011 e con-estado-016 foram contabilizados sem receber veredito, conforme as regras do papel.
+
+[cpc]: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
