@@ -153,3 +153,17 @@ Campos comuns a todos os blocos, salvo indicação:
 - Dispositivo: CPC, art. 319, § 2º.
 - Texto vigente: "§ 2º A petição inicial não será indeferida se, a despeito da falta de informações a que se refere o inciso II, for possível a citação do réu."
 - Situação: respondida
+
+## Resposta à devolução · con-inicial-007
+
+Data da revisão: 23/10/2026. Fonte: CPC, cópia local baixada em 23/10/2026 (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm).
+
+- Resposta: A inicial indica o valor da causa (art. 319, V), e o valor constará da petição inicial ou da reconvenção (art. 292, caput). Para as causas sem conteúdo econômico imediato, há regra específica no art. 291: a toda causa será atribuído valor certo, ainda que não tenha conteúdo econômico imediatamente aferível. Portanto, o valor da causa é exigido mesmo sem conteúdo econômico imediato, e deve ser certo. O art. 292 traz critérios por tipo de ação (incisos I a VIII e §§ 1º e 2º) e, no § 3º, manda o juiz corrigir, de ofício e por arbitramento, o valor que não corresponda ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido, com recolhimento das custas correspondentes. O réu pode impugnar o valor em preliminar da contestação, sob pena de preclusão (art. 293); a incorreção do valor é matéria do art. 337, III. A declaração de lacuna anterior fica retirada quanto à existência de regra: o art. 291 é a regra. Permanece só o seguinte: o CPC não indica um critério de quantificação próprio para a causa sem conteúdo econômico imediato (o art. 291 exige valor certo; o art. 292 não tem inciso para esse caso; o § 3º do art. 292 permite a correção por arbitramento). Esse ponto de quantificação não é respondido por nenhum dispositivo.
+- Dispositivo: CPC, art. 291; art. 292, caput, I a VIII e §§ 1º a 3º; art. 293; art. 319, V; art. 337, III
+- Texto vigente: "Art. 291. A toda causa será atribuído valor certo, ainda que não tenha conteúdo econômico imediatamente aferível." / "Art. 292. § 3º O juiz corrigirá, de ofício e por arbitramento, o valor da causa quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor, caso em que se procederá ao recolhimento das custas correspondentes."
+- Última alteração: art. 291 e art. 292: a cópia local não traz remissão de alteração (redação original)
+- Vigência: vigente
+- Exceções relevantes: nenhuma encontrada
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 23/10/2026
+- Situação: respondida

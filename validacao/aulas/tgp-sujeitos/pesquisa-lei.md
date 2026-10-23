@@ -1,12 +1,13 @@
 # Pesquisa de lei · tgp-sujeitos
 
-Data-base: 22/10/2026. Cópias locais, todas baixadas em 21/10/2026:
+Data-base: 22/10/2026. Cópias locais, todas baixadas em 21/10/2026 (o DL 509/1969, em 22/10/2026):
 - CPC (Lei 13.105/2015): https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - CF: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
 - LC 80/1994: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm
+- DL 509/1969: https://www.planalto.gov.br/ccivil_03/decreto-lei/del0509.htm (ver "Resposta à devolução · tgp-sujeitos-050" ao fim)
 
 Nos blocos, "Fonte" e "Consultado em" seguem o arquivo indicado em "Dispositivo" (CPC, salvo onde diz CF ou LC 80); todas as consultas são de 21/10/2026 (data de download da cópia). "Redação original" significa sem remissão de alteração no dispositivo na cópia local. O cabeçalho do CPC remete à vigência das Leis 15.479/2026 e 15.484/2026; nenhuma delas aparece nos dispositivos abaixo.
-Partes de jurisprudência (049, 050, 054) estão BLOQUEADAS (do Pesquisador de jurisprudência). Lei faltando: Decreto-Lei 509/1969 (para 050).
+Partes de jurisprudência (049, 050, 054) estão BLOQUEADAS (do Pesquisador de jurisprudência). A lei faltando para o 050 (DL 509/1969) foi respondida na seção final.
 
 ### tgp-sujeitos-002
 - Resposta: O juiz dirige o processo conforme o CPC (art. 139, caput).
@@ -523,7 +524,7 @@ Partes de jurisprudência (049, 050, 054) estão BLOQUEADAS (do Pesquisador de j
 - Exceções relevantes: n/a
 - Fonte: CPC; DL 509/1969: sem cópia local
 - Consultado em: 21/10/2026
-- Situação: não encontrada (para o DL 509/1969; lei faltando)
+- Situação: não encontrada (para o DL 509/1969; lei faltando) [superada pela seção "Resposta à devolução · tgp-sujeitos-050" ao fim]
 
 ### tgp-sujeitos-051
 - Resposta: Suspeito, não impedido: o art. 145, I, trata do juiz amigo íntimo ou inimigo de qualquer das partes ou de seus advogados. O art. 144 não lista amizade.
@@ -568,3 +569,16 @@ Partes de jurisprudência (049, 050, 054) estão BLOQUEADAS (do Pesquisador de j
 - Fonte: CPC
 - Consultado em: 21/10/2026
 - Situação: respondida (parte de lei)
+
+---
+
+## Resposta à devolução · tgp-sujeitos-050
+- Resposta: Parte de lei, norma específica: o Decreto-Lei 509/1969, que transformou o Departamento dos Correios e Telégrafos em empresa pública (a ECT), dispõe no art. 12 que a ECT gozará dos "privilégios concedidos à Fazenda Pública", entre eles, quanto ao processo, "foro, prazos e custas processuais", além de imunidade tributária e impenhorabilidade de seus bens, rendas e serviços. O CPC, art. 183, caput, não relaciona empresa pública no rol do prazo em dobro (União, Estados, DF, Municípios, autarquias e fundações de direito público). O art. 12 não diz quais prazos nem em que medida (por exemplo, se o dobro do art. 183 do CPC); o DL é anterior ao CPC/2015 e o texto do art. 12 não remete ao CPC. Lacuna: a lei não detalha a extensão dos "prazos" do art. 12; o entendimento sobre recepção do DL pela CF/88 e sobre o alcance das prerrogativas (impenhorabilidade, precatórios, foro, prazos, custas, intimação pessoal) é de jurisprudência e fica com o Pesquisador de jurisprudência (BLOQUEADO nesta pesquisa).
+- Dispositivo: Decreto-Lei 509, de 20/3/1969, art. 12 (e art. 1º, § 1º: sede e foro em Brasília); CPC, art. 183, caput
+- Texto vigente: DL 509/1969, art. 12: "A ECT gozará de isenção de direitos de importação de materiais e equipamentos destinados aos seus serviços, dos privilégios concedidos à Fazenda Pública, quer em relação a imunidade tributária, direta ou indireta, impenhorabilidade de seus bens, rendas e serviços, quer no concernente a foro, prazos e custas processuais." Art. 1º, § 1º (redação da Lei 12.490/2011): "A ECT tem sede e foro na cidade de Brasília, no Distrito Federal."
+- Última alteração: art. 12: sem marca de alteração ou revogação na cópia local (redação original de 1969). Outros dispositivos do DL foram alterados (art. 1º, §§ 1º a 6º, art. 2º, III, art. 3º, art. 4º e art. 21-A, por Lei 12.490/2011; art. 11 por DL 538/1969).
+- Vigência: vigente. A cópia traz o art. 12 sem tarja de revogação; o art. 22 do DL: "Este Decreto-lei entrará em vigor na data de sua publicação revogadas as disposições em contrário." (publicado no DOU de 21/3/1969). A cópia local aponta como riscados apenas versões de outros artigos (incluindo as redações da Medida Provisória 532/2011, substituídas pela Lei 12.490/2011). A cópia não informa decisão judicial sobre a recepção.
+- Exceções relevantes: nenhuma encontrada no art. 12.
+- Fonte: https://www.planalto.gov.br/ccivil_03/decreto-lei/del0509.htm
+- Consultado em: 22/10/2026 (data de download da cópia local `validacao/fontes/dl509.txt`)
+- Situação: respondida

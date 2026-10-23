@@ -54,3 +54,16 @@ Lacuna: o art. 226 do CPC fixa os prazos do juiz (5, 10 e 30 dias), mas não diz
 ## Observações
 - Não houve texto com instrução embutida nas fontes.
 - A parte de lei (CPC, arts. 219, 226, 228, 231 e 257) cabe ao Pesquisador de lei.
+
+## Resposta à devolução · tgp-prazos-022
+
+- Data da tentativa: 23/10/2026.
+- Pedido: refazer a resposta com o REsp 1.933.297/MT, que o Conferente diz ter aberto integralmente no portal do STJ (ementa, itens 4 a 9, e voto).
+- Resultado: de novo, não consegui abrir o acórdão em fonte oficial. Tentativas, nenhuma contornada:
+  - scon.stj.jus.br, pesquisa por número do REsp 1.933.297: 403.
+  - processo.stj.jus.br/SCON, mesma pesquisa: 503.
+  - processo.stj.jus.br e ww2.stj.jus.br, consulta processual: 403.
+  - Buscas restritas a stj.jus.br: nenhum resultado com esse número. O inteiro teor (GetInteiroTeorDoAcordao) exige o número de registro (AAAA/NNNNNNN-N), que não localizei.
+- Pelas regras (só fonte oficial aberta; nunca citar de memória ou de agregador), não reescrevo a resposta sem ler o acórdão. A tgp-prazos-022 continua "não encontrada".
+- Para concluir: preciso do link oficial que o Conferente abriu (URL do inteiro teor no STJ, com num_registro e dt_publicacao). Com ele, refaço o bloco.
+- Nova tentativa em 23/10/2026, com a URL repassada pelo Orquestrador (https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101133403): 403, não contornado. A tgp-prazos-022 continua "não encontrada", com acesso bloqueado ao acórdão. Fica para a segunda pesquisa.

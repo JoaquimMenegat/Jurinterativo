@@ -171,7 +171,7 @@ Não vi `aula.md`, `ficha.md` nem o material.
 - Situação: respondida
 
 ### tgp-despesas-016
-- Resposta: Não. Quando o valor da condenação, do proveito econômico ou da causa for líquido ou liquidável, é proibida a apreciação equitativa, salvo nas hipóteses expressamente previstas no § 8º. O tema foi tratado pela Lei nº 14.365, de 2022, que incluiu o § 6º-A (e o § 8º-A) no art. 85. Dia e mês da lei e da vigência não constam da cópia local (só o ano).
+- Resposta: Não. Quando o valor da condenação, do proveito econômico ou da causa for líquido ou liquidável, é proibida a apreciação equitativa, salvo nas hipóteses expressamente previstas no § 8º. O tema foi tratado pela Lei nº 14.365, de 2022, que incluiu o § 6º-A (e o § 8º-A) no art. 85. Dia e mês da lei e da vigência não constam da cópia local (só o ano). [Complementado na seção "Resposta à devolução · tgp-despesas-016" ao fim.]
 - Dispositivo: CPC, art. 85, § 6º-A
 - Texto vigente: "§ 6º-A. Quando o valor da condenação ou do proveito econômico obtido ou o valor atualizado da causa for líquido ou liquidável, para fins de fixação dos honorários advocatícios, nos termos dos §§ 2º e 3º, é proibida a apreciação equitativa, salvo nas hipóteses expressamente previstas no § 8º deste artigo."
 - Última alteração: Lei nº 14.365, de 2022
@@ -327,4 +327,17 @@ Não vi `aula.md`, `ficha.md` nem o material.
 - Exceções relevantes: nenhuma encontrada
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 21/10/2026
+- Situação: respondida
+
+---
+
+## Resposta à devolução · tgp-despesas-016
+- Resposta: Não. Fora das hipóteses do § 8º (proveito econômico inestimável ou irrisório, ou valor da causa muito baixo), a fixação de honorários por apreciação equitativa é proibida quando o valor da condenação, do proveito econômico obtido ou o valor atualizado da causa for líquido ou liquidável (art. 85, § 6º-A, do CPC). Quem tratou do tema: a Lei nº 14.365, de 2 de junho de 2022, art. 3º, que incluiu no art. 85 do CPC o § 6º-A e o § 8º-A (e o § 20, que estende ao arbitramento judicial, entre outros, os §§ 6º-A e 8º-A). Quando: a lei é de 2 de junho de 2022, publicada no DOU de 3 de junho de 2022 (indicação no rodapé da lei: "publicado no DOU de 3.6.2022"). Início da vigência: o art. 5º da lei diz "Esta Lei entra em vigor na data de sua publicação"; logo, os dispositivos acrescidos ao CPC (art. 3º) vigoram desde 3 de junho de 2022, sem vacatio legis. Lacuna: a lei não traz regra de direito intertemporal específica para os honorários (se alcança processos em curso); o texto nada diz a respeito.
+- Dispositivo: Lei 14.365/2022, art. 3º (inclui o § 6º-A, o § 8º-A e o § 20 no art. 85 do CPC) e art. 5º (vigência); CPC, art. 85, § 6º-A
+- Texto vigente: CPC, art. 85, § 6º-A: "Quando o valor da condenação ou do proveito econômico obtido ou o valor atualizado da causa for líquido ou liquidável, para fins de fixação dos honorários advocatícios, nos termos dos §§ 2º e 3º, é proibida a apreciação equitativa, salvo nas hipóteses expressamente previstas no § 8º deste artigo." Lei 14.365/2022, art. 5º: "Esta Lei entra em vigor na data de sua publicação."
+- Última alteração: Lei nº 14.365, de 2 de junho de 2022
+- Vigência: vigente desde 03/06/2022 (publicação no DOU; entrada em vigor na data da publicação, sem vacatio)
+- Exceções relevantes: art. 85, § 8º (hipóteses em que a equidade é permitida); § 8º-A (parâmetro mínimo na equidade).
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14365.htm (cópia local `validacao/fontes/l14365.txt`) e https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 23/10/2026 (Lei 14.365/2022, data de download da cópia local); CPC: 21/10/2026
 - Situação: respondida

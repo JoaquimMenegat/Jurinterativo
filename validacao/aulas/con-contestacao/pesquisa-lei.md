@@ -334,3 +334,17 @@ Regra de contagem geral usada onde indicada: art. 219 (prazo em dias conta só d
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 21/10/2026
 - Situação: respondida
+
+## Resposta à devolução · con-contestacao-010
+
+Data da revisão: 23/10/2026. Fonte: CPC, cópia local baixada em 23/10/2026 (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm).
+
+- Resposta: Regra: o art. 337, § 5º manda o juiz conhecer de ofício as matérias do rol do art. 337, exceto a convenção de arbitragem e a incompetência relativa, que dependem de alegação do réu na contestação (art. 337, II e X, § 5º; art. 64, caput). A incompetência relativa tem, porém, duas hipóteses legais de atuação de ofício, no art. 63: (a) § 3º: antes da citação, a cláusula de eleição de foro, se abusiva, pode ser reputada ineficaz de ofício pelo juiz, que determina a remessa dos autos ao juízo do foro de domicílio do réu; depois da citação, o § 4º incumbe ao réu alegar a abusividade na contestação, sob pena de preclusão; (b) § 5º (redação da Lei nº 14.879/2024): o ajuizamento de ação em juízo aleatório, entendido como aquele sem vinculação com o domicílio ou a residência das partes ou com o negócio jurídico discutido na demanda, constitui prática abusiva que justifica a declinação de competência de ofício. Resumo, em ordem de preferência para a aula: (1) as matérias do art. 337 são conhecidas de ofício, exceto convenção de arbitragem e incompetência relativa (§ 5º); (2) a incompetência relativa não é, em regra, conhecida de ofício, mas pode ser em duas hipóteses do art. 63 (§ 3º, antes da citação, cláusula de foro abusiva; § 5º, foro aleatório). A convenção de arbitragem não tem hipótese semelhante: o art. 337, § 6º trata a falta de alegação como aceitação da jurisdição estatal e renúncia ao juízo arbitral. As matérias dos incisos IV, V, VI e IX do art. 485 também são conhecidas de ofício, em qualquer tempo e grau, enquanto não houver trânsito em julgado (art. 485, § 3º).
+- Dispositivo: CPC, art. 337, II, X, §§ 5º e 6º; art. 63, §§ 3º, 4º e 5º; art. 64, caput; art. 485, § 3º
+- Texto vigente: art. 337, § 5º: "Excetuadas a convenção de arbitragem e a incompetência relativa, o juiz conhecerá de ofício das matérias enumeradas neste artigo." / art. 63, § 3º: "Antes da citação, a cláusula de eleição de foro, se abusiva, pode ser reputada ineficaz de ofício pelo juiz, que determinará a remessa dos autos ao juízo do foro de domicílio do réu." / art. 63, § 5º: "O ajuizamento de ação em juízo aleatório, entendido como aquele sem vinculação com o domicílio ou a residência das partes ou com o negócio jurídico discutido na demanda, constitui prática abusiva que justifica a declinação de competência de ofício."
+- Última alteração: art. 337, § 5º: redação original. Art. 63, § 3º: a cópia local não traz remissão (redação original). Art. 63, § 1º: redação da Lei nº 14.879/2024 (4 de junho de 2024); art. 63, § 5º: incluído pela Lei nº 14.879, de 4 de junho de 2024.
+- Vigência: vigente
+- Exceções relevantes: o art. 63, § 5º trata de declinação de competência de ofício por juízo aleatório; a cópia local não indica data de entrada em vigor distinta da publicação da Lei 14.879/2024.
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 23/10/2026
+- Situação: respondida

@@ -1,30 +1,31 @@
 # Conferência · con-rito
 
-Data-base: 22/10/2026. Data da consulta: 22/10/2026.
+Data-base: 22/10/2026. Consulta: 23/10/2026.
 
-Recebidos: perguntas e pesquisa de lei. Não foi fornecida pesquisa de jurisprudência.
-
-Tentei abrir duas vezes o [texto compilado do CPC no Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm), fonte única citada. Ambas as tentativas retornaram `Timeout fetching`. Não acessei a cópia local. As transcrições da pesquisa não substituem a conferência independente da fonte. Não foi possível confirmar o texto vigente nem as alterações legislativas mencionadas no cabeçalho.
+Conferida a pesquisa de lei fornecida. Não foi apresentada pesquisa de jurisprudência; todas as perguntas recebidas são de lei. O texto compilado do Planalto abriu normalmente.
 
 | ID | Pesquisa | Resultado | Link aberto por mim? | Motivo / observação |
 |---|---|---|---|---|
-| con-rito-001 | lei | não verificável | Não — timeout | Não foi possível conferir o art. 318 nem a estrutura dos Livros e Títulos citados. |
-| con-rito-002 | lei | não verificável | Não — timeout | Não foi possível conferir a aplicação subsidiária prevista no art. 318, parágrafo único. |
-| con-rito-003 | lei | não verificável | Não — timeout | Não foi possível conferir os dispositivos sobre a inicial, o pedido e os limites da decisão. |
-| con-rito-004 | lei | não verificável | Não — timeout | Não foi possível conferir as providências anteriores à citação, suas hipóteses e os prazos dos arts. 321 e 331. |
-| con-rito-005 | lei | não verificável | Não — timeout | Não foi possível conferir os prazos, termos iniciais e hipóteses de dispensa da audiência nos arts. 334 e 335. |
-| con-rito-006 | lei | não verificável | Não — timeout | Não foi possível conferir a disciplina da contestação e da reconvenção, inclusive o art. 343, § 6º. |
-| con-rito-007 | lei | não verificável | Não — timeout | Não foi possível conferir as providências preliminares, as condições de produção de provas e os prazos indicados. |
-| con-rito-008 | lei | não verificável | Não — timeout | Não foi possível conferir as hipóteses de julgamento, a natureza dos pronunciamentos e o recurso mencionado. |
-| con-rito-009 | lei | não verificável | Não — timeout | Não foi possível conferir os capítulos sobre audiência de instrução e provas nem os trechos transcritos. |
-| con-rito-010 | lei | não verificável | Não — timeout | Não foi possível conferir a definição de sentença, seus elementos e as hipóteses com e sem resolução do mérito. |
-| con-rito-011 | lei | não verificável | Não — timeout | Não foi possível conferir os efeitos, limites e exceções da coisa julgada nos dispositivos citados. |
-| con-rito-013 | lei | não verificável | Não — timeout | Não foi possível conferir o momento e as condições da liquidação e do cumprimento, inclusive quanto ao julgamento parcial do mérito. |
-| con-rito-014 | lei | não verificável | Não — timeout | Não foi possível conferir o âmbito residual do procedimento comum nem os capítulos dos procedimentos especiais enumerados. |
-| con-rito-015 | lei | não verificável | Não — timeout | Não foi possível conferir a subsidiariedade e a ressalva sobre cumulação de pedidos do art. 327, § 2º. |
-| con-rito-016 | lei | não verificável | Não — timeout | Não foi possível conferir o conteúdo da decisão de saneamento nem as disposições dos §§ 1º e 3º do art. 357. |
+| con-rito-001 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | O art. 318 e a organização da Parte Especial sustentam a distinção entre procedimento comum, procedimentos especiais, cumprimento de sentença e processo de execução. |
+| con-rito-002 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Aplicação subsidiária expressamente prevista no art. 318, parágrafo único. |
+| con-rito-003 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | O Capítulo II e os arts. 319 a 331 sustentam a descrição da inicial. Os arts. 141, 329 e 492 sustentam a delimitação do pedido e da causa de pedir, com possibilidade de alteração. |
+| con-rito-004 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | As providências estão nos arts. 321, 330 a 332 e 334. A expressão “apelação e retratação em 5 dias” só é aceita com o prazo de cinco dias referido à retratação do juiz, conforme o art. 331, não à apelação. A designação da audiência deve ser lida com as dispensas registradas em con-rito-005. |
+| con-rito-005 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Os arts. 334 e 335 sustentam o momento ordinário da audiência, as antecedências, as dispensas e os termos iniciais indicados. “Antes da defesa” descreve a sequência ordinária; não significa proibição de contestação antecipada. As regras específicas de litisconsórcio dos §§ 1º e 2º do art. 335 não devem ser afastadas pela síntese. |
+| con-rito-006 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Os arts. 336, 337 e 343 sustentam a resposta. A apresentação da reconvenção na contestação corresponde ao caput; a autonomia prevista no § 6º foi expressamente ressalvada. |
+| con-rito-007 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Os arts. 347 a 352 sustentam os atos e prazos descritos. A síntese sobre prova do revel pressupõe a condição expressa do art. 349: representação nos autos a tempo de praticar os atos indispensáveis à produção. |
+| con-rito-008 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | A estrutura dos arts. 353 a 357 sustenta as quatro hipóteses. A referência a sentença no art. 354 não deve ser estendida à decisão limitada a parcela do processo; a própria pesquisa registra o agravo de instrumento nessa hipótese. |
+| con-rito-009 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Os Capítulos XI e XII sustentam os intervalos indicados. Conferidos diretamente o tratamento da audiência e a ordem preferencial das provas orais no art. 361. A enumeração dos meios de prova é uma síntese, não uma lista exaustiva. |
+| con-rito-010 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Os arts. 203, § 1º, 485, 487 e 489 sustentam a definição, a distinção quanto ao mérito e os elementos essenciais. A referência ao Capítulo XIII inclui corretamente sentença e coisa julgada. |
+| con-rito-011 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Os arts. 502 a 508 sustentam os efeitos, os limites e as ressalvas descritos. A extensão à questão prejudicial está corretamente condicionada aos requisitos e limites do art. 503. |
+| con-rito-013 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Os arts. 509, 512 e 513 sustentam a sequência descrita. A resposta ressalva corretamente a liquidação ou execução imediata da decisão parcial de mérito, conforme o art. 356, §§ 2º a 4º. Portanto, não afirma necessidade universal de sentença final ou trânsito em julgado. |
+| con-rito-014 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | O art. 318 sustenta o âmbito residual. O Título III organiza os procedimentos especiais por capítulos; conferidos também os capítulos da dissolução parcial de sociedade e da jurisdição voluntária. “Lista” é aceita como descrição dessa organização, sem excluir procedimentos previstos em outras leis. |
+| con-rito-015 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | A subsidiariedade decorre diretamente do art. 318, parágrafo único. A ressalva sobre cumulação e preservação de técnicas compatíveis corresponde ao art. 327, § 2º. |
+| con-rito-016 | lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | O art. 357, I a V, sustenta integralmente o núcleo da resposta. Os §§ 1º e 3º confirmam as ressalvas sobre esclarecimentos, ajustes e saneamento cooperativo. |
 
-A inacessibilidade da fonte não demonstra erro nas respostas. Os resultados acima não constituem veredito sobre a aula.
+## Observação sobre a vigência
 
-Resumo: 0 aceitas, 0 devolvidas, 0 conflitos entre fontes, 15 não verificáveis; 0 links abertos com conteúdo acessível, 1 URL tentada em 2 acessos.
+Não foi identificada alteração dos dispositivos determinantes das respostas que impeça sua aceitação na data-base.
 
+Não se aceita, porém, a afirmação geral do cabeçalho de que as duas leis de 2026 alcançam apenas “outros Livros”. A Lei 15.479/2026 também acrescenta o art. 529-A ao Livro I da Parte Especial. Ela estava em vacatio legis na data-base: publicada em 30/07/2026, prevê vigência após um ano, em 30/07/2027. Essa inexatidão acessória não prejudica os núcleos aceitos. A Lei 15.484/2026, publicada em 04/08/2026, prevê vigência após 30 dias, em 03/09/2026; suas alterações examinadas não modificam os dispositivos determinantes destas respostas. Fontes abertas: [Lei 15.479/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15479.htm) e [Lei 15.484/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15484.htm).
+
+Resumo: 15 aceitas, com as ressalvas registradas; 0 devolvidas; 0 conflitos entre fontes; 0 não verificáveis. 3 links distintos abertos: CPC compilado e duas leis mencionadas no cabeçalho.

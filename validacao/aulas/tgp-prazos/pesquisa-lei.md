@@ -512,3 +512,17 @@ Regra geral usada nos prazos em dias: CPC, art. 219, caput: "Na contagem de praz
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 21/10/2026
 - Situação: respondida
+
+## Resposta à devolução · tgp-prazos-002
+
+Data da revisão: 23/10/2026. Fonte: CPC, cópia local baixada em 23/10/2026 (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm).
+
+- Resposta: O réu tem 15 dias para contestar, que são úteis (art. 219, caput: prazo processual em dias fixado por lei; parágrafo único: só prazos processuais), contados excluindo o dia do começo e incluindo o do vencimento (art. 224, caput). Termo inicial (art. 335): (I) a data da audiência de conciliação ou de mediação, ou da última sessão, quando qualquer parte não comparecer ou, comparecendo, não houver autocomposição; (II) a data do protocolo do pedido de cancelamento da audiência apresentado pelo réu, quando ocorrer a hipótese do art. 334, § 4º, I (para cada réu, havendo litisconsórcio passivo, a data do respectivo pedido de cancelamento: § 1º); (III) nos demais casos, a data prevista no art. 231, conforme o modo da citação. Termo inicial especial do art. 335, § 2º: quando ocorrer a hipótese do art. 334, § 4º, II (não se admite autocomposição), havendo litisconsórcio passivo e desistindo o autor da ação em relação a réu ainda não citado, o prazo para resposta corre da data de intimação da decisão que homologar a desistência. Havendo mais de um réu, o dia do começo do prazo para contestar corresponde à última das datas dos incisos I a VI do art. 231 (art. 231, § 1º).
+- Dispositivo: CPC, art. 335, caput, I a III, §§ 1º e 2º; art. 334, § 4º, I e II; art. 231, caput e § 1º; art. 219; art. 224
+- Texto vigente: art. 335, § 2º: "Quando ocorrer a hipótese do art. 334, § 4º, inciso II, havendo litisconsórcio passivo e o autor desistir da ação em relação a réu ainda não citado, o prazo para resposta correrá da data de intimação da decisão que homologar a desistência." / art. 335, § 1º: "No caso de litisconsórcio passivo, ocorrendo a hipótese do art. 334, § 6º, o termo inicial previsto no inciso II será, para cada um dos réus, a data de apresentação de seu respectivo pedido de cancelamento da audiência."
+- Última alteração: art. 335: redação original; art. 231, IX: incluído pela Lei nº 14.195/2021 (a cópia traz "Incluído pela Lei nº 14.195, de 2021").
+- Vigência: vigente
+- Exceções relevantes: arts. 180, 183, 186 e 229 (prazos diferenciados); art. 335, § 2º (termo inicial especial, acima).
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 23/10/2026
+- Situação: respondida

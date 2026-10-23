@@ -26,11 +26,15 @@ $modelo = $modelos[$Papel]
 switch ($Papel) {
   'conferente' {
     $prompt = '05-conferente.md'; $saida = 'conferencia.md'; $web = $true
-    $entradas = @('perguntas.md', 'pesquisa-lei.md', 'pesquisa-jurisprudencia.md')
-    $tarefa = 'Confira as pesquisas contra as perguntas. Use a busca na web para abrir os links citados nas pesquisas.'
+    # O Planalto às vezes não responde ao Codex (timeout em 22/10/2026): o script junta os artigos citados,
+    # tirados da cópia local que baixar_leis.py baixou do Planalto, para a conferência da lei não depender do site.
+    if (Test-Path (Join-Path $pasta 'pesquisa-lei.md')) { & python (Join-Path $PSScriptRoot 'trechos_lei.py') $Aula | Out-Null }
+    $entradas = @('perguntas.md', 'pesquisa-lei.md', 'pesquisa-jurisprudencia.md', 'trechos-lei.md')
+    $lei = 'Para a lei: tente o Planalto; se não abrir, confira contra trechos-lei.md, que é o texto do Planalto baixado por script (não pelo Pesquisador), e registre "cópia local do Planalto" na coluna do link. Só marque não verificável o que nem o Planalto nem trechos-lei.md permitirem conferir. Jurisprudência continua exigindo o link oficial.'
+    $tarefa = "Confira as pesquisas contra as perguntas. Use a busca na web para abrir os links citados nas pesquisas. $lei"
     if ($Ids) {
       $saida = 'conferencia-devolucoes.md'
-      $tarefa = "Segunda conferência, só dos IDs $Ids, cujas pesquisas foram refeitas após devolução. Confira apenas esses IDs, no mesmo formato de tabela. Use a busca na web para abrir os links."
+      $tarefa = "Segunda conferência, só dos IDs $Ids, cujas pesquisas foram refeitas após devolução. Confira apenas esses IDs, no mesmo formato de tabela. Use a busca na web para abrir os links. $lei"
     }
   }
   'comparador' {

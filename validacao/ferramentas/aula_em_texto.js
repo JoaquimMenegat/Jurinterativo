@@ -65,13 +65,17 @@ const calcEstados = kind => {
   while (fim < engine.length && !engine[fim].startsWith('CALC.') && !engine[fim].startsWith('B.')) fim++;
   const el = () => { const f = {}; return { innerHTML: '', value: '', checked: false, style: {}, classList: { add() {}, remove() {} },
     addEventListener() {}, querySelectorAll: () => [], closest: () => null, querySelector(s) { return f[s] || (f[s] = el()); } }; };
-  const c = { CALC: {}, Date, Math };
+  const c = { CALC: {}, Date, Math, setTimeout: f => f(), requestAnimationFrame: f => f() };
   vm.createContext(c);
-  try { vm.runInContext(['const pad=n=>String(n).padStart(2,"0");', 'const replay=()=>{};', ...engine.slice(ini, fim)].join('\n'), c); } catch { return []; }
+  // Funções auxiliares do motor (datas, moeda, feriados) que as calculadoras usam.
+  const aux = ['const pad=', 'const brl=', 'function easter', 'const ferCache', 'function util'].map(p => engine.find(l => l.startsWith(p))).filter(Boolean);
+  try { vm.runInContext([...aux, 'const replay=()=>{};', ...engine.slice(ini, fim)].join('\n'), c); } catch { return []; }
   const modelo = el();
   try { c.CALC[kind](modelo); } catch { return []; }
   const html = modelo.innerHTML;
-  if (/type="(date|number|text)"/.test(html)) return [];
+  if (/type="(date|text)"/.test(html)) return [];
+  // Campo numérico: usa o valor padrão da própria calculadora (o que o aluno vê ao abrir) e varia só selects e caixas.
+  const numeros = [...html.matchAll(/<input type="(?:number|range)" class="(\w+)"[^>]*?value="([^"]*)"/g)].map(m => [m[1], m[2]]);
   const selects = [...html.matchAll(/<select class="(\w+)">(.*?)<\/select>/g)].map(m => ({
     cls: m[1], ops: [...m[2].matchAll(/<option value="([^"]*)">([^<]*)/g)].map(o => [o[1], o[2]]) }));
   const caixas = [...html.matchAll(/<input type="checkbox" class="(\w+)"[^>]*>\s*<span>([^<]*)/g)].map(m => [m[1], m[2].trim()]);
@@ -81,10 +85,14 @@ const calcEstados = kind => {
   if (combos.length > 64) return [`(${combos.length} combinações: grande demais para listar)`];
   return combos.map(cb => {
     const e = el();
+    numeros.forEach(([cls, v]) => { e.querySelector(`.${cls}`).value = v; });
     cb.forEach(([tipo, a, v]) => { if (tipo === 's') e.querySelector(`.${a}`).value = v[0]; else e.querySelector(`.${a[0]}`).checked = v; });
     try { c.CALC[kind](e); } catch (err) { return `erro ao rodar: ${err.message}`; }
     const entrada = cb.map(([tipo, a, v]) => tipo === 's' ? v[1] : `${a[1]}: ${v ? 'sim' : 'não'}`).join('; ');
-    return `Se ${entrada} → ${e.querySelector('.out').innerHTML}`;
+    const padrao = numeros.length ? ` (campos numéricos no valor padrão: ${numeros.map(([cls, v]) => `${cls}=${v}`).join(', ')})` : '';
+    // Cada calculadora escreve o resultado num lugar: .out, .res, .exp, .sm e .bars são os usados no motor.
+    const saida = ['.out', '.res', '.exp', '.sm', '.bars'].map(s => e.querySelector(s)).map(x => x.innerHTML || x.textContent).filter(Boolean).join(' ');
+    return `Se ${entrada}${padrao} → ${saida}`;
   });
 };
 

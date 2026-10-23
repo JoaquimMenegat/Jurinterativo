@@ -1,0 +1,10 @@
+# Segunda conferência · tgp-sujeitos
+
+Data-base e consulta: 22/10/2026. Escopo: somente tgp-sujeitos-050.
+
+| ID | Pesquisa | Resultado | Link aberto por mim? | Motivo / observação |
+|---|---|---|---|---|
+| tgp-sujeitos-050 | Lei — resposta à devolução | aceita | Sim: [DL 509/1969](https://www.planalto.gov.br/ccivil_03/decreto-lei/del0509.htm). CPC inacessível por tempo esgotado. | Aceito o núcleo: o art. 12 concede expressamente prerrogativas relativas a foro, prazos e custas processuais, além de imunidade tributária e impenhorabilidade. O dispositivo aparece sem indicação de revogação. O art. 1º, § 1º, confirma sede e foro em Brasília. **Lacuna para jurisprudência** quanto à recepção e ao alcance das prerrogativas. A observação complementar sobre o rol do art. 183 do CPC não pôde ser conferida nesta consulta. |
+| tgp-sujeitos-050 | Jurisprudência | aceita | Sim: [STF — Constituição e Supremo, art. 100](https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirBase=CF&abrirArtigo=100) e [STJ — Informativo 644](https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270644%27.cod.). [Tema 1.407](https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4511901&numeroProcesso=790059&classeProcesso=RE&numeroTema=1407): acesso bloqueado, HTTP 403. | Aceito o núcleo. O trecho do RE 230.051 ED, mantido na compilação oficial sem indicação de superação, sustenta a recepção do art. 12, a impenhorabilidade e o regime de precatórios. O Informativo 644, no REsp 1.574.008/SE, confirma foro, prazos e custas e afasta a prerrogativa de intimação pessoal pelos fundamentos relatados na pesquisa. Ressalva: o próprio informativo explica que a intimação eletrônica regular é considerada pessoal para efeitos legais. Não há conflito entre esses trechos. **Não aceito como verificado o acréscimo sobre a pendência e os andamentos do Tema 1.407**, pois sua página foi bloqueada. |
+
+Resumo: 2 respostas aceitas, com ressalvas; 0 devolvidas; 0 conflitos entre fontes; 0 respostas integralmente não verificáveis. 3 links abertos com conteúdo; 2 links inacessíveis.

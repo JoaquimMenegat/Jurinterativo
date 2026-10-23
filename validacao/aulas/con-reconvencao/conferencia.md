@@ -1,27 +1,25 @@
 # Conferência — con-reconvencao
 
-Data-base: 22/10/2026. Consulta realizada em: 22/10/2026.
+Data-base: 22/10/2026. Consulta pelo Conferente: 23/10/2026.
 
-Recebidas as perguntas e a pesquisa de lei. Não foi fornecida pesquisa de jurisprudência.
-
-A abertura do [CPC compilado no Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) falhou por tempo esgotado em duas tentativas. As transcrições fornecidas pelo pesquisador não substituem a conferência independente da fonte. A [Lei 9.099/1995 no Planalto](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm) foi aberta e permitiu conferir os arts. 3º, 17 e 31.
+Recebidas as perguntas, a pesquisa de lei e os trechos legais. Não foi fornecida pesquisa de jurisprudência. Todos os 13 itens foram conferidos. Os dois links do Planalto abriram.
 
 | ID | Pesquisa | Resultado | Link aberto por mim? | Motivo / observação |
 |---|---|---|---|---|
-| con-reconvencao-003 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir o art. 343, caput e § 6º, nem o prazo referido ao art. 335. |
-| con-reconvencao-004 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir o art. 343, § 6º, sobre reconvir independentemente de contestação. |
-| con-reconvencao-005 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir a conexão exigida pelo art. 343, caput. |
-| con-reconvencao-006 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir a intimação, o prazo e seu termo inicial nos arts. 343, § 1º, 219, 224 e 231. |
-| con-reconvencao-007 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir o art. 343, § 2º, inclusive a delimitação às causas extintivas que impeçam o exame do mérito. |
-| con-reconvencao-008 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir o art. 343, § 3º, sobre reconvenção contra autor e terceiro. |
-| con-reconvencao-009 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir o art. 343, § 4º, sobre litisconsórcio do réu com terceiro. |
-| con-reconvencao-010 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir as exigências do art. 343, § 5º, relativas à substituição processual. |
-| con-reconvencao-011 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir o pedido possessório na contestação previsto no art. 556, nem a observação referente ao art. 557. |
-| con-reconvencao-012 | lei | aceita | Sim — Lei 9.099/1995 | O art. 31 sustenta a vedação da reconvenção e o pedido do réu na contestação, limitado pelo art. 3º e pelos mesmos fatos da controvérsia. Seu parágrafo único confirma as alternativas de resposta do autor. O art. 17, parágrafo único, sustenta a dispensa possível de contestação formal e a apreciação dos pedidos na mesma sentença; essa referência deve ser lida no contexto do comparecimento inicial de ambas as partes previsto no caput. Dispositivos sem indicação de revogação no texto oficial consultado. |
-| con-reconvencao-013 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir os arts. 292, 82, 324 e 329. A pesquisa registra expressamente lacuna quanto ao recolhimento próprio de custas; não apresenta conclusão definitiva sobre esse ponto. A inacessibilidade impede aceitar também o núcleo relativo ao valor da causa. |
-| con-reconvencao-014 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir o prosseguimento da reconvenção no art. 343, § 2º, nem o consentimento para desistência referido ao art. 485, § 4º. |
-| con-reconvencao-015 | lei | não verificável | Não — falha de acesso ao CPC | Não foi possível conferir o art. 343, § 6º. |
+| con-reconvencao-003 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 343, caput e § 6º, sustenta a indicação da peça e a independência da contestação. Art. 335 sustenta o prazo mencionado, em leitura conjunta com o art. 343. |
+| con-reconvencao-004 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 343, § 6º, sustenta diretamente a resposta. |
+| con-reconvencao-005 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 343, caput, confirma as duas conexões alternativas indicadas. |
+| con-reconvencao-006 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Conferidos destinatário, forma de intimação, duração, dias úteis e início da contagem nos arts. 343, § 1º, 219, 224 e 231. O exemplo relativo ao Diário corresponde aos dispositivos citados. |
+| con-reconvencao-007 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 343, § 2º, sustenta a resposta, que delimita corretamente a causa extintiva ao impedimento do exame do mérito. |
+| con-reconvencao-008 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 343, § 3º, sustenta diretamente a resposta. |
+| con-reconvencao-009 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 343, § 4º, sustenta diretamente a resposta. |
+| con-reconvencao-010 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 343, § 5º, confirma ambas as exigências relativas à substituição processual. |
+| con-reconvencao-011 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 556 sustenta o pedido na contestação, nos limites descritos. Conferida também a observação sobre o art. 557. |
+| con-reconvencao-012 | Lei | aceita | Sim — [Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm) | Conferidos arts. 3º, 17, parágrafo único, e 31. Sustentam a vedação, os limites do pedido e a resposta do autor. A dispensa de contestação formal deve ser lida no contexto do comparecimento inicial de ambas as partes previsto no art. 17. |
+| con-reconvencao-013 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Aceitos o valor próprio e as remissões dos arts. 292, 324, § 2º, e 329, parágrafo único. Art. 82 sustenta a regra geral de antecipação. A lacuna sobre recolhimento próprio permanece: falta a legislação de custas aplicável, não identificada na pergunta. Não aceita a indicação genérica de inexistência de exceções: a própria fonte contém o art. 82, § 3º, incluído em 2025. Isso não invalida o núcleo aceito. |
+| con-reconvencao-014 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Conferidos art. 343, § 2º, e a observação sobre consentimento no art. 485, § 4º. |
+| con-reconvencao-015 | Lei | aceita | Sim — [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) | Art. 343, § 6º, sustenta diretamente a resposta. |
 
-Não foi possível confrontar lei e jurisprudência, pois a segunda pesquisa não foi fornecida. Os resultados de inacessibilidade não demonstram erro nas respostas nem fundamentam alteração da aula.
+As disposições que sustentam os núcleos aceitos constam do texto compilado sem indicação de revogação ou alteração impeditiva de sua aplicação na data-base. A ausência de pesquisa jurisprudencial impede o confronto entre pesquisas, mas não prejudica as conclusões diretamente sustentadas pela lei.
 
-Resumo: 1 aceita, 0 devolvidas, 0 conflitos entre fontes e 12 não verificáveis; 1 link distinto aberto com sucesso, de 2 tentados.
+Resumo: 13 aceitas, sendo 1 com aceitação parcial; 0 devolvidas; 0 conflitos entre fontes; 0 não verificáveis; 2 links distintos abertos.

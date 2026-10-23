@@ -148,3 +148,17 @@ Contagem geral usada onde indicada: art. 219 (dias úteis, só prazos processuai
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 21/10/2026
 - Situação: respondida
+
+## Resposta à devolução · con-preliminares-014
+
+Data da revisão: 23/10/2026. Fontes: CPC (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm) e Código Civil (https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm), cópias locais baixadas em 23/10/2026.
+
+- Resposta: Sim, o autor é ouvido, em 15 dias úteis (art. 219; art. 350), prazo do autor, contado da intimação (arts. 230 e 231), excluído o dia do começo (art. 224). A classificação do pagamento como fato extintivo do direito do autor se demonstra pelo Código Civil: o pagamento é regulado no Título III do Livro de Direito das Obrigações, intitulado "Do Adimplemento e Extinção das Obrigações", Capítulo I, "Do Pagamento" (arts. 304 e seguintes). O CC arts. 304 e 308 tratam de quem paga e a quem se paga ("Qualquer interessado na extinção da dívida pode pagá-la"; "O pagamento deve ser feito ao credor ou a quem de direito o represente"). O art. 319 dá ao devedor que paga o direito à quitação regular, e o art. 324 estabelece que a entrega do título ao devedor firma a presunção do pagamento. Pagamento é, portanto, modo de extinção da obrigação (o crédito que o autor invoca), enquadrando-se como fato extintivo do direito do autor para os fins do art. 350 e do art. 373, II, do CPC. O CPC não usa a palavra "pagamento" nos arts. 350 e 373, II; a ligação vem do CC (título e capítulo citados). Quanto ao ônus, o art. 373, II atribui ao réu a prova do fato extintivo.
+- Dispositivo: CPC, arts. 350, 373, II, 219, 224, 230, 231; CC, Título III (Do Adimplemento e Extinção das Obrigações), Capítulo I (Do Pagamento), arts. 304, 308, 319 e 324.
+- Texto vigente: CPC art. 350: "Se o réu alegar fato impeditivo, modificativo ou extintivo do direito do autor, este será ouvido no prazo de 15 (quinze) dias, permitindo-lhe o juiz a produção de prova." / CPC art. 373, II: "ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor." / CC art. 304: "Qualquer interessado na extinção da dívida pode pagá-la, usando, se o credor se opuser, dos meios conducentes à exoneração do devedor." / CC art. 319: "O devedor que paga tem direito a quitação regular, e pode reter o pagamento, enquanto não lhe seja dada."
+- Última alteração: CPC arts. 350 e 373, II: redação original. CC arts. 304, 308, 319, 324: a cópia local não traz remissão de alteração nesses artigos. Correção da nota geral: o art. 231 recebeu o inciso IX pela Lei nº 14.195/2021 (a cópia traz "Incluído pela Lei nº 14.195, de 2021"); não altera o resultado desta resposta.
+- Vigência: vigente
+- Exceções relevantes: arts. 180, 183 e 186 do CPC (prazo em dobro).
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm e https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+- Consultado em: 23/10/2026
+- Situação: respondida
