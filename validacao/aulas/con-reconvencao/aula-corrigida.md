@@ -29,7 +29,7 @@ Origem: conhecimento.js:148
 ## Bloco 3 · callout
 Origem: conhecimento.js:149
 - [b3.kind] brass
-- [b3.title] Quando não cabe
+- [b3.title] Reconvenção e pedido na contestação
 - [b3.html] Nas possessórias, o réu que alega ter sido ofendido em sua posse pode pedir, na contestação, proteção possessória e indenização pelos prejuízos da turbação ou do esbulho cometido pelo autor, sem precisar de reconvenção para esses pedidos (art. 556). Nos Juizados Especiais Cíveis regidos pela Lei 9.099/1995, não cabe reconvenção. O réu pode formular pedido contraposto na contestação, nos limites do art. 3º e fundado nos mesmos fatos da controvérsia (Lei 9.099/95, art. 31). A reconvenção tem valor da causa e custas próprios.
 
 ## Teste do módulo

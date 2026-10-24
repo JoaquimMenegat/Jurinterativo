@@ -47,16 +47,16 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | con-pedido | Pedido | validada | 24/10/2026 |
 | con-audiencia334 | Audiência de conciliação ou mediação | validada | 24/10/2026 |
 | con-contestacao | Contestação | validada | 24/10/2026 |
-| con-reconvencao | Reconvenção | em conferência | — |
+| con-reconvencao | Reconvenção | validada | 24/10/2026 |
 | con-revelia | Revelia | validada | 24/10/2026 |
 | con-preliminares | Providências preliminares | validada | 24/10/2026 |
 | con-estado | Julgamento conforme o estado do processo | validada | 24/10/2026 |
-| con-saneamento | Saneamento e ônus da prova | em extração | — |
-| con-aij | Audiência de instrução e julgamento | em extração | — |
-| con-tutelas | Tutelas provisórias | em extração | — |
-| con-sentenca | Sentença | em extração | — |
+| con-saneamento | Saneamento e ônus da prova | validada | 24/10/2026 |
+| con-aij | Audiência de instrução e julgamento | validada | 24/10/2026 |
+| con-tutelas | Tutelas provisórias | validada | 24/10/2026 |
+| con-sentenca | Sentença | validada | 24/10/2026 |
 | con-coisajulgada | Coisa julgada | validada | 24/10/2026 |
-| con-arbitragem | Arbitragem | em extração | — |
+| con-arbitragem | Arbitragem | validada | 24/10/2026 |
 | pe-introducao | Por que existem procedimentos especiais | validada | 16/10/2026 |
 | pe-consignacao | Consignação em pagamento | validada | 16/10/2026 |
 | pe-contas | Ação de exigir contas | validada | 16/10/2026 |

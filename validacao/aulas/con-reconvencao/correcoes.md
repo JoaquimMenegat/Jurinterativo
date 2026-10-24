@@ -44,6 +44,16 @@ Não aplicada: a aula não tem linha "Validada em" no código, e 013 segue `não
 
 ## Notado de passagem
 
-- **Título do callout "Quando não cabe" (conhecimento.js:149)**: o parecer de 011 observa que, sob esse título, a frase das possessórias sugere uma vedação geral à reconvenção que a pesquisa não estabelece. A redação nova de 011 diz só que a reconvenção não é necessária para aqueles pedidos, mas o título não está na redação sugerida e não foi alterado.
+- **Título do callout "Quando não cabe" (conhecimento.js:149)**: resolvido no ajuste de 24/10/2026 (seção abaixo), a pedido do Reconferente.
 - **SVG "Os papéis se cruzam" (conhecimento.js:147)**: a legenda "reconvenção, na própria contestação" não menciona a reconvenção sem contestação (§ 6º), que o cartão "Onde" já traz. Fora do parecer; não alterei.
 - **[REC] linhas 11 a 16**: a lista de requisitos traz "Conexão com os fundamentos da parte autora"; o art. 343, caput, fala em conexão com a ação principal ou com o fundamento da defesa. Fora do parecer; não alterei.
+
+## Ajuste pedido na reconferência (24/10/2026)
+
+Entrada: `reconferencia.md` (resultado "refazer — con-reconvencao-011"). Só este item foi tocado.
+
+| ID | Arquivo:linha | Antes | Depois | Nota do Vault | Ajustes no entorno |
+|---|---|---|---|---|---|
+| con-reconvencao-011 | conhecimento.js:149 (`callout`, título `b3.title`) | `Quando não cabe` | `Reconvenção e pedido na contestação` | Sem trecho de origem no Vault (já registrado acima; a nota [REC] não trata de possessórias nem de Juizados). | O texto do callout (011, 012 e 013) não foi tocado. O título novo, sugerido pelo Reconferente, comporta a dispensa de reconvenção nas possessórias e a vedação nos Juizados, sem sugerir vedação geral. |
+
+Plataforma: `node --check` em `conhecimento.js` e em `61-pk-conhecimento.js` sem erro; `python prototipo/importar_pacote.py prototipo/pacotes/inciso-materiais` gerou o conteúdo com o título novo (conferido por busca), com a falha conhecida e inofensiva `WinError 32` na cópia final.
