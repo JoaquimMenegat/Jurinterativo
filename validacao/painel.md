@@ -50,12 +50,12 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | con-reconvencao | Reconvenção | em conferência | — |
 | con-revelia | Revelia | em conferência | — |
 | con-preliminares | Providências preliminares | em conferência | — |
-| con-estado | Julgamento conforme o estado do processo | em extração | — |
+| con-estado | Julgamento conforme o estado do processo | validada | 24/10/2026 |
 | con-saneamento | Saneamento e ônus da prova | em extração | — |
 | con-aij | Audiência de instrução e julgamento | em extração | — |
 | con-tutelas | Tutelas provisórias | em extração | — |
 | con-sentenca | Sentença | em extração | — |
-| con-coisajulgada | Coisa julgada | em extração | — |
+| con-coisajulgada | Coisa julgada | validada | 24/10/2026 |
 | con-arbitragem | Arbitragem | em extração | — |
 | pe-introducao | Por que existem procedimentos especiais | validada | 16/10/2026 |
 | pe-consignacao | Consignação em pagamento | validada | 16/10/2026 |

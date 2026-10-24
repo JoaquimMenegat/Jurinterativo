@@ -254,3 +254,17 @@ Data-base: 23/10/2026. Cópia local: `validacao/fontes/cpc.txt` (Fonte: https://
 - Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
 - Consultado em: 23/10/2026
 - Situação: respondida
+
+## Resposta à devolução · con-saneamento-017
+
+Data da revisão: 23/10/2026. Fonte: CPC, cópia local baixada em 23/10/2026 (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm).
+
+- Resposta: (1) Sobre as questões resolvidas: a decisão de saneamento resolve as questões processuais pendentes, delimita as questões de fato e de direito, define o ônus da prova e designa audiência (art. 357, I a V). Realizado o saneamento, as partes têm 5 dias comuns (úteis) para pedir esclarecimentos ou ajustes, findo o qual a decisão se torna estável (§ 1º). A delimitação consensual das questões de fato e de direito, se homologada, vincula as partes e o juiz (§ 2º). A lei não usa a palavra "preclusão" no art. 357; para as questões resolvidas que não comportem agravo de instrumento, o art. 1.009, § 1º diz que não são cobertas pela preclusão e devem ser suscitadas em preliminar de apelação ou nas contrarrazões; o rol do art. 1.015 define o que comporta agravo (por exemplo, XI, redistribuição do ônus da prova). (2) Sobre a demanda (pedido e causa de pedir): o art. 329 fixa até quando o autor pode alterá-los. Até a citação, o autor pode aditar ou alterar o pedido ou a causa de pedir, independentemente de consentimento do réu (I). Até o saneamento do processo, pode aditar ou alterar o pedido e a causa de pedir com consentimento do réu, assegurado o contraditório em prazo mínimo de 15 dias, facultado o requerimento de prova suplementar (II). A regra se aplica à reconvenção e à sua causa de pedir (parágrafo único). Portanto, o saneamento é o limite final previsto no art. 329 para a alteração do pedido e da causa de pedir; o art. 329 não prevê alteração depois dele. Lacuna: o CPC não diz expressamente que, depois do saneamento, a alteração do pedido ou da causa de pedir é vedada, nem define se "até o saneamento" é a data da decisão ou o fim do prazo do art. 357, § 1º (estabilidade); também a regra do art. 493 (fato superveniente que influa no julgamento do mérito deve ser considerado de ofício ou a requerimento, no momento da decisão) não trata de alteração do pedido.
+- Dispositivo: CPC, art. 357, I a V e §§ 1º e 2º; art. 329, I, II e parágrafo único; art. 1.009, § 1º; art. 1.015, XI; art. 493
+- Texto vigente: art. 329: "O autor poderá: I - até a citação, aditar ou alterar o pedido ou a causa de pedir, independentemente de consentimento do réu; II - até o saneamento do processo, aditar ou alterar o pedido e a causa de pedir, com consentimento do réu, assegurado o contraditório mediante a possibilidade de manifestação deste no prazo mínimo de 15 (quinze) dias, facultado o requerimento de prova suplementar." / art. 357, § 1º: "Realizado o saneamento, as partes têm o direito de pedir esclarecimentos ou solicitar ajustes, no prazo comum de 5 (cinco) dias, findo o qual a decisão se torna estável."
+- Última alteração: arts. 329 e 357: redação original
+- Vigência: vigente
+- Exceções relevantes: art. 357, § 2º (vinculação por delimitação consensual homologada); art. 1.009, § 1º
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 23/10/2026
+- Situação: respondida

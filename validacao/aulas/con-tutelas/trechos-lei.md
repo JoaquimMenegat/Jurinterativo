@@ -46,6 +46,8 @@ Art. 224. Salvo disposição em contrário, os prazos serão contados excluindo 
 § 2º Considera-se como data de publicação o primeiro dia útil seguinte ao da disponibilização da informação no Diário da Justiça eletrônico.
 § 3º A contagem do prazo terá início no primeiro dia útil que seguir ao da publicação.
 
+Art. 230. O prazo para a parte, o procurador, a Advocacia Pública, a Defensoria Pública e o Ministério Público será contado da citação, da intimação ou da notificação.
+
 Art. 231. Salvo disposição em sentido diverso, considera-se dia do começo do prazo:
 I - a data de juntada aos autos do aviso de recebimento, quando a citação ou a intimação for pelo correio;
 II - a data de juntada aos autos do mandado cumprido, quando a citação ou a intimação for por oficial de justiça;

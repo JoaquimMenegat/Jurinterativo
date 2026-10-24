@@ -405,3 +405,17 @@ Perguntas de jurisprudência (con-tutelas-012, -046, -047, -048, -049): BLOQUEAD
 - Vigência: vigente
 - Exceções relevantes: nenhuma encontrada.
 - Situação: respondida
+
+## Resposta à devolução · con-tutelas-027
+
+Data da revisão: 23/10/2026. Fonte: CPC, cópia local baixada em 23/10/2026.
+
+- Resposta: O art. 303, § 6º diz que o órgão jurisdicional determinará a emenda da petição inicial "em até 5 (cinco) dias": 5 dias é o limite máximo, não prazo fixo. Cabe ao juiz fixar prazo de até 5 dias (pode ser menor); a lei não impõe exatamente 5. Titular: o autor. Contagem: é prazo em dias fixado pelo juiz dentro do limite legal, portanto dias úteis (art. 219, caput, "estabelecido por lei ou pelo juiz"), excluído o dia do começo e incluído o do vencimento (art. 224). A lei não fixa o termo inicial; pela regra geral (art. 230), conta-se da intimação do autor, com o dia do começo conforme o art. 231. Consequência da falta de emenda: a inicial é indeferida e o processo extinto sem resolução de mérito ("sob pena de ser indeferida e de o processo ser extinto sem resolução de mérito"). O art. 321 (15 dias) é a regra geral de emenda; o § 6º do art. 303 é a regra específica para a hipótese de o juiz entender que não há elementos para a tutela antecipada antecedente.
+- Dispositivo: CPC, art. 303, § 6º; arts. 219, 224, 230 e 231; art. 321 (regra geral)
+- Texto vigente: "Caso entenda que não há elementos para a concessão de tutela antecipada, o órgão jurisdicional determinará a emenda da petição inicial em até 5 (cinco) dias, sob pena de ser indeferida e de o processo ser extinto sem resolução de mérito."
+- Última alteração: redação original
+- Vigência: vigente
+- Exceções relevantes: nenhuma encontrada. Lacuna: a lei não diz qual prazo o juiz deve fixar dentro do limite de 5 dias nem desde quando ele corre.
+- Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+- Consultado em: 23/10/2026
+- Situação: respondida

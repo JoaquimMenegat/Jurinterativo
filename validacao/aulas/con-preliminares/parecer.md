@@ -1,0 +1,38 @@
+# Parecer · con-preliminares — Providências preliminares
+
+Data-base: 23/10/2026. Comparação feita exclusivamente com os arquivos fornecidos, respeitadas as aceitações parciais da conferência. Para con-preliminares-014, prevalece a segunda conferência.
+
+## Resumo
+
+Dos 15 itens, 2 são conceitos e não recebem veredito.
+Dos 13 itens examinados: 8 conferem, 3 exigem correção e 2 são não verificáveis.
+Gravidades das correções: 0 altas, 2 médias e 1 baixa.
+Não há divergência identificada entre fontes.
+
+## Comparação
+
+| ID | Afirmação (copiada da ficha) | Veredito | Gravidade | O que a fonte diz | Fonte | Redação sugerida |
+|---|---|---|---|---|---|---|
+| con-preliminares-001 | Terminada a resposta do réu, o juiz toma providências antes de decidir o rumo do processo. Nem sempre há providências; quando há, abrem espaço para o autor falar e para corrigir vícios. | corrigir | baixa | O marco do art. 347 é o término do prazo para contestar. As providências cabem conforme o caso, inclusive sem contestação. O restante corresponde aos arts. 348 a 353. Gravidade baixa por se tratar de precisão na apresentação da etapa processual. | [CPC, arts. 347 a 353][cpc] | Findo o prazo para contestação, o juiz toma as providências preliminares necessárias, conforme o caso. Elas podem abrir espaço para o autor falar e para corrigir vícios. Cumpridas ou dispensadas, segue-se o julgamento conforme o estado do processo (arts. 347 a 353 do CPC). |
+| con-preliminares-002 | Revelia sem efeito: se a revelia não produziu o efeito material, o autor é intimado a especificar as provas que pretende produzir. | corrigir | média | O art. 348 condiciona a determinação à ausência de indicação anterior das provas. A aula omite esse requisito e pode levar o aluno a esperar nova especificação mesmo quando já realizada. | [CPC, art. 348][cpc] | Se a revelia não produziu o efeito material, o juiz determina que o autor especifique as provas que pretende produzir, se ainda não as tiver indicado (art. 348 do CPC). |
+| con-preliminares-003 | Defesa indireta: se o réu alegou fato impeditivo, modificativo ou extintivo do direito do autor, este responde em 15 dias, podendo produzir prova. | confere | — | O art. 350 prevê a oitiva do autor em 15 dias e permite a produção de prova. A pesquisa aceita confirma a contagem em dias úteis e as prerrogativas legais de prazo. | [CPC, arts. 350 e 219][cpc] | — |
+| con-preliminares-004 | Preliminares: se o réu alegou matérias do art. 337, o autor responde em 15 dias, com prova. | confere | — | O art. 351 determina a oitiva do autor em 15 dias, permitindo-lhe produzir prova. “Com prova” é entendido, no contexto, como possibilidade de produção, conforme a pesquisa aceita. | [CPC, art. 351][cpc] | — |
+| con-preliminares-005 | Vício sanável: o juiz manda corrigir em prazo não superior a 30 dias. | confere | — | O art. 352 estabelece prazo nunca superior a 30 dias. A afirmação está no bloco de providências preliminares e cita esse dispositivo; não apresenta o limite como substituto dos prazos específicos dos arts. 76 e 321. | [CPC, art. 352][cpc] | — |
+| con-preliminares-007 | Dilatórias: incompetência, nulidade de citação, incorreção do valor, conexão, incapacidade, gratuidade indevida. | não verificável | — | A pesquisa aceita confirma que essas matérias integram o art. 337. Não demonstra integralmente a classificação de todas elas como dilatórias nem seus respectivos efeitos. A confirmação do rol legal não basta para verificar toda a afirmação. Não há prova de erro que autorize alteração. | [CPC, art. 337][cpc] — suporte parcial | — |
+| con-preliminares-008 | Preliminares peremptórias encerram o processo sem mérito. | confere | — | A pesquisa aceita confirma hipóteses de extinção sem resolução do mérito no art. 485. A frase descreve o efeito da categoria peremptória, sem atribuí-lo a todas as preliminares do art. 337. As condições de aplicação aos exemplos são examinadas em con-preliminares-009. | [CPC, art. 485][cpc] | — |
+| con-preliminares-009 | Peremptórias: perempção, litispendência, coisa julgada, convenção de arbitragem, inépcia não sanada, ilegitimidade. | corrigir | média | O art. 485 sustenta os efeitos extintivos. Entretanto, a ilegitimidade passiva alegada admite substituição do réu antes da extinção, conforme os arts. 338 e 339. A aula ressalva a possibilidade de sanar a inépcia, mas omite a regularização da legitimidade passiva. A aceitação parcial também exige observar que a correção do vício depende de sua possibilidade, nos termos do art. 317. | [CPC, arts. 317, 338, 339 e 485][cpc] | Podem levar à extinção sem mérito: perempção, litispendência, coisa julgada, convenção de arbitragem acolhida, inépcia não sanada e ilegitimidade. Antes da extinção, cabe corrigir o vício, se possível; na ilegitimidade passiva alegada, o autor pode substituir o réu (arts. 317, 338, 339 e 485 do CPC). |
+| con-preliminares-011 | A defesa direta não gera réplica obrigatória. | confere | — | A mera negativa dos fatos ou de suas consequências jurídicas não constitui hipótese de oitiva prevista nos arts. 350 e 351. A afirmação atribui esse efeito à defesa direta em si; não dispensa manifestação exigida por outro fundamento processual. | [CPC, arts. 350 e 351][cpc] | — |
+| con-preliminares-012 | Defesa indireta admite o fato, mas opõe outro que impede, modifica ou extingue o direito. | não verificável | — | Os arts. 350 e 373, II, sustentam a referência a fato impeditivo, modificativo ou extintivo. A pesquisa aceita não demonstra a parte conceitual segundo a qual a defesa indireta “admite o fato”. A conferência reconhece a limitação conceitual. Sem prova de erro, a explicação permanece na aula. | [CPC, arts. 350 e 373, II][cpc] — suporte parcial | — |
+| con-preliminares-013 | A defesa indireta gera réplica. | confere | — | No contexto da definição apresentada na aula, trata-se da alegação de fato impeditivo, modificativo ou extintivo, que exige a oitiva do autor conforme o art. 350. | [CPC, art. 350][cpc] | — |
+| con-preliminares-014 | O réu alegou pagamento. O autor: → "é ouvido em 15 dias" (defesa indireta gera réplica). | confere | — | A resposta revisada, aceita na segunda conferência, sustenta o pagamento como fato extintivo pelo Código Civil e a oitiva pelo art. 350 do CPC. O prazo é de 15 dias úteis, observadas as prerrogativas legais. Entre as alternativas fornecidas, “nada faz” está incorreta; não há duplicidade de resposta correta. | [CPC, arts. 219, 350 e 373, II][cpc]; [CC, título sobre adimplemento e extinção das obrigações, art. 304][cc] | — |
+| con-preliminares-015 | Prazo máximo para corrigir vício sanável: → "30 dias". | confere | — | No contexto das providências preliminares e da explicação que cita o art. 352, o máximo é 30 dias úteis. A alternativa “15 dias” não corresponde ao máximo desse dispositivo; é prazo específico de emenda da inicial no art. 321. Não há duplicidade de resposta correta no contexto do teste. | [CPC, arts. 219, 321 e 352][cpc] | — |
+
+## Para o Joaquim decidir
+
+- **con-preliminares-007:** decidir se mantém a classificação didática como está ou solicita pesquisa específica sobre os efeitos de cada preliminar; a pesquisa aceita confirma apenas parte da afirmação. Até essa decisão, manter o texto.
+- **con-preliminares-012:** decidir se mantém a explicação conceitual ou solicita fundamentação específica para a expressão “admite o fato”; não foi demonstrado erro. Até essa decisão, manter o texto.
+
+Não há itens divergentes nem citações doutrinárias literais na ficha.
+
+[cpc]: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm
+[cc]: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm

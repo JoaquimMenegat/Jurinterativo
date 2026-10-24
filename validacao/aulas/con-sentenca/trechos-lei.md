@@ -58,6 +58,19 @@ Art. 224. Salvo disposição em contrário, os prazos serão contados excluindo 
 § 2º Considera-se como data de publicação o primeiro dia útil seguinte ao da disponibilização da informação no Diário da Justiça eletrônico.
 § 3º A contagem do prazo terá início no primeiro dia útil que seguir ao da publicação.
 
+Art. 226. O juiz proferirá:
+I - os despachos no prazo de 5 (cinco) dias;
+II - as decisões interlocutórias no prazo de 10 (dez) dias;
+III - as sentenças no prazo de 30 (trinta) dias.
+
+Art. 227. Em qualquer grau de jurisdição, havendo motivo justificado, pode o juiz exceder, por igual tempo, os prazos a que está submetido.
+
+Art. 228. Incumbirá ao serventuário remeter os autos conclusos no prazo de 1 (um) dia e executar os atos processuais no prazo de 5 (cinco) dias, contado da data em que:
+I - houver concluído o ato processual anterior, se lhe foi imposto pela lei;
+II - tiver ciência da ordem, quando determinada pelo juiz.
+§ 1º Ao receber os autos, o serventuário certificará o dia e a hora em que teve ciência da ordem referida no inciso II.
+§ 2º Nos processos em autos eletrônicos, a juntada de petições ou de manifestações em geral ocorrerá de forma automática, independentemente de ato de serventuário da justiça.
+
 Art. 230. O prazo para a parte, o procurador, a Advocacia Pública, a Defensoria Pública e o Ministério Público será contado da citação, da intimação ou da notificação.
 
 Art. 231. Salvo disposição em sentido diverso, considera-se dia do começo do prazo:
@@ -83,6 +96,26 @@ caput
 § 4º Aplica-se o disposto no inciso II do
 caput
 à citação com hora certa.
+
+Art. 232. Nos atos de comunicação por carta precatória, rogatória ou de ordem, a realização da citação ou da intimação será imediatamente informada, por meio eletrônico, pelo juiz deprecado ao juiz deprecante.
+Seção II
+Da Verificação dos Prazos e das Penalidades
+
+Art. 270. As intimações realizam-se, sempre que possível, por meio eletrônico, na forma da lei.
+Parágrafo único. Aplica-se ao Ministério Público, à Defensoria Pública e à Advocacia Pública o disposto no
+§ 1º do art. 246.
+
+Art. 274. Não dispondo a lei de outro modo, as intimações serão feitas às partes, aos seus representantes legais, aos advogados e aos demais sujeitos do processo pelo correio ou, se presentes em cartório, diretamente pelo escrivão ou chefe de secretaria.
+Parágrafo único. Presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo, fluindo os prazos a partir da juntada aos autos do comprovante de entrega da correspondência no primitivo endereço.
+
+Art. 275. A intimação será feita por oficial de justiça quando frustrada a realização por meio eletrônico ou pelo correio.
+§ 1º A certidão de intimação deve conter:
+I - a indicação do lugar e a descrição da pessoa intimada, mencionando, quando possível, o número de seu documento de identidade e o órgão que o expediu;
+II - a declaração de entrega da contrafé;
+III - a nota de ciente ou a certidão de que o interessado não a apôs no mandado.
+§ 2º Caso necessário, a intimação poderá ser efetuada com hora certa ou por edital.
+TÍTULO III
+DAS NULIDADES
 
 Art. 317. Antes de proferir decisão sem resolução de mérito, o juiz deverá conceder à parte oportunidade para, se possível, corrigir o vício.
 PARTE ESPECIAL

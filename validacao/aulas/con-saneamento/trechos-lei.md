@@ -124,6 +124,13 @@ caput
 caput
 à citação com hora certa.
 
+Art. 329. O autor poderá:
+I - até a citação, aditar ou alterar o pedido ou a causa de pedir, independentemente de consentimento do réu;
+II - até o saneamento do processo, aditar ou alterar o pedido e a causa de pedir, com consentimento do réu, assegurado o contraditório mediante a possibilidade de manifestação deste no prazo mínimo de 15 (quinze) dias, facultado o requerimento de prova suplementar.
+Parágrafo único. Aplica-se o disposto neste artigo à reconvenção e à respectiva causa de pedir.
+Seção III
+Do Indeferimento da Petição Inicial
+
 Art. 357. Não ocorrendo nenhuma das hipóteses deste Capítulo, deverá o juiz, em decisão de saneamento e de organização do processo:
 I - resolver as questões processuais pendentes, se houver;
 II - delimitar as questões de fato sobre as quais recairá a atividade probatória, especificando os meios de prova admitidos;
@@ -170,4 +177,7 @@ art. 95.
 § 4º O juiz poderá autorizar o pagamento de até cinquenta por cento dos honorários arbitrados a favor do perito no início dos trabalhos, devendo o remanescente ser pago apenas ao final, depois de entregue o laudo e prestados todos os esclarecimentos necessários.
 § 5º Quando a perícia for inconclusiva ou deficiente, o juiz poderá reduzir a remuneração inicialmente arbitrada para o trabalho.
 § 6º Quando tiver de realizar-se por carta, poder-se-á proceder à nomeação de perito e à indicação de assistentes técnicos no juízo ao qual se requisitar a perícia.
+
+Art. 493. Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão.
+Parágrafo único. Se constatar de ofício o fato novo, o juiz ouvirá as partes sobre ele antes de decidir.
 
