@@ -36,20 +36,20 @@ Só o Orquestrador escreve neste arquivo. Status e fluxo: `validacao/prompts/01-
 | tgp-terceiros | Intervenção de terceiros | validada | 23/10/2026 |
 | tgp-sujeitos | Juiz, MP, Advocacia Pública e Defensoria | validada | 23/10/2026 |
 | tgp-atos | Atos processuais e pronunciamentos | validada | 23/10/2026 |
-| tgp-prazos | Prazos processuais | em conferência | — |
+| tgp-prazos | Prazos processuais | validada | 24/10/2026 |
 | tgp-nulidades | Nulidades processuais | validada | 23/10/2026 |
 | tgp-valor | Valor da causa | validada | 23/10/2026 |
 | tgp-despesas | Despesas e honorários | validada | 23/10/2026 |
 | tgp-ciclo | Formação, suspensão e extinção | validada | 23/10/2026 |
-| con-rito | O mapa do procedimento comum | em conferência | — |
-| con-inicial | Petição inicial | em conferência | — |
-| con-admissibilidade | Indeferimento e improcedência liminar | em conferência | — |
-| con-pedido | Pedido | em conferência | — |
-| con-audiencia334 | Audiência de conciliação ou mediação | em extração | — |
-| con-contestacao | Contestação | em conferência | — |
+| con-rito | O mapa do procedimento comum | validada | 24/10/2026 |
+| con-inicial | Petição inicial | validada | 24/10/2026 |
+| con-admissibilidade | Indeferimento e improcedência liminar | validada | 24/10/2026 |
+| con-pedido | Pedido | validada | 24/10/2026 |
+| con-audiencia334 | Audiência de conciliação ou mediação | validada | 24/10/2026 |
+| con-contestacao | Contestação | validada | 24/10/2026 |
 | con-reconvencao | Reconvenção | em conferência | — |
-| con-revelia | Revelia | em conferência | — |
-| con-preliminares | Providências preliminares | em conferência | — |
+| con-revelia | Revelia | validada | 24/10/2026 |
+| con-preliminares | Providências preliminares | validada | 24/10/2026 |
 | con-estado | Julgamento conforme o estado do processo | validada | 24/10/2026 |
 | con-saneamento | Saneamento e ônus da prova | em extração | — |
 | con-aij | Audiência de instrução e julgamento | em extração | — |

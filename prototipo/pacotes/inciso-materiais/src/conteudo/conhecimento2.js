@@ -1,14 +1,14 @@
 COURSE.mods.push(
 /* IX */
 {id:`preliminares`,group:`Organização do processo`,title:`Providências preliminares`,
-intro:`Terminada a resposta do réu, o juiz arruma a casa antes de decidir o rumo. Nem sempre há providências; quando há, elas abrem espaço para o autor falar e para corrigir vícios.`,
+intro:`Findo o prazo para contestação, o juiz toma as providências preliminares necessárias, conforme o caso. Elas podem abrir espaço para o autor falar e para corrigir vícios. Cumpridas ou dispensadas, segue-se o julgamento conforme o estado do processo (arts. 347 a 353 do CPC).`,
 blocks:[
 {t:`chooser`,h:`O que o juiz pode determinar`,items:[
-[`Revelia sem efeito`,`Autor especifica provas`,`<p>Se a revelia não produziu o efeito material (${a(`art. 345`)}), o autor é intimado a especificar as provas que pretende produzir (${a(`art. 348`)}).</p>`],
+[`Revelia sem efeito`,`Autor especifica provas`,`<p>Se a revelia não produziu o efeito material (${a(`art. 345`)}), o juiz determina que o autor especifique as provas que pretende produzir, se ainda não as tiver indicado (${a(`art. 348`)}).</p>`],
 [`Defesa indireta`,`Réplica em 15 dias`,`<p>Se o réu alegou fato impeditivo, modificativo ou extintivo do direito do autor, este responde em 15 dias, podendo produzir prova (${a(`art. 350`)}).</p>`],
 [`Preliminares`,`Réplica em 15 dias`,`<p>Se o réu alegou matérias do art. 337, o autor responde em 15 dias, com prova (${a(`art. 351`)}).</p>`],
 [`Vício sanável`,`Correção em até 30 dias`,`<p>O juiz manda corrigir em prazo não superior a 30 dias (${a(`art. 352`)}).</p>`]]},
-{t:`vs`,h:`Preliminares dilatórias × peremptórias`,l:{t:`Dilatórias`,i:[`Só atrasam o processo`,`Incompetência, nulidade de citação, incorreção do valor, conexão, incapacidade, gratuidade indevida`]},r:{t:`Peremptórias`,i:[`Encerram o processo sem mérito`,`Perempção, litispendência, coisa julgada, convenção de arbitragem, inépcia não sanada, ilegitimidade`]}},
+{t:`vs`,h:`Preliminares dilatórias × peremptórias`,l:{t:`Dilatórias`,i:[`Só atrasam o processo`,`Incompetência, nulidade de citação, incorreção do valor, conexão, incapacidade, gratuidade indevida`]},r:{t:`Peremptórias`,i:[`Encerram o processo sem mérito`,`Podem levar à extinção sem mérito: perempção, litispendência, coisa julgada, convenção de arbitragem acolhida, inépcia não sanada e ilegitimidade. Antes da extinção, cabe corrigir o vício, se possível; na ilegitimidade passiva alegada, o autor pode substituir o réu (${a(`arts. 317, 338, 339 e 485`)})`]}},
 {t:`vs`,h:`Defesa direta × indireta`,l:{t:`Direta`,i:[`Nega o fato ou suas consequências jurídicas`,`"Não houve batida"`,`Não gera réplica obrigatória`]},r:{t:`Indireta`,i:[`Admite o fato, mas opõe outro que impede, modifica ou extingue o direito`,`"Houve a dívida, mas já paguei"`,`Gera réplica (${a(`art. 350`)})`]}}],
 quiz:[[`O réu alegou pagamento. O autor:`,[`nada faz`,`é ouvido em 15 dias`],1,`Defesa indireta gera réplica (${a(`art. 350`)}).`],[`Prazo máximo para corrigir vício sanável:`,[`15 dias`,`30 dias`],1,`${a(`art. 352`)}.`]]},
 /* X */
