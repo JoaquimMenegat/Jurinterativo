@@ -196,3 +196,6 @@ a:not(.btn):not(.mod):not(.brand):not([data-nav]):not(.course):not([class]){text
   .brand .ji .jidot{animation:monostamp .62s cubic-bezier(.3,1.6,.5,1) .3s both}
   .brand:hover .ji .jidot{animation:monostamp .5s cubic-bezier(.3,1.6,.5,1)}
 }
+
+/* barra inferior (celular): rótulos sem o sublinhado de link de texto */
+#tabbar a{text-decoration:none}
