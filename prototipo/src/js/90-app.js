@@ -3,12 +3,12 @@
 /* identidade v2: cor por matéria (tom claro, para o modo escuro). Seis tons do manual "Inciso Sistema";
    só para faixa da capa, etiqueta e numerais da trilha (progresso é sempre Sálvia, alerta sempre Selo) */
 const MATTONE={SUC:['#3E6B78','#7FB0BD'],FAM:['#8C4A6E','#D08FB2'],CON:['#2F5D8A','#8DB4DE'],REA:['#6B7A2E','#B4C46E'],PEN:['#A0582A','#E39A69'],CST:['#5B4E8C','#A99DE0']};
-const MATOF={tgp:'REA',conhecimento:'FAM',procesp:'CST',sucessoes:'SUC',respciv:'CON',obrigacoes:'CON',contratos:'CON',pena:'PEN',crimes:'PEN',constituicao:'CST',estado:'CST',administrativo:'REA',filosofia:'FAM'};
+const MATOF={tgp:'REA',conhecimento:'FAM',especiais:'CST',recursos:'SUC',procesp:'CST',sucessoes:'SUC',respciv:'CON',obrigacoes:'CON',contratos:'CON',pena:'PEN',crimes:'PEN',constituicao:'CST',estado:'CST',administrativo:'REA',filosofia:'FAM'};
 const matCor=id=>(MATTONE[MATOF[id]]||MATTONE.REA)[1];
 function paintCourse(){const r=document.documentElement.style,t=MATTONE[MATOF[COURSE.id]]||MATTONE.REA;r.setProperty('--mat',t[1]);r.setProperty('--mat-base',t[0])}
 const GKEY='inciso-global-v3',CKEY=id=>'inciso-'+id+'-v3'+((COURSES[id]&&COURSES[id].ver)||'');
 /* matérias liberadas no lançamento; as demais aparecem como "em breve" */
-const LIVE=['tgp','conhecimento','procesp'],isLive=id=>LIVE.includes(id);
+const LIVE=['tgp','conhecimento','especiais','recursos'],isLive=id=>LIVE.includes(id);
 /* "Encontrou algum erro?": para onde vai o aviso do aluno. form = link de um formulário (ex.: Tally) que
    recebe materia, aula, parte e texto pelo endereço; sem form, usa o e-mail; sem nenhum dos dois, copia o aviso */
 const REPORTE={form:'',email:''};

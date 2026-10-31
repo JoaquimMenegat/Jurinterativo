@@ -12,6 +12,17 @@ import sys, re, json, shutil, pathlib
 
 AREA = {'tgp': 'Direito Processual', 'conhecimento': 'Direito Processual', 'procesp': 'Direito Processual'}
 SEED = {'tgp'}  # matérias que abrem com histórico de demonstração
+# um pacote pode virar mais de uma matéria na plataforma, separando os módulos pelo campo group
+SPLIT = {
+    'procesp': [
+        {'id': 'especiais', 'title': 'Procedimentos Especiais',
+         'groups': ['Procedimentos especiais', 'Sucessões no processo', 'Juizados e jurisdição voluntária'],
+         'intro': 'Os ritos que fogem do procedimento comum: consignação, exigir contas, possessórias, embargos de terceiro, monitória, demarcação, dissolução parcial de sociedade, inventário, Juizados Especiais e jurisdição voluntária.'},
+        {'id': 'recursos', 'title': 'Recursos',
+         'groups': ['Recursos'],
+         'intro': 'Precedentes e julgamento nos tribunais, teoria geral dos recursos, admissibilidade, efeitos, os recursos em espécie e casos práticos.'},
+    ],
+}
 
 def main(pkg):
     pkg = pathlib.Path(pkg)
@@ -86,9 +97,17 @@ h1,h2,h3,h4,.flip .f strong,.tl .it b,.stage h4,.wiz .q,.wiz .end .t,.jc .tese,.
         data = ''.join(p.read_text(encoding='utf-8') for p in parts)
         data = data.replace('window.COURSE=', 'PK.c=').replace('COURSE.mods.push(', 'PK.c.mods.push(')
         opts = {'area': AREA.get(cid, 'Direito'), 'seed': cid in SEED}
+        if cid in SPLIT:
+            reg = ''.join(
+                f"defPackCourse(Object.assign({{}},PK.c,{{id:{json.dumps(p['id'])},title:{json.dumps(p['title'], ensure_ascii=False)},"
+                f"intro:{json.dumps(p['intro'], ensure_ascii=False)},"
+                f"mods:PK.c.mods.filter(m=>{json.dumps(p['groups'], ensure_ascii=False)}.includes(m.group))}}),{json.dumps(opts)});\n"
+                for p in SPLIT[cid])
+        else:
+            reg = f"defPackCourse(PK.c,{json.dumps(opts)});\n"
         js = (f"/* ================= Matéria: {cid} (gerado por importar_pacote.py — não editar) ================= */\n"
               "(function(){\nconst a=s=>`<span class=\"art-ref\">${s}</span>`;const PK={};\n"
-              + data + f"\ndefPackCourse(PK.c,{json.dumps(opts)});\n}})();\n")
+              + data + "\n" + reg + "})();\n")
         (out / f'6{n}-pk-{cid}.js').write_text(js, encoding='utf-8')
         print(cid, len(js))
 

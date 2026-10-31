@@ -28,10 +28,11 @@ O projeto nasceu do interesse de um professor em vender material de estudo. **De
   - O acesso deve ter prazo definido, não "vitalício".
   - Erros de conteúdo continuam sendo corrigidos para todos.
 - **Mensalidade só se a ideia for validada**, ou seja, se houver pessoas usando e gostando. Isso se mede pelo retorno dos alunos, pelas aulas concluídas, pela avaliação ao fim de cada aula, pelos poucos reembolsos e pelas indicações.
-- **Lançamento com as 3 matérias de processo:**
-  - Teoria Geral do Processo;
+- **Lançamento com 4 matérias de processo** (nomes de 31/10/2026; vêm de 3 pacotes, e o de Procedimentos Especiais e Recursos é dividido em duas matérias pelo `SPLIT` de `prototipo/importar_pacote.py`):
+  - Introdução ao Processo Civil (antes "Teoria Geral do Processo"; id interno `tgp`);
   - Processo de Conhecimento;
-  - Procedimentos Especiais e Recursos.
+  - Procedimentos Especiais (14 aulas; id `especiais`);
+  - Recursos (6 aulas; id `recursos`).
 
   As outras 10 aparecem como "Em breve".
 - **Meta (atualizada em 12/10/2026):** publicar na Kiwify até 04/11/2026, depois de um piloto de uma semana. Passos em `prototipo/roadmap-kiwify.md`.

@@ -4923,10 +4923,10 @@ function defPackCourse(C,opt){
 /* ================= Matéria: tgp (gerado por importar_pacote.py — não editar) ================= */
 (function(){
 const a=s=>`<span class="art-ref">${s}</span>`;const PK={};
-PK.c={id:`tgp`,title:`Teoria Geral do Processo`,kicker:`Matéria I`,h1a:`Teoria geral`,h1b:`do processo`,
+PK.c={id:`tgp`,title:`Introdução ao Processo Civil`,kicker:`Matéria I`,h1a:`Introdução ao`,h1b:`processo civil`,
 intro:`Jurisdição, ação e processo, do princípio ao fim do processo: competência, sujeitos, terceiros, prazos, nulidades e custos. Cada módulo tem simuladores e termina com um teste.`,
 seal:{ring:`JURISDIÇÃO • AÇÃO • PROCESSO • LEI 13.105/2015 • `,word:`Processo`,sub:`inércia e impulso`},
-footer:`JurInterativo — Teoria Geral do Processo. Conteúdo escrito a partir do Código de Processo Civil (Lei 13.105/2015), da Constituição Federal e da legislação citada. Material em revisão jurídica: confira sempre o texto vigente.`,
+footer:`JurInterativo — Introdução ao Processo Civil. Conteúdo escrito a partir do Código de Processo Civil (Lei 13.105/2015), da Constituição Federal e da legislação citada. Material em revisão jurídica: confira sempre o texto vigente.`,
 mods:[
 /* ================= I ================= */
 {id:`fundamentos`,group:`Fundamentos`,title:`Jurisdição, ação e processo`,
@@ -5965,7 +5965,8 @@ blocks:[
 quiz:[[`Recurso contra acórdão de TRF que interpreta lei federal de forma divergente:`,[`RE`,`REsp`],1,`${a(`CF, art. 105, III, c`)}. A demonstração da relevância da questão federal, em tópico específico e fundamentado, é exigida nos REsp contra acórdãos publicados a partir de 03/09/2026, conforme o marco anunciado pelo STJ para a Lei 15.484/2026 (${a(`CPC, art. 1.035-A`)}).`],[`Embargos de declaração modificaram a sentença depois da apelação. Quem já apelou:`,[`nada pode fazer`,`pode complementar em 15 dias úteis`],1,`Nos limites da modificação, contados os 15 dias úteis da intimação da decisão dos embargos (${a(`arts. 1.024, §4º, e 219`)}).`],[`Depósito integral da condenação sem ressalva antes de apelar gera:`,[`preclusão lógica`,`preclusão temporal`],0,`Aquiescência tácita.`]]}
 );
 
-defPackCourse(PK.c,{"area": "Direito Processual", "seed": false});
+defPackCourse(Object.assign({},PK.c,{id:"especiais",title:"Procedimentos Especiais",intro:"Os ritos que fogem do procedimento comum: consignação, exigir contas, possessórias, embargos de terceiro, monitória, demarcação, dissolução parcial de sociedade, inventário, Juizados Especiais e jurisdição voluntária.",mods:PK.c.mods.filter(m=>["Procedimentos especiais", "Sucessões no processo", "Juizados e jurisdição voluntária"].includes(m.group))}),{"area": "Direito Processual", "seed": false});
+defPackCourse(Object.assign({},PK.c,{id:"recursos",title:"Recursos",intro:"Precedentes e julgamento nos tribunais, teoria geral dos recursos, admissibilidade, efeitos, os recursos em espécie e casos práticos.",mods:PK.c.mods.filter(m=>["Recursos"].includes(m.group))}),{"area": "Direito Processual", "seed": false});
 })();
 
 /* ================= estado ================= */
@@ -5973,12 +5974,12 @@ defPackCourse(PK.c,{"area": "Direito Processual", "seed": false});
 /* identidade v2: cor por matéria (tom claro, para o modo escuro). Seis tons do manual "Inciso Sistema";
    só para faixa da capa, etiqueta e numerais da trilha (progresso é sempre Sálvia, alerta sempre Selo) */
 const MATTONE={SUC:['#3E6B78','#7FB0BD'],FAM:['#8C4A6E','#D08FB2'],CON:['#2F5D8A','#8DB4DE'],REA:['#6B7A2E','#B4C46E'],PEN:['#A0582A','#E39A69'],CST:['#5B4E8C','#A99DE0']};
-const MATOF={tgp:'REA',conhecimento:'FAM',procesp:'CST',sucessoes:'SUC',respciv:'CON',obrigacoes:'CON',contratos:'CON',pena:'PEN',crimes:'PEN',constituicao:'CST',estado:'CST',administrativo:'REA',filosofia:'FAM'};
+const MATOF={tgp:'REA',conhecimento:'FAM',especiais:'CST',recursos:'SUC',procesp:'CST',sucessoes:'SUC',respciv:'CON',obrigacoes:'CON',contratos:'CON',pena:'PEN',crimes:'PEN',constituicao:'CST',estado:'CST',administrativo:'REA',filosofia:'FAM'};
 const matCor=id=>(MATTONE[MATOF[id]]||MATTONE.REA)[1];
 function paintCourse(){const r=document.documentElement.style,t=MATTONE[MATOF[COURSE.id]]||MATTONE.REA;r.setProperty('--mat',t[1]);r.setProperty('--mat-base',t[0])}
 const GKEY='inciso-global-v3',CKEY=id=>'inciso-'+id+'-v3'+((COURSES[id]&&COURSES[id].ver)||'');
 /* matérias liberadas no lançamento; as demais aparecem como "em breve" */
-const LIVE=['tgp','conhecimento','procesp'],isLive=id=>LIVE.includes(id);
+const LIVE=['tgp','conhecimento','especiais','recursos'],isLive=id=>LIVE.includes(id);
 /* "Encontrou algum erro?": para onde vai o aviso do aluno. form = link de um formulário (ex.: Tally) que
    recebe materia, aula, parte e texto pelo endereço; sem form, usa o e-mail; sem nenhum dos dois, copia o aviso */
 const REPORTE={form:'',email:''};
