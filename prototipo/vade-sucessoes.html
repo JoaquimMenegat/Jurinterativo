@@ -1506,16 +1506,32 @@ a:not(.btn):not(.mod):not(.brand):not([data-nav]):not(.course):not([class]){text
 
 /* barra inferior (celular): rótulos sem o sublinhado de link de texto */
 #tabbar a{text-decoration:none}
+
+/* canto superior esquerdo: wordmark JurInterativo por extenso (manual: Caslon 700, pingo do último "i" como selo) */
+.wmx{display:inline-block;font:700 26px/1 var(--caslon);color:var(--ink);white-space:nowrap;letter-spacing:-.01em}
+.wmx-i{position:relative;display:inline-block}
+.wmx-dot{position:absolute;left:50%;top:-.02em;width:.21em;height:.21em;margin-left:-.08em;border-radius:50%!important;background:var(--seal)}
+.mtop .wmx{font-size:22px}
+@media (prefers-reduced-motion:no-preference){
+  .wmx-dot{animation:monostamp .62s cubic-bezier(.3,1.6,.5,1) .3s both}
+  .brand:hover .wmx-dot{animation:monostamp .5s cubic-bezier(.3,1.6,.5,1)}
+}
+.brand .wmx,.brand .wmx span,.mtop .wmx,.mtop .wmx span{text-transform:none;letter-spacing:-.01em;color:var(--ink);font-family:var(--caslon);font-weight:700}
+.side .brand .wmx{font-size:26px}
+.mtop .brand .wmx{font-size:22px}
+.brand .wmx .wmx-dot,.mtop .wmx .wmx-dot{background:var(--seal)}
+.brand .wmx span,.mtop .wmx span{font-size:inherit;line-height:inherit}
+a.brand{text-decoration:none}
 </style>
 
 <div class="app">
   <header class="side" aria-label="Navegação">
-    <a class="brand" href="#materias" aria-label="JurInterativo, início"><svg class="ji" viewBox="0 0 32 32" aria-hidden="true"><path d="M13.6 6.5V19.8a3.9 3.9 0 0 1-7.8 0" fill="none" stroke="currentColor" stroke-width="5.6"/><rect x="9.2" y="4.6" width="9.6" height="3.6" fill="currentColor"/><rect x="19" y="11.6" width="5.6" height="14.6" fill="currentColor"/><rect x="17.2" y="11.6" width="7.4" height="3.3" fill="currentColor"/><rect x="17" y="22.9" width="9.6" height="3.3" fill="currentColor"/><circle class="jidot" cx="21.8" cy="7" r="3.3" fill="var(--seal)"/></svg></a>
+    <a class="brand" href="#materias" aria-label="JurInterativo, início"><span class="wmx" aria-hidden="true">JurInterat<span class="wmx-i">ı<span class="wmx-dot"></span></span>vo</span></a>
     <a class="course" id="course" href="#materias"></a>
     <nav class="nav" id="nav"></nav>
   </header>
   <main>
-    <div class="mtop"><a class="brand" href="#materias" aria-label="JurInterativo, início"><svg class="ji" viewBox="0 0 32 32" aria-hidden="true"><path d="M13.6 6.5V19.8a3.9 3.9 0 0 1-7.8 0" fill="none" stroke="currentColor" stroke-width="5.6"/><rect x="9.2" y="4.6" width="9.6" height="3.6" fill="currentColor"/><rect x="19" y="11.6" width="5.6" height="14.6" fill="currentColor"/><rect x="17.2" y="11.6" width="7.4" height="3.3" fill="currentColor"/><rect x="17" y="22.9" width="9.6" height="3.3" fill="currentColor"/><circle class="jidot" cx="21.8" cy="7" r="3.3" fill="var(--seal)"/></svg></a><span id="mtopc"></span></div>
+    <div class="mtop"><a class="brand" href="#materias" aria-label="JurInterativo, início"><span class="wmx" aria-hidden="true">JurInterat<span class="wmx-i">ı<span class="wmx-dot"></span></span>vo</span></a><span id="mtopc"></span></div>
     <div class="view" id="view"></div>
   </main>
 </div>
